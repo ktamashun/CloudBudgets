@@ -1,0 +1,83 @@
+
+.nav > li > a:hover {
+  text-decoration: none;
+  background-color: #e0e0e0;
+}
+
+.navbar .nav > li > a {
+	color: #ffffff;
+	opacity: 0.6;
+	filter: alpha(opacity=60);
+}
+.navbar .nav > .active > a,
+.navbar .nav > li > a:hover {
+	opacity: 1;
+	filter: alpha(opacity=100);
+}
+
+.table-striped tbody tr:nth-child(odd) td,
+.table-striped tbody tr:nth-child(odd) th {
+  background-color: #f5f5f5;
+}
+.table tbody tr:hover td,
+.table tbody tr:hover th {
+  background-color: #d9edf7;
+}
+
+span.required {
+	color: red;
+}
+
+.total-balance {
+	text-align: center;
+}
+.total-balance h3 {
+	margin-bottom: 10px;
+	font-size: 16px;
+}
+.toolbar {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding: 5px 5px 2px 5px;
+	border-bottom: 1px solid #dddddd;
+	background-color: #efefef;
+}
+.toolbar .button-container {
+	text-align: right;
+}
+
+.balance-value {
+
+}
+.positive-balance {
+	color: #356635;
+}
+.zero-balance {
+	color: #333;
+}
+.negative-balance {
+	color: #953b39;
+}
+
+
+.account-sidebar li a .balance-value {
+	float: right;
+}
+.account-sidebar .nav .nav-header {
+  padding: 3px 0px;
+}
+
+.currency-control {
+	text-align: right;
+}
+
+.datepicker {
+	width: 70px;
+	text-align: center;
+}
+
+.table .btn-action {
+	padding: 2px 6px;
+	margin: 0px;
+	line-height: 0px;
+}

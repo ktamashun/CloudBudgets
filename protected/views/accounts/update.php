@@ -1,0 +1,1 @@
+<?php echo $this->renderPartial('_form', array('model' => $model, 'legend' => 'Update account', 'submitValue' => 'Update account')); ?>

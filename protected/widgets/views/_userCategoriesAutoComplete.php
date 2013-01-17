@@ -1,0 +1,2 @@
+<?php $value = null === $this->model->category ? '' : $this->model->category->name; ?>
+<input data-provide="typeahead" data-items="4" data-source='["<?php echo implode('","', $this->user->getCategoriessAsDropDownListSource()); ?>"]' name="<?php echo $this->model_name . '[' . $this->attribute . ']'; ?>" id="<?php echo $this->model_name . '_' . $this->attribute; ?>" type="text" autocomplete="off" value="<?php echo $value; ?>" />

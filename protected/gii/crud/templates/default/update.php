@@ -1,0 +1,1 @@
+<?php echo"<?php echo \$this->renderPartial('_form', array('model' => \$model, 'legend' => 'Update " . strtolower($this->class2name($this->modelClass)) . "', 'submitValue' => 'Update " . strtolower($this->class2name($this->modelClass)) . "')); ?>"; ?>

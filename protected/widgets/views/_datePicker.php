@@ -1,0 +1,1 @@
+<?php echo $this->form->textField($this->model, $this->attribute, array('class' => implode(' ', $this->class), 'id' => $this->id)); ?><span class="add-on btn" onclick="$('#<?php echo $this->id; ?>').trigger('focus'); "><span class="icon-calendar"></span></span>
