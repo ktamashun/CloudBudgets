@@ -51,7 +51,7 @@ return array(
 	),
 
 	'transactionBalanceAccount_1' => array(
-		'user_id' => 4,
+		'user_id' => 2,
 		'account_type_id' => Account::TYPE_CASH,
 		'name' => 'transactionBalanceAccount_1',
 		'currency_id' => 37,
@@ -60,7 +60,7 @@ return array(
 	),
 
 	'transactionBalanceAccount_2' => array(
-		'user_id' => 4,
+		'user_id' => 2,
 		'account_type_id' => Account::TYPE_CHECKING,
 		'name' => 'transactionBalanceAccount_2',
 		'currency_id' => 37,

@@ -10,9 +10,7 @@ class CategoryTest extends CDbTestCase
 
 	public function testGetOrCreateModelByName()
 	{
-		$user = new User();
-		$user->attributes = $this->users['activeUser_1'];
-		$user->save(false);
+		$user = User::model()->findByPk($this->users['ktamasTest']['id']);
 
         $category = Category::getOrCreateModelByName('Food', $user);
         $this->assertNotNull($category->id);
@@ -23,9 +21,7 @@ class CategoryTest extends CDbTestCase
 
     public function testGetOrCreateModelByNameWontReturnCategoryWithWrongUser()
     {
-		$user = new User();
-		$user->attributes = $this->users['activeUser_2'];
-		$user->save(false);
+		$user = User::model()->findByPk($this->users['kpistaTest']['id']);
 
         $category = Category::getOrCreateModelByName('Food', $user);
         $this->assertNotNull($category->id);

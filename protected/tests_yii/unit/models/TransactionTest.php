@@ -8,7 +8,7 @@ class TransactionTest extends CDbTestCase
 		'transactions' => 'Transaction'
 	);
 
-
+/*
 	public function testAmountIsNegativeWhenExpense()
 	{
 		$transaction = new Transaction();
@@ -33,17 +33,18 @@ class TransactionTest extends CDbTestCase
 
 		$this->assertEquals(3500.00, $transaction->amount);
 	}
-
+*/
 	public function testAccountsActualBalanceIsUpdated()
 	{
 		$initital_balance = 10000.00;
 
 		$account = $this->accounts('cashAccount_1');
-		$account->initial_balance = $initital_balance;
+		$account->initial_balance = 10000.00;
 		$account->save();
 		$account_id = $account->id;
+        $initital_balance = $account->actual_balance;
 
-		// EXPENSE
+        // EXPENSE
 
 		$amount1 = 3450.00;
 

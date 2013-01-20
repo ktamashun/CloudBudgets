@@ -17,7 +17,7 @@ class UserTest extends CDbTestCase
 	public function getNewUser()
 	{
 		$user = new User('register');
-		$user->attributes = $this->users['testUser_1'];
+		$user->attributes = $this->users['ktamasTest'];
 
 		return $user;
 	}
@@ -138,7 +138,7 @@ class UserTest extends CDbTestCase
     
     public function testGetAccountsAsDropDownListSource()
     {
-		$user = $this->users('testUser_1');
+		$user = $this->users('ktamasTest');
         $accountsArray = $user->getAccountsAsDropDownListSource();
         
         foreach ($accountsArray as $accountId => $accountName) {
@@ -151,7 +151,7 @@ class UserTest extends CDbTestCase
     
     public function testGetCategoriesAsDropDownListSource()
     {
-		$user = $this->users('testUser_1');
+		$user = $this->users('ktamasTest');
         $categoriesArray = $user->getCategoriessAsDropDownListSource();
         
         foreach ($categoriesArray as $categoryId => $categoryName) {
@@ -164,7 +164,7 @@ class UserTest extends CDbTestCase
     
     public function testHasRightToOwnAccount()
     {
-		$user = $this->users('testUser_1');
+		$user = $this->users('ktamasTest');
         $account1 = $this->accounts('cashAccount_1');
         
         $this->assertEquals($user->id, $account1->user_id);
@@ -173,7 +173,7 @@ class UserTest extends CDbTestCase
     
     public function testDoesNotHaveRightToOthersAccount()
     {
-		$user = $this->users('activeUser_1');
+		$user = $this->users('kpistaTest');
         $account1 = $this->accounts('cashAccount_1');
         
         $this->assertNotEquals($user->id, $account1->user_id);
@@ -182,7 +182,7 @@ class UserTest extends CDbTestCase
     
     public function testHasRightToOwnCategory()
     {
-		$user = $this->users('activeUser_1');
+		$user = $this->users('ktamasTest');
         $category = $this->categories('All_1');
         
         $this->assertEquals($user->id, $category->user_id);
@@ -191,7 +191,7 @@ class UserTest extends CDbTestCase
     
     public function testDoesNotHaveRightToOthersCategory()
     {
-		$user = $this->users('testUser_1');
+		$user = $this->users('kpistaTest');
         $category = $this->categories('All_1');
         
         $this->assertNotEquals($user->id, $category->user_id);
@@ -200,7 +200,7 @@ class UserTest extends CDbTestCase
     
     public function testHasRightToOwnTransaction()
     {
-		$user = $this->users('testUser_1');
+		$user = $this->users('ktamasTest');
         $transaction = $this->transactions('notSaved_1');
         
         $this->assertEquals($user->id, $transaction->account->user_id);
@@ -209,7 +209,7 @@ class UserTest extends CDbTestCase
     
     public function testDoesNotHaveRightToOthersTransaction()
     {
-		$user = $this->users('activeUser_1');
+		$user = $this->users('kpistaTest');
         $transaction = $this->transactions('notSaved_1');
 
         $this->assertNotEquals($user->id, $transaction->account->user_id);

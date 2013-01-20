@@ -433,7 +433,8 @@ class User extends CActiveRecord
 
 	/**
 	 *
-	 */public function updateAccounts()
+	 */
+    public function updateAccounts()
 	{
 		foreach ($this->accounts as $account) {
 			$account->save();

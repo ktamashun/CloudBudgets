@@ -13,4 +13,4 @@ modules:
         - WebHelper
     config:
         PhpBrowser:
-            url: 'http://localhost/myapp/'
+            url: 'http://cloudbudgets.debian/index-test.php/'

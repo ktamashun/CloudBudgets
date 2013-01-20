@@ -50,7 +50,7 @@ class AccountTest extends CDbTestCase
     
     public function testDeleteWithDeletingTransactions()
     {
-		$account = $this->accounts('activeAccount_1');
+		$account = $this->accounts('cashAccount_1');
         
         $transactions = $account->transactions;
         $this->assertTrue(count($transactions) > 0);
@@ -63,8 +63,8 @@ class AccountTest extends CDbTestCase
     
     public function testMoveTransactionsToAccount()
     {
-		$account1 = $this->accounts('activeAccount_1');
-		$account2 = $this->accounts('cashAccount_1');
+		$account1 = $this->accounts('cashAccount_1');
+		$account2 = $this->accounts('activeAccount_1');
         
         $transactions = $account1->transactions;
         $this->assertTrue(count($transactions) > 0);

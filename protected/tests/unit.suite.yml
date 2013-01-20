@@ -3,4 +3,11 @@
 # suite for unit (internal) tests.
 class_name: CodeGuy
 modules:
-    enabled: [Unit, CodeHelper]
+    enabled: [Unit, Db, CodeHelper]
+
+    config:
+        Db:
+            dsn: 'mysql:host=localhost;dbname=cloudbudgets_test'
+            user: 'root'
+            password: 'hTaccToSQL'
+            dump: tests/_data/dump.sql
