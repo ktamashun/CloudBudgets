@@ -23,16 +23,19 @@
 
 <?php
 
+$actYear = date('Y')-1;
+$actInterval = $actYear . date('/m');
+
 $this->Widget('application.widgets.ReportPieChart', array(
     'options' => array(
         'chart' => array(
             'renderTo' => 'chartContainer',
         ),
-        'title' => array('text' => 'July expenses'),
+        'title' => array('text' => $actInterval . ' expenses'),
         'series' => array(
             array(
                 'name' => 'Dataset',
-                'data' => Reporter::instance()->getCategoryReportData(array('interval' => '2012/09')),
+                'data' => Reporter::instance()->getCategoryReportData(array('interval' => $actInterval)),
             ),
         )
     )
@@ -44,8 +47,8 @@ $this->Widget('application.widgets.ReportColumnChart', array(
         'chart' => array(
             'renderTo' => 'chartContainer2',
         ),
-        'title' => array('text' => '2012 expense/income summary'),
-        'series' => Reporter::instance()->getExpenseIncomeReportSeriesByMonth(array('interval' => '2012')),
+        'title' => array('text' => $actYear . ' expense/income summary'),
+        'series' => Reporter::instance()->getExpenseIncomeReportSeriesByMonth(array('interval' => $actYear)),
     )
 ));
 

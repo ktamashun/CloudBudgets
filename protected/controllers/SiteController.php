@@ -214,7 +214,7 @@ class SiteController extends Controller
 		}*/
 
 		$user = new User('register');
-		$user->name = 'Test user 1';
+		$user->first_name = 'Test user 1';
 		$user->country_id = 1;
 		$user->save(false);
 

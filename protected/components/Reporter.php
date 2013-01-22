@@ -54,21 +54,26 @@ class Reporter extends CComponent
 
         $sql = "
             SELECT
-            	c1.id, c1.`name`, ABS(SUM(t.amount)) AS `transactionSum`
+            	c2.id, c2.`name`, ABS(SUM(t.amount)) AS `transactionSum`
             FROM
             	`transaction` t
+			JOIN
+				`account` a ON (a.id = t.account_id AND a.user_id = {$user->id})
             JOIN
-            	category c1 ON (
-                    t.category_id = c1.id
-                    AND c1.user_id = {$user->id}
-                    AND c1.`level` = {$options['categoryLevel']}
-                    AND t.transaction_type_id = {$options['transactionType']}
-                    {$intervalSql}
-                )
+				category c1 ON (
+					t.category_id = c1.id
+				)
             JOIN
-            	category c2 ON (c2.lft >= c1.lft AND c2.rgt <= c1.rgt)
+				category c2 ON (
+					c2.user_id = c1.user_id
+					AND c2.lft <= c1.lft AND c2.rgt >= c1.rgt
+					AND c2.`level` = {$options['categoryLevel']}
+				)
+			WHERE
+				t.transaction_type_id = {$options['transactionType']}
+				{$intervalSql}
             GROUP BY
-            	c1.`name`
+            	c2.`name`
             ORDER BY
             	transactionSum DESC;
         ";

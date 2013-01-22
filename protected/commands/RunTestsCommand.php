@@ -4,7 +4,7 @@ class RunTestsCommand extends Command
 {
 	public function actionIndex()
 	{
-		$dir = realpath(dirname(__FILE__).'/../tests_yii');
+		$dir = realpath(dirname(__FILE__).'/../tests');
 
 		$this->_log('Running PhpUnit tests.. ');
 		$command = "cd {$dir}; phpunit unit; ";

@@ -6,15 +6,9 @@ return CMap::mergeArray(
 		'components'=>array(
 			'fixture'=>array(
 				'class'=>'system.test.CDbFixtureManager',
-                'basePath' => dirname(__FILE__).'/../tests_yii/fixtures'
+                'basePath' => dirname(__FILE__).'/../tests/fixtures'
 			),
-			'db'=>array(
-				'connectionString' => 'mysql:host=localhost;dbname=cloudbudgets_test',
-				'emulatePrepare' => true,
-				'username' => 'root',
-				'password' => 'hTaccToSQL',
-				'charset' => 'utf8',
-			),
+			'db'=>require dirname(__FILE__) . '/db_test.php',
 		),
 	)
 );

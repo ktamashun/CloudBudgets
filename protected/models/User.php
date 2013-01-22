@@ -6,8 +6,8 @@
  * The followings are the available columns in table 'user':
  * @property integer $id
  * @property string $created_at
- * @property string $name
- * @property string $username
+ * @property string $first_name
+ * @property string $last_name
  * @property string $email_address
  * @property string $password
  * @property integer $country_id
@@ -21,6 +21,8 @@
  * @property Category[] $categories
  * @property Country $country
  * @property UserLogin[] $userLogins
+ *
+ * @method User findByPk(int $id) Returns the user with the given id.
  */
 class User extends CActiveRecord
 {
@@ -73,15 +75,15 @@ class User extends CActiveRecord
 		// NOTE: you should only define rules for those attributes that
 		// will receive user inputs.
 		return array(
-			array('name, username, email_address, password, country_id, city, default_currency_id', 'required'),
+			array('first_name, last_name, email_address, password, country_id, city, default_currency_id', 'required'),
 			array('country_id, default_currency_id, status', 'numerical', 'integerOnly'=>true),
-			array('name, email_address', 'length', 'max'=>255),
-			array('username, password, activation_code', 'length', 'max'=>50),
+			array('first_name, email_address', 'length', 'max'=>255),
+			array('last_name, password, activation_code', 'length', 'max'=>50),
 			array('password', 'length', 'min'=>6),
 			array('city', 'length', 'max'=>100),
 			// The following rule is used by search().
 			// Please remove those attributes that should not be searched.
-			array('id, created_at, name, username, email_address, password, country_id, city, default_currency_id, status, activation_code', 'safe', 'on'=>'search'),
+			array('id, created_at, first_name, last_name, email_address, password, country_id, city, default_currency_id, status, activation_code', 'safe', 'on'=>'search'),
 
 			array('email_address', 'unique', 'className' => 'User'),
 			array('password', 'compare', 'compareAttribute' => 'password2', 'on' => 'register'),
@@ -126,8 +128,8 @@ class User extends CActiveRecord
 		return array(
 			'id' => 'ID',
 			'created_at' => 'Created At',
-			'name' => 'First name',
-			'username' => 'Last name',
+			'first_name' => 'First name',
+			'last_name' => 'Last name',
 			'email_address' => 'Email Address',
 			'password' => 'Password',
 			'password2' => 'Retype password',

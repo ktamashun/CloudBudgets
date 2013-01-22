@@ -27,7 +27,6 @@ class UserIdentity extends CUserIdentity
 
 		if(null === $user) {
 			$this->errorCode=self::ERROR_PASSWORD_INVALID;
-			//$this->errorCode=self::ERROR_USERNAME_INVALID;
 		} else {
 			$this->errorCode=self::ERROR_NONE;
 			$this->user = $user;
@@ -49,7 +48,7 @@ class UserIdentity extends CUserIdentity
 
 	public function getName()
 	{
-		return $this->user->name;
+		return $this->user->first_name;
 	}
 
 	public function getId()

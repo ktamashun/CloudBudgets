@@ -52,13 +52,7 @@ return array(
           ), */
         // uncomment the following to use a MySQL database
 
-        'db' => array(
-            'connectionString' => 'mysql:host=localhost;dbname=cloudbudgets',
-            'emulatePrepare' => true,
-            'username' => 'root',
-            'password' => 'hTaccToSQL',
-            'charset' => 'utf8',
-        ),
+		'db'=>require dirname(__FILE__) . '/db_dev.php',
         'errorHandler' => array(
             // use 'site/error' action to display errors
             'errorAction' => 'site/error',

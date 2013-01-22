@@ -234,8 +234,7 @@ class Category extends CActiveRecord
 			),
 			'Personal Care' => array(
 				'Hair dresser'
-			),
-			'Travel'
+			)
 		);
 	}
 }

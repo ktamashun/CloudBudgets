@@ -9,8 +9,6 @@ class ApplicationController extends Controller
 
 	public function actionDashboard($pageNumber = 1)
 	{
-		$this->user->registerTasks();
-
 		$criteriaArray = $this->user->getTransactionsCriteria();
 
 		$pager = Yii::app()->pager;

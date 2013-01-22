@@ -1,4 +1,5 @@
 #!/usr/bin/env php
 <?php
 
-require_once(dirname(__FILE__).'/yiic.php');
+require_once(getcwd().'/yiic.php');
+exec('chown -R www-data:www-data ' . getcwd());

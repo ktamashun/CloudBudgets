@@ -20,16 +20,16 @@
 				<?php echo $form->errorSummary($user); ?>
 
 				<div class="control-group">
-					<?php echo $form->labelEx($user, 'name', array('class' => 'control-label')); ?>
+					<?php echo $form->labelEx($user, 'first_name', array('class' => 'control-label')); ?>
 					<div class="controls">
-						<?php echo $form->textField($user, 'name', array('class' => 'input-xlarge')); ?>
+						<?php echo $form->textField($user, 'first_name', array('class' => 'input-xlarge')); ?>
 					</div>
 				</div>
 
 				<div class="control-group">
-					<?php echo $form->labelEx($user, 'username', array('class' => 'control-label')); ?>
+					<?php echo $form->labelEx($user, 'last_name', array('class' => 'control-label')); ?>
 					<div class="controls">
-						<?php echo $form->textField($user, 'username', array('class' => 'input-xlarge')); ?>
+						<?php echo $form->textField($user, 'last_name', array('class' => 'input-xlarge')); ?>
 					</div>
 				</div>
 
