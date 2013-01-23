@@ -13,6 +13,7 @@ return array(
     'import' => array(
         'application.models.*',
         'application.components.*',
+        'application.components.TransactionImporter.*',
         'application.widgets.*',
     ),
     'modules' => array(

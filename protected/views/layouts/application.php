@@ -34,14 +34,14 @@
 						</li>
 
 					</ul>
-				</div><!--/.nav-collapse -->
+				</div>
 			</div>
 		</div>
 	</div>
 
 	<div class="container-fluid">
 		<div class="row-fluid">
-			<div class="span3">
+			<div id="sidebar" class="span3">
 				<div class="well sidebar-nav total-balance" >
 					<h3>Total balance: <em><span class="positive-balance"><?php $this->widget('HtmlMoneyValue', array('value' => $this->user->totalBalance)); ?></span></em></h3>
 
@@ -54,7 +54,7 @@
 							<li class="divider"></li>
 							<li><?php echo CHtml::link('Import transactions', array('transaction/import')); ?></li>
 						</ul>
-					</div><!-- /btn-group -->
+					</div>
 				</div>
 
 				<div class="well sidebar-nav account-sidebar">
@@ -119,16 +119,16 @@
 
 					<?php echo CHtml::link('<span class="icon-plus"></span> Add account', array('/accounts/create'), array('class' => 'btn btn-small', 'style' => 'margin-left: 15px; ')); ?>
 					<?php echo CHtml::link('<span class="icon-pencil"></span> Edit accounts', array('/accounts'), array('class' => 'btn btn-small', 'style' => 'margin-right: 15px; float: right; ')); ?>
-				</div><!--/.well -->
-			</div><!--/span-->
+				</div>
+			</div>
 			<div class="span9">
 				<?php echo $content; ?>
-			</div><!--/span-->
-		</div><!--/row-->
+			</div>
+		</div>
 		<hr />
 
 		<footer>
-			<?php /*p>&copy; Company 2012</p */ ?>
+			<p>&copy; CloudBudgets 2012</p>
 		</footer>
 
 	</div><!--/.fluid-container-->

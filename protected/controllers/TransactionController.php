@@ -201,6 +201,25 @@ class TransactionController extends Controller
 
 	public function actionImport()
 	{
+		if(1 || isset($_FILES['importFile']))
+		{
+			set_time_limit(600);
+
+			$savedFileName = 'protected/data/userFiles/transactionImport_2.csv';
+
+			/*$file = CUploadedFile::getInstanceByName('importFile');
+			$success = $file->saveAs($savedFileName);*/
+
+			if (true) {
+				$fileReader = new FileReader($savedFileName);
+				$transactionImporter = new Buxfer($fileReader);
+
+				$fileReader->open()->readLine();
+				$row = $fileReader->readLine();
+				echo $row;
+			}
+		}
+
 		/*if(isset($_FILES['importFile']))
 		{
 			set_time_limit(600);

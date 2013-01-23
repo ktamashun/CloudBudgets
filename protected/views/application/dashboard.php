@@ -23,7 +23,7 @@
 
 <?php
 
-$actYear = date('Y')-1;
+$actYear = date('Y');
 $actInterval = $actYear . date('/m');
 
 $this->Widget('application.widgets.ReportPieChart', array(
