@@ -15,7 +15,8 @@
 								<a class="close" data-dismiss="alert">&times;</a>
 								<h4>Congratulation!</h4>
 								<br />
-								<?php echo Yii::app()->user->getFlash('budgets'); ?>							</div>
+								<?php echo Yii::app()->user->getFlash('budgets'); ?>
+							</div>
 						</div>
 					</div>
 				<?php endif; ?>
@@ -34,25 +35,34 @@
 					</div>
 				</div>
 
-                        	            	            	            	
-            	<div class="control-group">
-                    <?php echo $form->labelEx($model,'name', array('class' => 'control-label')); ?>
+				
+				<div class="control-group">
+					<?php echo $form->labelEx($model, 'category_id', array('class' => 'control-label')); ?>
 					<div class="controls">
-                        <?php echo $form->textField($model, 'name', array('size' => 60, 'maxlength' => 255, 'class' => 'input-xlarge')); ?>
+						<?php $this->widget('UserCategoriesSelect', array(
+							'form' => $form,
+							'user' => $this->user,
+							'model' => $model,
+							'model_name' => 'Budget',
+							'attribute' => 'category_id',
+						)); ?>
 					</div>
 				</div>
-                        	
-            	<div class="control-group">
-                    <?php echo $form->labelEx($model,'value', array('class' => 'control-label')); ?>
+
+				<div class="control-group">
+					<?php echo $form->labelEx($model, 'limit', array('class' => 'control-label')); ?>
 					<div class="controls">
-                        <?php echo $form->textField($model, 'value', array('class' => 'input-xlarge')); ?>
+						<div class="input-prepend input-append">
+							<?php echo $form->textField($model, 'limit', array('class' => 'input-xlarge span1 currency-control')); ?><span class="add-on"><?php echo $this->user->defaultCurrency->iso_code; ?></span>
+						</div>
 					</div>
 				</div>
-            
+
 				<div class="form-actions">
 					<?php echo CHtml::submitButton($submitValue, array('class' => 'btn btn-primary')); ?>
 					&nbsp;
-					<?php echo CHtml::link('Cancel', array('/budgets'), array('class' => 'btn')); ?>				</div>
+					<?php echo CHtml::link('Cancel', array('/budgets'), array('class' => 'btn')); ?>
+				</div>
 			</fieldset>
 		<?php $this->endWidget(); ?>
 	</div>

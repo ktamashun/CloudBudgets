@@ -7,18 +7,24 @@ class BudgetsController extends Controller
 
 	public function actionIndex()
 	{
-        $budgets = Budget::model()->findAll();
+        $budgets = Budget::model()->forUser($this->user)->active()->findAll();
 		$this->render('index', array('budgets' => $budgets));
 	}
 
 	public function actionCreate()
 	{
 		$model = new Budget();
-		$model->user_id = User::getLoggedInUser()->id;
+		$model->user_id = $this->user->id;
 
 		if (isset($_POST['Budget'])) {
 			$model->attributes = $_POST['Budget'];
 			$model->user_id = User::getLoggedInUser()->id;
+			$model->from_date = date('Y-m-d');
+
+			// Getting and saving category
+			$category = Category::model()->getOrCreateModelByName($_POST['Budget']['category_id'], $this->user);
+			$model->category_id = $category->id;
+			$model->name = $category->name;
 
 			if ($model->validate()) {
 				$transaction = $model->dbConnection->beginTransaction();

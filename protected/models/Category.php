@@ -117,7 +117,8 @@ class Category extends CActiveRecord
 	 * @param User $user
 	 *
 	 * @return array|CActiveRecord|Category|mixed|null
-	 */public function getOrCreateModelByName($name, User $user)
+	 */
+	public function getOrCreateModelByName($name, User $user)
 	{
 		$category = Category::model()->find('name = :name AND user_id = :user_id', array('name' => $name, 'user_id' => $user->id));
 

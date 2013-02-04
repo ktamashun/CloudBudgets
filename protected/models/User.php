@@ -101,6 +101,7 @@ class User extends CActiveRecord
 		// class name for the relations automatically generated below.
 		return array(
 			'accounts' => array(self::HAS_MANY, 'Account', 'user_id'),
+			'budgets' => array(self::HAS_MANY, 'Budget', 'user_id'),
 			'categories' => array(self::HAS_MANY, 'Category', 'user_id', 'condition' => 'root <> id', 'order' => 'lft'),
 			'country' => array(self::BELONGS_TO, 'Country', 'country_id'),
 			'defaultCurrency' => array(self::BELONGS_TO, 'Currency', 'default_currency_id'),
@@ -326,7 +327,8 @@ class User extends CActiveRecord
 
 	/**
 	 * @return array
-	 */public function getAccountsAsDropDownListSource()
+	 */
+	public function getAccountsAsDropDownListSource()
 	{
 		$accounts = $this->accounts(array('condition' => 'status = ' . Account::STATUS_ACTIVE));
 		$data = array();
@@ -340,7 +342,8 @@ class User extends CActiveRecord
 
 	/**
 	 * @return array
-	 */public function getCategoriessAsDropDownListSource()
+	 */
+	public function getCategoriessAsDropDownListSource()
 	{
 		$data = array();
 
@@ -364,7 +367,8 @@ class User extends CActiveRecord
 	/**
 	 * @param Account $account
 	 * @return bool
-	 */public function hasRightToAccount(Account $account)
+	 */
+	public function hasRightToAccount(Account $account)
 	{
 		return $account->user_id === $this->id;
 	}
@@ -372,15 +376,26 @@ class User extends CActiveRecord
 	/**
 	 * @param Category $category
 	 * @return bool
-	 */public function hasRightToCategory(Category $category)
+	 */
+	public function hasRightToCategory(Category $category)
 	{
 		return $category->user_id === $this->id;
 	}
 
 	/**
+	 * @param Budget $budget
+	 * @return bool
+	 */
+	public function hasRightToBudget(Budget $budget)
+	{
+		return $budget->user_id === $this->id;
+	}
+
+	/**
 	 * @param Transaction $transaction
 	 * @return bool
-	 */public function hasRightToTransaction(Transaction $transaction)
+	 */
+	public function hasRightToTransaction(Transaction $transaction)
 	{
 		return $transaction->account->user_id === $this->id;
 	}

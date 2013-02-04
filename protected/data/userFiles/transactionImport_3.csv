@@ -1,5 +1,15 @@
+"Transactions matching [ period:  Sep 10 - Jan ]"
+Date,Description,Currency,Amount,Type,Tags,Account,Status,kovacs.tamas.hun@gmail.com,"László Ratskó","Virág Zoltán"
+2013-01-31,Hajvágás,HUF,"+ 2,000.00",Expense,Hair,"Későbbi kiadások",Cleared,"Get 0.00",0.00,0.00
+2013-01-31,Kaja,HUF,"- 0.00",Expense,Food,"Későbbi kiadások",Cleared,"Get 0.00",0.00,0.00
+2013-01-31,Díjbeszedő,HUF,"+ 6,000.00",Expense,"Water fee","Későbbi kiadások",Cleared,"Get 0.00",0.00,0.00
+2013-01-31,Villanyszámla,HUF,"+ 4,500.00",Expense,Electricity,"Későbbi kiadások",Cleared,"Get 0.00",0.00,0.00
+2013-01-25,"Vacsora - Pizzaking",HUF,"+ 1,000.00",Expense,Dinner,Pénztárca,Cleared,"Get 0.00",0.00,0.00
+2013-01-25,"Reggeli - Kisbolt",HUF,"+ 800.00",Expense,Breakfast,Pénztárca,Cleared,"Get 0.00",0.00,0.00
+2013-01-24,"Vacsora - Hamburger",HUF,"+ 700.00",Expense,Dinner,Pénztárca,Cleared,"Get 0.00",0.00,0.00
+2013-01-24,"Reggeli - Kisbolt",HUF,"+ 480.00",Expense,Breakfast,Pénztárca,Cleared,"Get 0.00",0.00,0.00
 2013-01-23,"Reggeli - Pékség",HUF,"+ 480.00",Expense,Breakfast,Pénztárca,Cleared,"Get 0.00",0.00,0.00
-2013-01-22,"Reggeli - Pékség",HUF,"+ 250.00",Expense,Breakfast,Pénztárca,Cleared,"Get 0.00",0.00,0.00
+2013-01-22,"Reggeli - Pékség",HUF,"+ 310.00",Expense,Breakfast,Pénztárca,Cleared,"Get 0.00",0.00,0.00
 2013-01-21,"Reggeli - Pékség",HUF,"+ 330.00",Expense,Breakfast,Pénztárca,Cleared,"Get 0.00",0.00,0.00
 2013-01-20,Balance,HUF,"+ 1,620.00",Expense,Balance,Pénztárca,Cleared,"Get 0.00",0.00,0.00
 2013-01-20,Tesco,HUF,"+ 4,460.00",Expense,Grocery,Pénztárca,Cleared,"Get 0.00",0.00,0.00

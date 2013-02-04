@@ -201,14 +201,14 @@ class TransactionController extends Controller
 
 	public function actionImport()
 	{
-		if(1 || isset($_FILES['importFile']))
+		/*if(1 || isset($_FILES['importFile']))
 		{
 			set_time_limit(600);
 
 			$savedFileName = 'protected/data/userFiles/transactionImport_2.csv';
 
 			/*$file = CUploadedFile::getInstanceByName('importFile');
-			$success = $file->saveAs($savedFileName);*/
+			$success = $file->saveAs($savedFileName);*
 
 			if (true) {
 				$fileReader = new FileReader($savedFileName);
@@ -218,13 +218,13 @@ class TransactionController extends Controller
 				$row = $fileReader->readLine();
 				echo $row;
 			}
-		}
+		}*/
 
-		/*if(isset($_FILES['importFile']))
+		if(isset($_FILES['importFile']))
 		{
 			set_time_limit(600);
 
-			$savedFileName = 'protected/data/userFiles/transactionImport.csv';
+			$savedFileName = 'protected/data/userFiles/transactionImport_3.csv';
 
 			$file = CUploadedFile::getInstanceByName('importFile');
 			$success = $file->saveAs($savedFileName);
@@ -233,7 +233,16 @@ class TransactionController extends Controller
 			$csvRows = str_getcsv($contents, "\n");
 
 			foreach (array_reverse($csvRows) as $csvRow) {
-				$csvCols = str_getcsv($csvRow, ';', '"');
+				$csvCols = str_getcsv($csvRow);
+
+				$csvCols = array(
+					$csvCols[0],
+					$csvCols[1],
+					$csvCols[4],
+					$csvCols[3],
+					$csvCols[6],
+					$csvCols[5],
+				);
 
 				// Getting accounts
 				if ($csvCols[2] == 'Transfer') {
@@ -273,11 +282,11 @@ class TransactionController extends Controller
 					$toAccount->id,
 					$category->id,
 					$transaction->id
-				));*
+				));*/
 			}
 
 			$this->user->updateAccounts();
-		}*/
+		}
 
 		$this->render('import');
 	}

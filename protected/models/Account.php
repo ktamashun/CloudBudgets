@@ -103,32 +103,6 @@ class Account extends CActiveRecord
 		);
 	}
 
-	/*
-	 * Retrieves a list of models based on the current search/filter conditions.
-	 * @return CActiveDataProvider the data provider that can return the models based on the search/filter conditions.
-	 *
-	public function search()
-	{
-		// Warning: Please modify the following code to remove attributes that
-		// should not be searched.
-
-		$criteria=new CDbCriteria;
-
-		//$criteria->compare('id',$this->id);
-		//$criteria->compare('created_at',$this->created_at,true);
-		$criteria->compare('user_id',$this->user_id);
-		$criteria->compare('account_type_id',$this->account_type_id);
-		$criteria->compare('name',$this->name,true);
-		$criteria->compare('currency_id',$this->currency_id);
-		$criteria->compare('initial_balance',$this->initial_balance);
-		$criteria->compare('actual_balance',$this->actual_balance);
-		$criteria->compare('status',$this->status);
-
-		return new CActiveDataProvider($this, array(
-			'criteria'=>$criteria,
-		));
-	}*/
-
 	public function scopes()
 	{
 		return array(

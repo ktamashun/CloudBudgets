@@ -1,57 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testsuites>
-  <testsuite name="unit/" tests="40" assertions="146" failures="0" errors="0" time="9.897511">
-    <testsuite name="UserIdentityTest" file="/var/www/cloudbudgets.com/protected/tests/unit/components/UserIdentityTest.php" tests="4" assertions="9" failures="0" errors="0" time="0.249620">
-      <testcase name="testEncodePassword" class="UserIdentityTest" file="/var/www/cloudbudgets.com/protected/tests/unit/components/UserIdentityTest.php" line="10" assertions="1" time="0.138012"/>
-      <testcase name="testLoginWithCorrectCredentials" class="UserIdentityTest" file="/var/www/cloudbudgets.com/protected/tests/unit/components/UserIdentityTest.php" line="18" assertions="2" time="0.030482"/>
-      <testcase name="testLoginWithIncorrectCorrectCredentials" class="UserIdentityTest" file="/var/www/cloudbudgets.com/protected/tests/unit/components/UserIdentityTest.php" line="27" assertions="4" time="0.012480"/>
-      <testcase name="testLoginUnsuccessfulWithInactiveUser" class="UserIdentityTest" file="/var/www/cloudbudgets.com/protected/tests/unit/components/UserIdentityTest.php" line="40" assertions="2" time="0.068646"/>
+  <testsuite name="unit/" tests="40" assertions="146" failures="0" errors="0" time="8.596915">
+    <testsuite name="UserIdentityTest" file="/var/www/cloudbudgets.com/protected/tests/unit/components/UserIdentityTest.php" tests="4" assertions="9" failures="0" errors="0" time="0.218244">
+      <testcase name="testEncodePassword" class="UserIdentityTest" file="/var/www/cloudbudgets.com/protected/tests/unit/components/UserIdentityTest.php" line="10" assertions="1" time="0.160707"/>
+      <testcase name="testLoginWithCorrectCredentials" class="UserIdentityTest" file="/var/www/cloudbudgets.com/protected/tests/unit/components/UserIdentityTest.php" line="18" assertions="2" time="0.008693"/>
+      <testcase name="testLoginWithIncorrectCorrectCredentials" class="UserIdentityTest" file="/var/www/cloudbudgets.com/protected/tests/unit/components/UserIdentityTest.php" line="27" assertions="4" time="0.007424"/>
+      <testcase name="testLoginUnsuccessfulWithInactiveUser" class="UserIdentityTest" file="/var/www/cloudbudgets.com/protected/tests/unit/components/UserIdentityTest.php" line="40" assertions="2" time="0.041420"/>
     </testsuite>
-    <testsuite name="AccountTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/AccountTest.php" tests="7" assertions="21" failures="0" errors="0" time="0.262046">
-      <testcase name="testActualBalanceFilledAfterCreate" class="AccountTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/AccountTest.php" line="12" assertions="2" time="0.050375"/>
-      <testcase name="testActualBalanceFilledWithInitialBalanceAfterCreate" class="AccountTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/AccountTest.php" line="22" assertions="2" time="0.028744"/>
-      <testcase name="testActiveScope" class="AccountTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/AccountTest.php" line="33" assertions="6" time="0.065373"/>
-      <testcase name="testDeleteWithDeletingTransactions" class="AccountTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/AccountTest.php" line="51" assertions="3" time="0.028450"/>
-      <testcase name="testMoveTransactionsToAccount" class="AccountTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/AccountTest.php" line="64" assertions="4" time="0.028930"/>
-      <testcase name="testGetOrCreateModelByName" class="AccountTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/AccountTest.php" line="81" assertions="3" time="0.032386"/>
-      <testcase name="testAttributeLabelsReturnsArray" class="AccountTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/AccountTest.php" line="92" assertions="1" time="0.027788"/>
+    <testsuite name="AccountTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/AccountTest.php" tests="7" assertions="21" failures="0" errors="0" time="0.161468">
+      <testcase name="testActualBalanceFilledAfterCreate" class="AccountTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/AccountTest.php" line="12" assertions="2" time="0.025829"/>
+      <testcase name="testActualBalanceFilledWithInitialBalanceAfterCreate" class="AccountTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/AccountTest.php" line="22" assertions="2" time="0.023284"/>
+      <testcase name="testActiveScope" class="AccountTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/AccountTest.php" line="33" assertions="6" time="0.022658"/>
+      <testcase name="testDeleteWithDeletingTransactions" class="AccountTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/AccountTest.php" line="51" assertions="3" time="0.024872"/>
+      <testcase name="testMoveTransactionsToAccount" class="AccountTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/AccountTest.php" line="64" assertions="4" time="0.021698"/>
+      <testcase name="testGetOrCreateModelByName" class="AccountTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/AccountTest.php" line="81" assertions="3" time="0.020961"/>
+      <testcase name="testAttributeLabelsReturnsArray" class="AccountTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/AccountTest.php" line="92" assertions="1" time="0.022166"/>
     </testsuite>
-    <testsuite name="CategoryTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/CategoryTest.php" tests="2" assertions="5" failures="0" errors="0" time="0.127753">
-      <testcase name="testGetOrCreateModelByName" class="CategoryTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/CategoryTest.php" line="11" assertions="2" time="0.089469"/>
-      <testcase name="testGetOrCreateModelByNameWontReturnCategoryWithWrongUser" class="CategoryTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/CategoryTest.php" line="22" assertions="3" time="0.038284"/>
+    <testsuite name="CategoryTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/CategoryTest.php" tests="2" assertions="5" failures="0" errors="0" time="0.101229">
+      <testcase name="testGetOrCreateModelByName" class="CategoryTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/CategoryTest.php" line="11" assertions="2" time="0.039790"/>
+      <testcase name="testGetOrCreateModelByNameWontReturnCategoryWithWrongUser" class="CategoryTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/CategoryTest.php" line="22" assertions="3" time="0.061439"/>
     </testsuite>
-    <testsuite name="CurrencyTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/CurrencyTest.php" tests="1" assertions="1" failures="0" errors="0" time="0.000591">
-      <testcase name="testAkarmi" class="CurrencyTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/CurrencyTest.php" line="5" assertions="1" time="0.000591"/>
+    <testsuite name="CurrencyTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/CurrencyTest.php" tests="1" assertions="1" failures="0" errors="0" time="0.001054">
+      <testcase name="testAkarmi" class="CurrencyTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/CurrencyTest.php" line="5" assertions="1" time="0.001054"/>
     </testsuite>
-    <testsuite name="TransactionTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/TransactionTest.php" tests="8" assertions="70" failures="0" errors="0" time="0.628484">
-      <testcase name="testAccountsActualBalanceIsUpdated" class="TransactionTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/TransactionTest.php" line="37" assertions="2" time="0.073645"/>
-      <testcase name="testActualBalanceIsRightForAccount" class="TransactionTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/TransactionTest.php" line="74" assertions="40" time="0.237295"/>
-      <testcase name="testTransferNeedDifferentToAccount" class="TransactionTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/TransactionTest.php" line="259" assertions="2" time="0.024806"/>
-      <testcase name="testTransferTransactionIsCreatedAfterTransferSave" class="TransactionTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/TransactionTest.php" line="269" assertions="10" time="0.047142"/>
-      <testcase name="testTransferBecomesIncome" class="TransactionTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/TransactionTest.php" line="289" assertions="7" time="0.091867"/>
-      <testcase name="testDeletingTransferDeletesTransferTransactionToo" class="TransactionTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/TransactionTest.php" line="323" assertions="4" time="0.066031"/>
-      <testcase name="testGetConnectedTransaction" class="TransactionTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/TransactionTest.php" line="342" assertions="2" time="0.056523"/>
-      <testcase name="testNotTransferTransationsGetConnectedTransactionGivesItself" class="TransactionTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/TransactionTest.php" line="354" assertions="3" time="0.031174"/>
+    <testsuite name="TransactionTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/TransactionTest.php" tests="8" assertions="70" failures="0" errors="0" time="0.518476">
+      <testcase name="testAccountsActualBalanceIsUpdated" class="TransactionTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/TransactionTest.php" line="37" assertions="2" time="0.056125"/>
+      <testcase name="testActualBalanceIsRightForAccount" class="TransactionTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/TransactionTest.php" line="74" assertions="40" time="0.152787"/>
+      <testcase name="testTransferNeedDifferentToAccount" class="TransactionTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/TransactionTest.php" line="259" assertions="2" time="0.019268"/>
+      <testcase name="testTransferTransactionIsCreatedAfterTransferSave" class="TransactionTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/TransactionTest.php" line="269" assertions="10" time="0.048586"/>
+      <testcase name="testTransferBecomesIncome" class="TransactionTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/TransactionTest.php" line="289" assertions="7" time="0.089565"/>
+      <testcase name="testDeletingTransferDeletesTransferTransactionToo" class="TransactionTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/TransactionTest.php" line="323" assertions="4" time="0.071271"/>
+      <testcase name="testGetConnectedTransaction" class="TransactionTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/TransactionTest.php" line="342" assertions="2" time="0.049008"/>
+      <testcase name="testNotTransferTransationsGetConnectedTransactionGivesItself" class="TransactionTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/TransactionTest.php" line="354" assertions="3" time="0.031865"/>
     </testsuite>
-    <testsuite name="UserTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/UserTest.php" tests="18" assertions="40" failures="0" errors="0" time="8.629017">
-      <testcase name="testPasswordEncodedAfterRegister" class="UserTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/UserTest.php" line="41" assertions="1" time="0.322581"/>
-      <testcase name="testActivationCodeGeneratedAfterRegister" class="UserTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/UserTest.php" line="56" assertions="1" time="0.282302"/>
-      <testcase name="testStatusIsInactiveAfterRegister" class="UserTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/UserTest.php" line="62" assertions="1" time="0.449146"/>
-      <testcase name="testBaseCategoriesCreatedAfterRegister" class="UserTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/UserTest.php" line="68" assertions="2" time="0.510016"/>
-      <testcase name="testSavingUserSeveralTimesWontRecreateBaseCategoriesEachTime" class="UserTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/UserTest.php" line="82" assertions="3" time="0.749902"/>
-      <testcase name="testStatusIsActiveAfterRegisterVerify" class="UserTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/UserTest.php" line="102" assertions="1" time="1.141066"/>
-      <testcase name="testActivationCodeIsNullAfterRegisterVerify" class="UserTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/UserTest.php" line="109" assertions="1" time="1.153294"/>
-      <testcase name="testActiveScopeReturnsOnlyActiveUser" class="UserTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/UserTest.php" line="116" assertions="3" time="1.228290"/>
-      <testcase name="testInActiveScopeReturnsOnlyInActiveUser" class="UserTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/UserTest.php" line="131" assertions="3" time="1.230347"/>
-      <testcase name="testGetAccountByType" class="UserTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/UserTest.php" line="146" assertions="0" time="1.287244"/>
-      <testcase name="testGetAccountsAsDropDownListSource" class="UserTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/UserTest.php" line="159" assertions="6" time="0.051165"/>
-      <testcase name="testGetCategoriesAsDropDownListSource" class="UserTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/UserTest.php" line="172" assertions="6" time="0.031111"/>
-      <testcase name="testHasRightToOwnAccount" class="UserTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/UserTest.php" line="185" assertions="2" time="0.027827"/>
-      <testcase name="testDoesNotHaveRightToOthersAccount" class="UserTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/UserTest.php" line="194" assertions="2" time="0.023603"/>
-      <testcase name="testHasRightToOwnCategory" class="UserTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/UserTest.php" line="203" assertions="2" time="0.031576"/>
-      <testcase name="testDoesNotHaveRightToOthersCategory" class="UserTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/UserTest.php" line="212" assertions="2" time="0.023761"/>
-      <testcase name="testHasRightToOwnTransaction" class="UserTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/UserTest.php" line="221" assertions="2" time="0.057105"/>
-      <testcase name="testDoesNotHaveRightToOthersTransaction" class="UserTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/UserTest.php" line="230" assertions="2" time="0.028681"/>
+    <testsuite name="UserTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/UserTest.php" tests="18" assertions="40" failures="0" errors="0" time="7.596445">
+      <testcase name="testPasswordEncodedAfterRegister" class="UserTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/UserTest.php" line="41" assertions="1" time="0.142125"/>
+      <testcase name="testActivationCodeGeneratedAfterRegister" class="UserTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/UserTest.php" line="56" assertions="1" time="0.241438"/>
+      <testcase name="testStatusIsInactiveAfterRegister" class="UserTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/UserTest.php" line="62" assertions="1" time="0.334692"/>
+      <testcase name="testBaseCategoriesCreatedAfterRegister" class="UserTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/UserTest.php" line="68" assertions="2" time="0.477397"/>
+      <testcase name="testSavingUserSeveralTimesWontRecreateBaseCategoriesEachTime" class="UserTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/UserTest.php" line="82" assertions="3" time="0.670942"/>
+      <testcase name="testStatusIsActiveAfterRegisterVerify" class="UserTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/UserTest.php" line="102" assertions="1" time="0.905168"/>
+      <testcase name="testActivationCodeIsNullAfterRegisterVerify" class="UserTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/UserTest.php" line="109" assertions="1" time="0.994667"/>
+      <testcase name="testActiveScopeReturnsOnlyActiveUser" class="UserTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/UserTest.php" line="116" assertions="3" time="1.103145"/>
+      <testcase name="testInActiveScopeReturnsOnlyInActiveUser" class="UserTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/UserTest.php" line="131" assertions="3" time="1.192870"/>
+      <testcase name="testGetAccountByType" class="UserTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/UserTest.php" line="146" assertions="0" time="1.275828"/>
+      <testcase name="testGetAccountsAsDropDownListSource" class="UserTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/UserTest.php" line="159" assertions="6" time="0.027424"/>
+      <testcase name="testGetCategoriesAsDropDownListSource" class="UserTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/UserTest.php" line="172" assertions="6" time="0.028505"/>
+      <testcase name="testHasRightToOwnAccount" class="UserTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/UserTest.php" line="185" assertions="2" time="0.028059"/>
+      <testcase name="testDoesNotHaveRightToOthersAccount" class="UserTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/UserTest.php" line="194" assertions="2" time="0.027085"/>
+      <testcase name="testHasRightToOwnCategory" class="UserTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/UserTest.php" line="203" assertions="2" time="0.055987"/>
+      <testcase name="testDoesNotHaveRightToOthersCategory" class="UserTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/UserTest.php" line="212" assertions="2" time="0.031703"/>
+      <testcase name="testHasRightToOwnTransaction" class="UserTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/UserTest.php" line="221" assertions="2" time="0.023447"/>
+      <testcase name="testDoesNotHaveRightToOthersTransaction" class="UserTest" file="/var/www/cloudbudgets.com/protected/tests/unit/models/UserTest.php" line="230" assertions="2" time="0.035963"/>
     </testsuite>
   </testsuite>
 </testsuites>
