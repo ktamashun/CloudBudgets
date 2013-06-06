@@ -7,4 +7,6 @@ return array(
 	'username' => 'root',
 	'password' => 'hTaccToSQL',
 	'charset' => 'utf8',
+	'enableProfiling' => true,
+	'enableParamLogging' => true
 );

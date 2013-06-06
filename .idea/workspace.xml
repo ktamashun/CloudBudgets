@@ -1,0 +1,1446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a5aa2c0a-e04a-4c89-947d-599e52d1c0b8" name="Default" comment="">
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\33eb1c08\adapters\mootools-adapter.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\33eb1c08\adapters\mootools-adapter.src.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\33eb1c08\adapters\prototype-adapter.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\33eb1c08\adapters\prototype-adapter.src.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\33eb1c08\highcharts-more.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\33eb1c08\highcharts.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\33eb1c08\highcharts.src.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\33eb1c08\modules\canvas-tools.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\33eb1c08\modules\canvas-tools.src.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\33eb1c08\modules\exporting.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\33eb1c08\modules\exporting.src.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\33eb1c08\themes\dark-blue.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\33eb1c08\themes\dark-green.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\33eb1c08\themes\gray.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\33eb1c08\themes\grid.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\33eb1c08\themes\skies.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\67819d0c\adapters\mootools-adapter.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\67819d0c\adapters\mootools-adapter.src.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\67819d0c\adapters\prototype-adapter.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\67819d0c\adapters\prototype-adapter.src.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\67819d0c\highcharts-more.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\67819d0c\highcharts.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\67819d0c\highcharts.src.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\67819d0c\modules\canvas-tools.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\67819d0c\modules\canvas-tools.src.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\67819d0c\modules\exporting.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\67819d0c\modules\exporting.src.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\67819d0c\themes\dark-blue.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\67819d0c\themes\dark-green.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\67819d0c\themes\gray.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\67819d0c\themes\grid.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\67819d0c\themes\skies.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\autocomplete\indicator.gif" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\autocomplete\jquery.autocomplete.css" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jquery.ajaxqueue.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jquery.autocomplete.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jquery.ba-bbq.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jquery.bgiframe.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jquery.cookie.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jquery.maskedinput.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jquery.maskedinput.min.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jquery.metadata.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jquery.multifile.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jquery.rating.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jquery.treeview.async.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jquery.treeview.edit.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jquery.treeview.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jquery.yii.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jquery.yiiactiveform.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jquery.yiitab.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jui\MIT-LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jui\css\base\images\ui-bg_flat_0_aaaaaa_40x100.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jui\css\base\images\ui-bg_flat_75_ffffff_40x100.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jui\css\base\images\ui-bg_glass_55_fbf9ee_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jui\css\base\images\ui-bg_glass_65_ffffff_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jui\css\base\images\ui-bg_glass_75_dadada_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jui\css\base\images\ui-bg_glass_75_e6e6e6_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jui\css\base\images\ui-bg_glass_95_fef1ec_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jui\css\base\images\ui-bg_highlight-soft_75_cccccc_1x100.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jui\css\base\images\ui-icons_222222_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jui\css\base\images\ui-icons_2e83ff_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jui\css\base\images\ui-icons_454545_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jui\css\base\images\ui-icons_888888_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jui\css\base\images\ui-icons_cd0a0a_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jui\css\base\jquery-ui.css" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jui\css\base\jquery.ui.accordion.css" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jui\css\base\jquery.ui.all.css" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jui\css\base\jquery.ui.autocomplete.css" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jui\css\base\jquery.ui.base.css" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jui\css\base\jquery.ui.button.css" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jui\css\base\jquery.ui.core.css" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jui\css\base\jquery.ui.datepicker.css" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jui\css\base\jquery.ui.dialog.css" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jui\css\base\jquery.ui.progressbar.css" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jui\css\base\jquery.ui.resizable.css" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jui\css\base\jquery.ui.selectable.css" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jui\css\base\jquery.ui.slider.css" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jui\css\base\jquery.ui.tabs.css" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jui\css\base\jquery.ui.theme.css" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jui\js\jquery-ui-i18n.min.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jui\js\jquery-ui.min.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\rating\delete.gif" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\rating\jquery.rating.css" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\rating\star.gif" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\treeview\images\ajax-loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\treeview\images\file.gif" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\treeview\images\folder-closed.gif" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\treeview\images\folder.gif" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\treeview\images\minus.gif" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\treeview\images\plus.gif" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\treeview\images\treeview-black-line.gif" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\treeview\images\treeview-black.gif" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\treeview\images\treeview-default-line.gif" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\treeview\images\treeview-default.gif" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\treeview\images\treeview-famfamfam-line.gif" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\treeview\images\treeview-famfamfam.gif" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\treeview\images\treeview-gray-line.gif" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\treeview\images\treeview-gray.gif" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\treeview\images\treeview-red-line.gif" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\treeview\images\treeview-red.gif" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\treeview\jquery.treeview.css" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\yiitab\jquery.yiitab.css" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\autocomplete\indicator.gif" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\autocomplete\jquery.autocomplete.css" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jquery.ajaxqueue.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jquery.autocomplete.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jquery.ba-bbq.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jquery.bgiframe.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jquery.cookie.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jquery.maskedinput.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jquery.maskedinput.min.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jquery.metadata.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jquery.multifile.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jquery.rating.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jquery.treeview.async.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jquery.treeview.edit.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jquery.treeview.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jquery.yii.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jquery.yiiactiveform.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jquery.yiitab.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jui\MIT-LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jui\css\base\images\ui-bg_flat_0_aaaaaa_40x100.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jui\css\base\images\ui-bg_flat_75_ffffff_40x100.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jui\css\base\images\ui-bg_glass_55_fbf9ee_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jui\css\base\images\ui-bg_glass_65_ffffff_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jui\css\base\images\ui-bg_glass_75_dadada_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jui\css\base\images\ui-bg_glass_75_e6e6e6_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jui\css\base\images\ui-bg_glass_95_fef1ec_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jui\css\base\images\ui-bg_highlight-soft_75_cccccc_1x100.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jui\css\base\images\ui-icons_222222_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jui\css\base\images\ui-icons_2e83ff_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jui\css\base\images\ui-icons_454545_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jui\css\base\images\ui-icons_888888_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jui\css\base\images\ui-icons_cd0a0a_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jui\css\base\jquery-ui.css" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jui\css\base\jquery.ui.accordion.css" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jui\css\base\jquery.ui.all.css" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jui\css\base\jquery.ui.autocomplete.css" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jui\css\base\jquery.ui.base.css" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jui\css\base\jquery.ui.button.css" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jui\css\base\jquery.ui.core.css" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jui\css\base\jquery.ui.datepicker.css" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jui\css\base\jquery.ui.dialog.css" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jui\css\base\jquery.ui.progressbar.css" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jui\css\base\jquery.ui.resizable.css" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jui\css\base\jquery.ui.selectable.css" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jui\css\base\jquery.ui.slider.css" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jui\css\base\jquery.ui.tabs.css" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jui\css\base\jquery.ui.theme.css" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jui\js\jquery-ui-i18n.min.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jui\js\jquery-ui.min.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\rating\delete.gif" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\rating\jquery.rating.css" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\rating\star.gif" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\treeview\images\ajax-loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\treeview\images\file.gif" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\treeview\images\folder-closed.gif" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\treeview\images\folder.gif" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\treeview\images\minus.gif" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\treeview\images\plus.gif" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\treeview\images\treeview-black-line.gif" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\treeview\images\treeview-black.gif" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\treeview\images\treeview-default-line.gif" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\treeview\images\treeview-default.gif" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\treeview\images\treeview-famfamfam-line.gif" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\treeview\images\treeview-famfamfam.gif" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\treeview\images\treeview-gray-line.gif" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\treeview\images\treeview-gray.gif" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\treeview\images\treeview-red-line.gif" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\treeview\images\treeview-red.gif" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\treeview\jquery.treeview.css" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\yiitab\jquery.yiitab.css" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\86685e6b\detailview\styles.css" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\86685e6b\gridview\bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\86685e6b\gridview\delete.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\86685e6b\gridview\down.gif" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\86685e6b\gridview\jquery.yiigridview.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\86685e6b\gridview\loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\86685e6b\gridview\styles.css" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\86685e6b\gridview\up.gif" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\86685e6b\gridview\update.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\86685e6b\gridview\view.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\86685e6b\listview\down.gif" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\86685e6b\listview\jquery.yiilistview.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\86685e6b\listview\loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\86685e6b\listview\styles.css" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\86685e6b\listview\up.gif" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\97b3aebd\pager.css" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b0e4428a\css\ie.css" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b0e4428a\css\main.css" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b0e4428a\css\print.css" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b0e4428a\css\screen.css" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b0e4428a\images\logo.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b0e4428a\js\fancybox\blank.gif" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b0e4428a\js\fancybox\fancy_close.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b0e4428a\js\fancybox\fancy_loading.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b0e4428a\js\fancybox\fancy_nav_left.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b0e4428a\js\fancybox\fancy_nav_right.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b0e4428a\js\fancybox\fancy_shadow_e.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b0e4428a\js\fancybox\fancy_shadow_n.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b0e4428a\js\fancybox\fancy_shadow_ne.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b0e4428a\js\fancybox\fancy_shadow_nw.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b0e4428a\js\fancybox\fancy_shadow_s.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b0e4428a\js\fancybox\fancy_shadow_se.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b0e4428a\js\fancybox\fancy_shadow_sw.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b0e4428a\js\fancybox\fancy_shadow_w.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b0e4428a\js\fancybox\fancy_title_left.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b0e4428a\js\fancybox\fancy_title_main.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b0e4428a\js\fancybox\fancy_title_over.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b0e4428a\js\fancybox\fancy_title_right.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b0e4428a\js\fancybox\fancybox-x.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b0e4428a\js\fancybox\fancybox-y.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b0e4428a\js\fancybox\fancybox.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b0e4428a\js\fancybox\jquery.fancybox-1.3.1.css" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b0e4428a\js\fancybox\jquery.fancybox-1.3.1.pack.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b0e4428a\js\jquery.tooltip-1.2.6.min.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b0e4428a\js\main.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b329b11b\detailview\styles.css" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b329b11b\gridview\bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b329b11b\gridview\delete.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b329b11b\gridview\down.gif" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b329b11b\gridview\jquery.yiigridview.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b329b11b\gridview\loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b329b11b\gridview\styles.css" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b329b11b\gridview\up.gif" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b329b11b\gridview\update.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b329b11b\gridview\view.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b329b11b\listview\down.gif" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b329b11b\listview\jquery.yiilistview.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b329b11b\listview\loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b329b11b\listview\styles.css" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b329b11b\listview\up.gif" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\autocomplete\indicator.gif" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\autocomplete\jquery.autocomplete.css" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jquery.ajaxqueue.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jquery.autocomplete.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jquery.ba-bbq.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jquery.bgiframe.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jquery.cookie.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jquery.maskedinput.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jquery.maskedinput.min.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jquery.metadata.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jquery.multifile.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jquery.rating.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jquery.treeview.async.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jquery.treeview.edit.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jquery.treeview.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jquery.yii.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jquery.yiiactiveform.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jquery.yiitab.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jui\MIT-LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jui\css\base\images\ui-bg_flat_0_aaaaaa_40x100.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jui\css\base\images\ui-bg_flat_75_ffffff_40x100.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jui\css\base\images\ui-bg_glass_55_fbf9ee_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jui\css\base\images\ui-bg_glass_65_ffffff_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jui\css\base\images\ui-bg_glass_75_dadada_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jui\css\base\images\ui-bg_glass_75_e6e6e6_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jui\css\base\images\ui-bg_glass_95_fef1ec_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jui\css\base\images\ui-bg_highlight-soft_75_cccccc_1x100.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jui\css\base\images\ui-icons_222222_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jui\css\base\images\ui-icons_2e83ff_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jui\css\base\images\ui-icons_454545_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jui\css\base\images\ui-icons_888888_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jui\css\base\images\ui-icons_cd0a0a_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jui\css\base\jquery-ui.css" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jui\css\base\jquery.ui.accordion.css" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jui\css\base\jquery.ui.all.css" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jui\css\base\jquery.ui.autocomplete.css" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jui\css\base\jquery.ui.base.css" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jui\css\base\jquery.ui.button.css" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jui\css\base\jquery.ui.core.css" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jui\css\base\jquery.ui.datepicker.css" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jui\css\base\jquery.ui.dialog.css" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jui\css\base\jquery.ui.progressbar.css" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jui\css\base\jquery.ui.resizable.css" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jui\css\base\jquery.ui.selectable.css" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jui\css\base\jquery.ui.slider.css" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jui\css\base\jquery.ui.tabs.css" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jui\css\base\jquery.ui.theme.css" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jui\js\jquery-ui-i18n.min.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jui\js\jquery-ui.min.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\rating\delete.gif" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\rating\jquery.rating.css" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\rating\star.gif" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\treeview\images\ajax-loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\treeview\images\file.gif" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\treeview\images\folder-closed.gif" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\treeview\images\folder.gif" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\treeview\images\minus.gif" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\treeview\images\plus.gif" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\treeview\images\treeview-black-line.gif" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\treeview\images\treeview-black.gif" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\treeview\images\treeview-default-line.gif" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\treeview\images\treeview-default.gif" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\treeview\images\treeview-famfamfam-line.gif" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\treeview\images\treeview-famfamfam.gif" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\treeview\images\treeview-gray-line.gif" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\treeview\images\treeview-gray.gif" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\treeview\images\treeview-red-line.gif" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\treeview\images\treeview-red.gif" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\treeview\jquery.treeview.css" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\yiitab\jquery.yiitab.css" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c5ae29e8\css\ie.css" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c5ae29e8\css\main.css" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c5ae29e8\css\print.css" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c5ae29e8\css\screen.css" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c5ae29e8\images\logo.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c5ae29e8\js\fancybox\blank.gif" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c5ae29e8\js\fancybox\fancy_close.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c5ae29e8\js\fancybox\fancy_loading.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c5ae29e8\js\fancybox\fancy_nav_left.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c5ae29e8\js\fancybox\fancy_nav_right.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c5ae29e8\js\fancybox\fancy_shadow_e.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c5ae29e8\js\fancybox\fancy_shadow_n.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c5ae29e8\js\fancybox\fancy_shadow_ne.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c5ae29e8\js\fancybox\fancy_shadow_nw.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c5ae29e8\js\fancybox\fancy_shadow_s.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c5ae29e8\js\fancybox\fancy_shadow_se.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c5ae29e8\js\fancybox\fancy_shadow_sw.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c5ae29e8\js\fancybox\fancy_shadow_w.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c5ae29e8\js\fancybox\fancy_title_left.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c5ae29e8\js\fancybox\fancy_title_main.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c5ae29e8\js\fancybox\fancy_title_over.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c5ae29e8\js\fancybox\fancy_title_right.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c5ae29e8\js\fancybox\fancybox-x.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c5ae29e8\js\fancybox\fancybox-y.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c5ae29e8\js\fancybox\fancybox.png" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c5ae29e8\js\fancybox\jquery.fancybox-1.3.1.css" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c5ae29e8\js\fancybox\jquery.fancybox-1.3.1.pack.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c5ae29e8\js\jquery.tooltip-1.2.6.min.js" afterPath="" />
+      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c5ae29e8\js\main.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/treeview/images/ajax-loader.gif" afterPath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/treeview/images/ajax-loader.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/css/bg.gif" afterPath="$PROJECT_DIR$/themes/old/css/bg.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/b0e4428a/js/fancybox/blank.gif" afterPath="$PROJECT_DIR$/themes/old/assets/b0e4428a/js/fancybox/blank.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/close12_1.gif" afterPath="$PROJECT_DIR$/misc/report/codecoverage/close12_1.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/codebase.rar" afterPath="$PROJECT_DIR$/misc/codebase.rar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/rating/delete.gif" afterPath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/rating/delete.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/directory.png" afterPath="$PROJECT_DIR$/misc/report/codecoverage/directory.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/b0e4428a/js/fancybox/fancy_close.png" afterPath="$PROJECT_DIR$/themes/old/assets/b0e4428a/js/fancybox/fancy_close.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/b0e4428a/js/fancybox/fancy_loading.png" afterPath="$PROJECT_DIR$/themes/old/assets/b0e4428a/js/fancybox/fancy_loading.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/b0e4428a/js/fancybox/fancy_nav_left.png" afterPath="$PROJECT_DIR$/themes/old/assets/b0e4428a/js/fancybox/fancy_nav_left.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/b0e4428a/js/fancybox/fancy_nav_right.png" afterPath="$PROJECT_DIR$/themes/old/assets/b0e4428a/js/fancybox/fancy_nav_right.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/b0e4428a/js/fancybox/fancy_shadow_e.png" afterPath="$PROJECT_DIR$/themes/old/assets/b0e4428a/js/fancybox/fancy_shadow_e.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/b0e4428a/js/fancybox/fancy_shadow_n.png" afterPath="$PROJECT_DIR$/themes/old/assets/b0e4428a/js/fancybox/fancy_shadow_n.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/b0e4428a/js/fancybox/fancy_shadow_ne.png" afterPath="$PROJECT_DIR$/themes/old/assets/b0e4428a/js/fancybox/fancy_shadow_ne.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/b0e4428a/js/fancybox/fancy_shadow_nw.png" afterPath="$PROJECT_DIR$/themes/old/assets/b0e4428a/js/fancybox/fancy_shadow_nw.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/b0e4428a/js/fancybox/fancy_shadow_s.png" afterPath="$PROJECT_DIR$/themes/old/assets/b0e4428a/js/fancybox/fancy_shadow_s.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/b0e4428a/js/fancybox/fancy_shadow_se.png" afterPath="$PROJECT_DIR$/themes/old/assets/b0e4428a/js/fancybox/fancy_shadow_se.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/b0e4428a/js/fancybox/fancy_shadow_sw.png" afterPath="$PROJECT_DIR$/themes/old/assets/b0e4428a/js/fancybox/fancy_shadow_sw.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/b0e4428a/js/fancybox/fancy_shadow_w.png" afterPath="$PROJECT_DIR$/themes/old/assets/b0e4428a/js/fancybox/fancy_shadow_w.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/b0e4428a/js/fancybox/fancy_title_left.png" afterPath="$PROJECT_DIR$/themes/old/assets/b0e4428a/js/fancybox/fancy_title_left.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/b0e4428a/js/fancybox/fancy_title_main.png" afterPath="$PROJECT_DIR$/themes/old/assets/b0e4428a/js/fancybox/fancy_title_main.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/b0e4428a/js/fancybox/fancy_title_over.png" afterPath="$PROJECT_DIR$/themes/old/assets/b0e4428a/js/fancybox/fancy_title_over.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/b0e4428a/js/fancybox/fancy_title_right.png" afterPath="$PROJECT_DIR$/themes/old/assets/b0e4428a/js/fancybox/fancy_title_right.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/b0e4428a/js/fancybox/fancybox-x.png" afterPath="$PROJECT_DIR$/themes/old/assets/b0e4428a/js/fancybox/fancybox-x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/b0e4428a/js/fancybox/fancybox-y.png" afterPath="$PROJECT_DIR$/themes/old/assets/b0e4428a/js/fancybox/fancybox-y.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/b0e4428a/js/fancybox/fancybox.png" afterPath="$PROJECT_DIR$/themes/old/assets/b0e4428a/js/fancybox/fancybox.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/favicon.ico" afterPath="$PROJECT_DIR$/favicon.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/treeview/images/file.gif" afterPath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/treeview/images/file.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/file.png" afterPath="$PROJECT_DIR$/misc/report/codecoverage/file.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/treeview/images/folder-closed.gif" afterPath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/treeview/images/folder-closed.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/treeview/images/folder.gif" afterPath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/treeview/images/folder.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/glass.png" afterPath="$PROJECT_DIR$/misc/report/codecoverage/glass.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons-halflings-white.png" afterPath="$PROJECT_DIR$/images/glyphicons-halflings-white.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons-halflings.png" afterPath="$PROJECT_DIR$/images/glyphicons-halflings.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_000_glass.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_000_glass.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_001_leaf.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_001_leaf.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_002_dog.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_002_dog.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_003_user.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_003_user.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_004_girl.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_004_girl.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_005_car.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_005_car.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_006_user_add.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_006_user_add.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_007_user_remove.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_007_user_remove.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_008_film.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_008_film.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_009_magic.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_009_magic.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_010_envelope.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_010_envelope.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_011_camera.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_011_camera.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_012_heart.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_012_heart.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_013_beach_umbrella.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_013_beach_umbrella.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_014_train.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_014_train.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_015_print.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_015_print.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_016_bin.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_016_bin.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_017_music.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_017_music.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_018_note.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_018_note.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_019_cogwheel.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_019_cogwheel.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_020_home.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_020_home.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_021_snowflake.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_021_snowflake.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_022_fire.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_022_fire.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_023_cogwheels.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_023_cogwheels.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_024_parents.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_024_parents.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_025_binoculars.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_025_binoculars.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_026_road.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_026_road.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_027_search.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_027_search.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_028_cars.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_028_cars.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_029_notes_2.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_029_notes_2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_030_pencil.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_030_pencil.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_031_bus.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_031_bus.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_032_wifi_alt.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_032_wifi_alt.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_033_luggage.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_033_luggage.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_034_old_man.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_034_old_man.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_035_woman.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_035_woman.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_036_file.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_036_file.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_037_credit.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_037_credit.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_038_airplane.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_038_airplane.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_039_notes.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_039_notes.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_040_stats.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_040_stats.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_041_charts.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_041_charts.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_042_pie_chart.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_042_pie_chart.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_043_group.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_043_group.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_044_keys.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_044_keys.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_045_calendar.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_045_calendar.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_046_router.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_046_router.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_047_camera_small.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_047_camera_small.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_048_dislikes.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_048_dislikes.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_049_star.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_049_star.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_050_link.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_050_link.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_051_eye_open.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_051_eye_open.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_052_eye_close.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_052_eye_close.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_053_alarm.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_053_alarm.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_054_clock.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_054_clock.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_055_stopwatch.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_055_stopwatch.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_056_projector.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_056_projector.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_057_history.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_057_history.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_058_truck.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_058_truck.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_059_cargo.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_059_cargo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_060_compass.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_060_compass.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_061_keynote.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_061_keynote.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_062_attach.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_062_attach.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_063_power.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_063_power.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_064_lightbulb.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_064_lightbulb.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_065_tag.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_065_tag.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_066_tags.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_066_tags.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_067_cleaning.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_067_cleaning.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_068_ruller.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_068_ruller.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_069_gift.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_069_gift.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_070_umbrella.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_070_umbrella.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_071_book.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_071_book.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_072_bookmark.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_072_bookmark.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_073_signal.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_073_signal.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_074_cup.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_074_cup.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_075_stroller.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_075_stroller.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_076_headphones.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_076_headphones.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_077_headset.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_077_headset.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_078_warning_sign.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_078_warning_sign.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_079_signal.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_079_signal.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_080_retweet.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_080_retweet.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_081_refresh.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_081_refresh.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_082_roundabout.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_082_roundabout.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_083_random.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_083_random.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_084_heat.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_084_heat.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_085_repeat.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_085_repeat.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_086_display.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_086_display.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_087_log_book.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_087_log_book.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_088_adress_book.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_088_adress_book.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_089_magnet.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_089_magnet.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_090_table.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_090_table.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_091_adjust.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_091_adjust.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_092_tint.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_092_tint.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_093_crop.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_093_crop.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_094_vector_path_square.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_094_vector_path_square.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_095_vector_path_circle.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_095_vector_path_circle.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_096_vector_path_polygon.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_096_vector_path_polygon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_097_vector_path_line.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_097_vector_path_line.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_098_vector_path_curve.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_098_vector_path_curve.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_099_vector_path_all.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_099_vector_path_all.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_100_font.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_100_font.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_101_italic.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_101_italic.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_102_bold.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_102_bold.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_103_text_underline.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_103_text_underline.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_104_text_strike.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_104_text_strike.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_105_text_height.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_105_text_height.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_106_text_width.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_106_text_width.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_107_text_resize.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_107_text_resize.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_108_left_indent.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_108_left_indent.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_109_right_indent.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_109_right_indent.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_110_align_left.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_110_align_left.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_111_align_center.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_111_align_center.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_112_align_right.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_112_align_right.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_113_justify.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_113_justify.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_114_list.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_114_list.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_115_text_smaller.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_115_text_smaller.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_116_text_bigger.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_116_text_bigger.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_117_embed.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_117_embed.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_118_embed_close.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_118_embed_close.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_119_adjust.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_119_adjust.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_120_message_full.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_120_message_full.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_121_message_empty.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_121_message_empty.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_122_message_in.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_122_message_in.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_123_message_out.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_123_message_out.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_124_message_plus.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_124_message_plus.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_125_message_minus.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_125_message_minus.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_126_message_ban.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_126_message_ban.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_127_message_flag.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_127_message_flag.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_128_message_lock.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_128_message_lock.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_129_message_new.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_129_message_new.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_130_inbox.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_130_inbox.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_131_inbox_plus.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_131_inbox_plus.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_132_inbox_minus.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_132_inbox_minus.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_133_inbox_lock.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_133_inbox_lock.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_134_inbox_in.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_134_inbox_in.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_135_inbox_out.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_135_inbox_out.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_136_computer_locked.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_136_computer_locked.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_137_computer_service.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_137_computer_service.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_138_computer_proces.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_138_computer_proces.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_139_phone.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_139_phone.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_140_database_lock.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_140_database_lock.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_141_database_plus.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_141_database_plus.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_142_database_minus.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_142_database_minus.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_143_database_ban.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_143_database_ban.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_144_folder_open.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_144_folder_open.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_145_folder_plus.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_145_folder_plus.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_146_folder_minus.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_146_folder_minus.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_147_folder_lock.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_147_folder_lock.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_148_folder_flag.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_148_folder_flag.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_149_folder_new.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_149_folder_new.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_150_check.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_150_check.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_151_edit.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_151_edit.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_152_new_window.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_152_new_window.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_153_more_windows.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_153_more_windows.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_154_show_big_thumbnails.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_154_show_big_thumbnails.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_155_show_thumbnails.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_155_show_thumbnails.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_156_show_thumbnails_with_lines.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_156_show_thumbnails_with_lines.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_157_show_lines.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_157_show_lines.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_158_playlist.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_158_playlist.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_159_picture.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_159_picture.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_160_imac.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_160_imac.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_161_macbook.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_161_macbook.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_162_ipad.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_162_ipad.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_163_iphone.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_163_iphone.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_164_iphone_transfer.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_164_iphone_transfer.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_165_iphone_exchange.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_165_iphone_exchange.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_166_ipod.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_166_ipod.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_167_ipod_shuffle.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_167_ipod_shuffle.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_168_ear_plugs.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_168_ear_plugs.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_169_albums.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_169_albums.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_170_step_backward.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_170_step_backward.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_171_fast_backward.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_171_fast_backward.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_172_rewind.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_172_rewind.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_173_play.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_173_play.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_174_pause.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_174_pause.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_175_stop.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_175_stop.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_176_forward.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_176_forward.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_177_fast_forward.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_177_fast_forward.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_178_step_forward.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_178_step_forward.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_179_eject.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_179_eject.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_180_facetime_video.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_180_facetime_video.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_181_download_alt.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_181_download_alt.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_182_mute.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_182_mute.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_183_volume_down.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_183_volume_down.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_184_volume_up.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_184_volume_up.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_185_screenshot.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_185_screenshot.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_186_move.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_186_move.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_187_more.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_187_more.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_188_brightness_reduce.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_188_brightness_reduce.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_189_brightness_increase.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_189_brightness_increase.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_190_circle_plus.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_190_circle_plus.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_191_circle_minus.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_191_circle_minus.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_192_circle_remove.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_192_circle_remove.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_193_circle_ok.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_193_circle_ok.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_194_circle_question_mark.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_194_circle_question_mark.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_195_circle_info.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_195_circle_info.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_196_circle_exclamation_mark.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_196_circle_exclamation_mark.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_197_remove.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_197_remove.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_198_ok.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_198_ok.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_199_ban.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_199_ban.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_200_download.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_200_download.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_201_upload.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_201_upload.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_202_shopping_cart.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_202_shopping_cart.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_203_lock.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_203_lock.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_204_unlock.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_204_unlock.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_205_electricity.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_205_electricity.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_206_ok_2.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_206_ok_2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_207_remove_2.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_207_remove_2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_208_cart_out.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_208_cart_out.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_209_cart_in.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_209_cart_in.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_210_left_arrow.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_210_left_arrow.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_211_right_arrow.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_211_right_arrow.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_212_down_arrow.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_212_down_arrow.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_213_up_arrow.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_213_up_arrow.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_214_resize_small.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_214_resize_small.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_215_resize_full.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_215_resize_full.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_216_circle_arrow_left.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_216_circle_arrow_left.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_217_circle_arrow_right.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_217_circle_arrow_right.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_218_circle_arrow_right.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_218_circle_arrow_right.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_219_circle_arrow_right.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_219_circle_arrow_right.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_220_play_button.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_220_play_button.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_221_unshare.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_221_unshare.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_222_share.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_222_share.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_223_thin_right_arrow.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_223_thin_right_arrow.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_224_thin_arrow_left.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_224_thin_arrow_left.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_225_bluetooth.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_225_bluetooth.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_226_euro.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_226_euro.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_227_usd.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_227_usd.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_228_bp.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_228_bp.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_229_retweet_2.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_229_retweet_2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_230_moon.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_230_moon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_231_sun.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_231_sun.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_232_cloud.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_232_cloud.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_233_direction.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_233_direction.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_234_brush.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_234_brush.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_235_pen.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_235_pen.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_236_zoom_in.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_236_zoom_in.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_237_zoom_out.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_237_zoom_out.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_238_pin.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_238_pin.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_239_riflescope.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_239_riflescope.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_240_rotation_lock.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_240_rotation_lock.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_241_flash.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_241_flash.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_242_google_maps.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_242_google_maps.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_243_anchor.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_243_anchor.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_244_conversation.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_244_conversation.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_245_chat.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_245_chat.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_246_male.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_246_male.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_247_female.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_247_female.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_248_asterisk.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_248_asterisk.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_249_divide.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_249_divide.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_250_snorkel_diving.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_250_snorkel_diving.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_251_scuba_diving.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_251_scuba_diving.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_252_oxygen_bottle.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_252_oxygen_bottle.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_253_fins.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_253_fins.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_254_fishes.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_254_fishes.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_255_boat.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_255_boat.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_256_delete_point.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_256_delete_point.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_257_sheriffs_-star.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_257_sheriffs_-star.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_258_qrcode.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_258_qrcode.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_259_barcode.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_259_barcode.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_260_pool.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_260_pool.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_261_buoy.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_261_buoy.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_262_spade.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_262_spade.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_263_bank.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_263_bank.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_264_vcard.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_264_vcard.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_265_electrical_plug.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_265_electrical_plug.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_266_flag.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_266_flag.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_267_credit_card.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_267_credit_card.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_268_keyboard_wireless.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_268_keyboard_wireless.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_269_keyboard_wired.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_269_keyboard_wired.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_270_shield.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_270_shield.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_271_ring.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_271_ring.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_272_cake.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_272_cake.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_273_drink.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_273_drink.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_274_beer.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_274_beer.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_275_fast_food.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_275_fast_food.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_276_cutlery.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_276_cutlery.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_277_pizza.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_277_pizza.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_278_birthday_cake.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_278_birthday_cake.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_279_tablet.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_279_tablet.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_280_settings.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_280_settings.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_281_bullets.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_281_bullets.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_282_cardio.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_282_cardio.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_283_t-shirt.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_283_t-shirt.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_284_pants.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_284_pants.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_285_sweater.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_285_sweater.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_286_fabric.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_286_fabric.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_287_leather.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_287_leather.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_288_scissors.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_288_scissors.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_289_podium.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_289_podium.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_290_skull.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_290_skull.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_291_celebration.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_291_celebration.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_292_tea_kettle.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_292_tea_kettle.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_293_french_press.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_293_french_press.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_294_coffe_cup.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_294_coffe_cup.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_295_pot.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_295_pot.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_296_grater.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_296_grater.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_297_kettle.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_297_kettle.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_298_hospital.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_298_hospital.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_299_hospital_h.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_299_hospital_h.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_300_microphone.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_300_microphone.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_301_webcam.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_301_webcam.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_302_temple_christianity_church.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_302_temple_christianity_church.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_303_temple_islam.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_303_temple_islam.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_304_temple_hindu.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_304_temple_hindu.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_305_temple_buddhist.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_305_temple_buddhist.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_306_electrical_socket_eu.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_306_electrical_socket_eu.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_307_electrical_socket_us.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_307_electrical_socket_us.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_308_bomb.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_308_bomb.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_309_comments.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_309_comments.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_310_flower.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_310_flower.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_311_baseball.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_311_baseball.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_312_rugby.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_312_rugby.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_313_ax.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_313_ax.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_314_table_tennis.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_314_table_tennis.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_315_bowling.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_315_bowling.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_316_tree_conifer.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_316_tree_conifer.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_317_tree_deciduous.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_317_tree_deciduous.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_318_more-items.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_318_more-items.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_319_sort.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_319_sort.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_320_facebook.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_320_facebook.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_321_twitter_t.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_321_twitter_t.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_322_twitter.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_322_twitter.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_323_buzz.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_323_buzz.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_324_vimeo.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_324_vimeo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_325_flickr.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_325_flickr.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_326_last_fm.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_326_last_fm.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_327_rss.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_327_rss.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_328_skype.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_328_skype.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_329_e-mail.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_329_e-mail.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_330_instapaper.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_330_instapaper.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_331_evernote.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_331_evernote.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_332_xing.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_332_xing.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_333_zootool.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_333_zootool.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_334_dribbble.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_334_dribbble.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_335_deviantart.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_335_deviantart.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_336_read_it_later.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_336_read_it_later.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_337_linked_in.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_337_linked_in.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_338_forrst.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_338_forrst.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_339_pinboard.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_339_pinboard.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_340_behance.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_340_behance.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_341_github.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_341_github.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_342_youtube.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_342_youtube.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_343_skitch.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_343_skitch.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_344_4square.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_344_4square.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_345_quora.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_345_quora.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_346_google_plus.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_346_google_plus.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_347_spootify.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_347_spootify.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_348_stumbleupon.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_348_stumbleupon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_349_readability.png" afterPath="$PROJECT_DIR$/images/glyphicons/png/glyphicons_349_readability.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/autocomplete/indicator.gif" afterPath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/autocomplete/indicator.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/b0e4428a/images/logo.png" afterPath="$PROJECT_DIR$/themes/old/assets/b0e4428a/images/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/treeview/images/minus.gif" afterPath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/treeview/images/minus.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/treeview/images/plus.gif" afterPath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/treeview/images/plus.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/screen1.png" afterPath="$PROJECT_DIR$/images/screen1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/screen2.png.png" afterPath="$PROJECT_DIR$/images/screen2.png.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/rating/star.gif" afterPath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/rating/star.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/treeview/images/treeview-black-line.gif" afterPath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/treeview/images/treeview-black-line.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/treeview/images/treeview-black.gif" afterPath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/treeview/images/treeview-black.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/treeview/images/treeview-default-line.gif" afterPath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/treeview/images/treeview-default-line.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/treeview/images/treeview-default.gif" afterPath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/treeview/images/treeview-default.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/treeview/images/treeview-famfamfam-line.gif" afterPath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/treeview/images/treeview-famfamfam-line.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/treeview/images/treeview-famfamfam.gif" afterPath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/treeview/images/treeview-famfamfam.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/treeview/images/treeview-gray-line.gif" afterPath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/treeview/images/treeview-gray-line.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/treeview/images/treeview-gray.gif" afterPath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/treeview/images/treeview-gray.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/treeview/images/treeview-red-line.gif" afterPath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/treeview/images/treeview-red-line.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/treeview/images/treeview-red.gif" afterPath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/treeview/images/treeview-red.gif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/custom-theme/images/ui-bg_flat_0_aaaaaa_40x100.png" afterPath="$PROJECT_DIR$/css/custom-theme/images/ui-bg_flat_0_aaaaaa_40x100.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jui/css/base/images/ui-bg_flat_0_aaaaaa_40x100.png" afterPath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jui/css/base/images/ui-bg_flat_0_aaaaaa_40x100.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/custom-theme/images/ui-bg_flat_75_ffffff_40x100.png" afterPath="$PROJECT_DIR$/css/custom-theme/images/ui-bg_flat_75_ffffff_40x100.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jui/css/base/images/ui-bg_flat_75_ffffff_40x100.png" afterPath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jui/css/base/images/ui-bg_flat_75_ffffff_40x100.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/custom-theme/images/ui-bg_glass_55_fbf9ee_1x400.png" afterPath="$PROJECT_DIR$/css/custom-theme/images/ui-bg_glass_55_fbf9ee_1x400.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jui/css/base/images/ui-bg_glass_55_fbf9ee_1x400.png" afterPath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jui/css/base/images/ui-bg_glass_55_fbf9ee_1x400.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/custom-theme/images/ui-bg_glass_65_ffffff_1x400.png" afterPath="$PROJECT_DIR$/css/custom-theme/images/ui-bg_glass_65_ffffff_1x400.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jui/css/base/images/ui-bg_glass_65_ffffff_1x400.png" afterPath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jui/css/base/images/ui-bg_glass_65_ffffff_1x400.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/custom-theme/images/ui-bg_glass_75_dadada_1x400.png" afterPath="$PROJECT_DIR$/css/custom-theme/images/ui-bg_glass_75_dadada_1x400.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jui/css/base/images/ui-bg_glass_75_dadada_1x400.png" afterPath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jui/css/base/images/ui-bg_glass_75_dadada_1x400.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/custom-theme/images/ui-bg_glass_75_e6e6e6_1x400.png" afterPath="$PROJECT_DIR$/css/custom-theme/images/ui-bg_glass_75_e6e6e6_1x400.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jui/css/base/images/ui-bg_glass_75_e6e6e6_1x400.png" afterPath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jui/css/base/images/ui-bg_glass_75_e6e6e6_1x400.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/custom-theme/images/ui-bg_glass_95_fef1ec_1x400.png" afterPath="$PROJECT_DIR$/css/custom-theme/images/ui-bg_glass_95_fef1ec_1x400.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jui/css/base/images/ui-bg_glass_95_fef1ec_1x400.png" afterPath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jui/css/base/images/ui-bg_glass_95_fef1ec_1x400.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jui/css/base/images/ui-bg_highlight-soft_75_cccccc_1x100.png" afterPath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jui/css/base/images/ui-bg_highlight-soft_75_cccccc_1x100.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/custom-theme/images/ui-bg_highlight-soft_75_eeeeee_1x100.png" afterPath="$PROJECT_DIR$/css/custom-theme/images/ui-bg_highlight-soft_75_eeeeee_1x100.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/custom-theme/images/ui-icons_0055cc_256x240.png" afterPath="$PROJECT_DIR$/css/custom-theme/images/ui-icons_0055cc_256x240.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/custom-theme/images/ui-icons_222222_256x240.png" afterPath="$PROJECT_DIR$/css/custom-theme/images/ui-icons_222222_256x240.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jui/css/base/images/ui-icons_222222_256x240.png" afterPath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jui/css/base/images/ui-icons_222222_256x240.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/custom-theme/images/ui-icons_2e83ff_256x240.png" afterPath="$PROJECT_DIR$/css/custom-theme/images/ui-icons_2e83ff_256x240.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jui/css/base/images/ui-icons_2e83ff_256x240.png" afterPath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jui/css/base/images/ui-icons_2e83ff_256x240.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/custom-theme/images/ui-icons_454545_256x240.png" afterPath="$PROJECT_DIR$/css/custom-theme/images/ui-icons_454545_256x240.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jui/css/base/images/ui-icons_454545_256x240.png" afterPath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jui/css/base/images/ui-icons_454545_256x240.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/custom-theme/images/ui-icons_888888_256x240.png" afterPath="$PROJECT_DIR$/css/custom-theme/images/ui-icons_888888_256x240.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jui/css/base/images/ui-icons_888888_256x240.png" afterPath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jui/css/base/images/ui-icons_888888_256x240.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/custom-theme/images/ui-icons_cd0a0a_256x240.png" afterPath="$PROJECT_DIR$/css/custom-theme/images/ui-icons_cd0a0a_256x240.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jui/css/base/images/ui-icons_cd0a0a_256x240.png" afterPath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jui/css/base/images/ui-icons_cd0a0a_256x240.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.htaccess" afterPath="$PROJECT_DIR$/.htaccess" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/.htaccess" afterPath="$PROJECT_DIR$/protected/.htaccess" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/classic/views/.htaccess" afterPath="$PROJECT_DIR$/themes/classic/views/.htaccess" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/models/AccountType.php" afterPath="$PROJECT_DIR$/protected/models/AccountType.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/controllers/AccountsController.php" afterPath="$PROJECT_DIR$/protected/controllers/AccountsController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/controllers/CategoriesController.php" afterPath="$PROJECT_DIR$/protected/controllers/CategoriesController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/data/sqlQueries/Reports/Category.sql" afterPath="$PROJECT_DIR$/protected/data/sqlQueries/Reports/Category.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/extensions/yiiext/highcharts/ColumnWidget.php" afterPath="$PROJECT_DIR$/protected/extensions/yiiext/highcharts/ColumnWidget.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/components/Command.php" afterPath="$PROJECT_DIR$/protected/components/Command.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/models/ContactForm.php" afterPath="$PROJECT_DIR$/protected/models/ContactForm.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/components/Controller.php" afterPath="$PROJECT_DIR$/protected/components/Controller.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/runtime/gii-1.1.9/ControllerCode.php" afterPath="$PROJECT_DIR$/protected/runtime/gii-1.1.9/ControllerCode.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/models/Country.php" afterPath="$PROJECT_DIR$/protected/models/Country.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/runtime/gii-1.1.9/CrudCode.php" afterPath="$PROJECT_DIR$/protected/runtime/gii-1.1.9/CrudCode.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/gii/crud/CrudGenerator.php" afterPath="$PROJECT_DIR$/protected/gii/crud/CrudGenerator.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/data/DataImport/Currency.php" afterPath="$PROJECT_DIR$/protected/data/DataImport/Currency.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/models/Currency.php" afterPath="$PROJECT_DIR$/protected/models/Currency.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/tests/unit/models/CurrencyTest.php" afterPath="$PROJECT_DIR$/protected/tests/unit/models/CurrencyTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/controllers/DashboardController.php" afterPath="$PROJECT_DIR$/protected/controllers/DashboardController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/commands/DataImportCommand.php" afterPath="$PROJECT_DIR$/protected/commands/DataImportCommand.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/widgets/DatePicker.php" afterPath="$PROJECT_DIR$/protected/widgets/DatePicker.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/extensions/Usoft/Email.php.1" afterPath="$PROJECT_DIR$/protected/extensions/Usoft/Email.php.1" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/extensions/Usoft/Email.php" afterPath="$PROJECT_DIR$/protected/extensions/Usoft/Email.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/extensions/Usoft/Html/Table/Header.php" afterPath="$PROJECT_DIR$/protected/extensions/Usoft/Html/Table/Header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/extensions/yiiext/highcharts/HighchartsWidget.php" afterPath="$PROJECT_DIR$/protected/extensions/yiiext/highcharts/HighchartsWidget.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/widgets/HtmlMoneyValue.php" afterPath="$PROJECT_DIR$/protected/widgets/HtmlMoneyValue.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/models/LoginForm.php" afterPath="$PROJECT_DIR$/protected/models/LoginForm.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jui/MIT-LICENSE.txt" afterPath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jui/MIT-LICENSE.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/runtime/gii-1.1.9/ModelCode.php" afterPath="$PROJECT_DIR$/protected/runtime/gii-1.1.9/ModelCode.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/components/Pager.php" afterPath="$PROJECT_DIR$/protected/components/Pager.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/extensions/Usoft/Pager.php" afterPath="$PROJECT_DIR$/protected/extensions/Usoft/Pager.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/extensions/yiiext/highcharts/PieWidget.php" afterPath="$PROJECT_DIR$/protected/extensions/yiiext/highcharts/PieWidget.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/extensions/Rmail/RFC822.php" afterPath="$PROJECT_DIR$/protected/extensions/Rmail/RFC822.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/widgets/ReportColumnChart.php" afterPath="$PROJECT_DIR$/protected/widgets/ReportColumnChart.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/widgets/ReportPieChart.php" afterPath="$PROJECT_DIR$/protected/widgets/ReportPieChart.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/extensions/Rmail/Rmail.php" afterPath="$PROJECT_DIR$/protected/extensions/Rmail/Rmail.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/controllers/SiteController.php" afterPath="$PROJECT_DIR$/protected/controllers/SiteController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/tests/functional/SiteTest.php" afterPath="$PROJECT_DIR$/protected/tests/functional/SiteTest.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/extensions/Usoft/Html/TableAbstract.php" afterPath="$PROJECT_DIR$/protected/extensions/Usoft/Html/TableAbstract.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/extensions/Usoft/Html/Tabs.php" afterPath="$PROJECT_DIR$/protected/extensions/Usoft/Html/Tabs.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/models/Transaction.php" afterPath="$PROJECT_DIR$/protected/models/Transaction.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/models/TransactionStatus.php" afterPath="$PROJECT_DIR$/protected/models/TransactionStatus.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/models/TransactionType.php" afterPath="$PROJECT_DIR$/protected/models/TransactionType.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/widgets/UserCategoriesSelect.php" afterPath="$PROJECT_DIR$/protected/widgets/UserCategoriesSelect.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/UserIdentity.php.html" afterPath="$PROJECT_DIR$/misc/report/codecoverage/UserIdentity.php.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/models/UserLogin.php" afterPath="$PROJECT_DIR$/protected/models/UserLogin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/gii/crud/UsoftCrudCode.php" afterPath="$PROJECT_DIR$/protected/gii/crud/UsoftCrudCode.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/runtime/gii-1.1.9/UsoftCrudCode.php" afterPath="$PROJECT_DIR$/protected/runtime/gii-1.1.9/UsoftCrudCode.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/tests/WebTestCase.php" afterPath="$PROJECT_DIR$/protected/tests/WebTestCase.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/widgets/views/_datePicker.php" afterPath="$PROJECT_DIR$/protected/widgets/views/_datePicker.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/gii/crud/templates/default/_form.php" afterPath="$PROJECT_DIR$/protected/gii/crud/templates/default/_form.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/accounts/_form.php" afterPath="$PROJECT_DIR$/protected/views/accounts/_form.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/categories/_form.php" afterPath="$PROJECT_DIR$/protected/views/categories/_form.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/transaction/_form.php" afterPath="$PROJECT_DIR$/protected/views/transaction/_form.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/gii/crud/templates/default/_row.php" afterPath="$PROJECT_DIR$/protected/gii/crud/templates/default/_row.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/accounts/_row.php" afterPath="$PROJECT_DIR$/protected/views/accounts/_row.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/transaction/_row.php" afterPath="$PROJECT_DIR$/protected/views/transaction/_row.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/gii/crud/templates/default/_table.php" afterPath="$PROJECT_DIR$/protected/gii/crud/templates/default/_table.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/accounts/_table.php" afterPath="$PROJECT_DIR$/protected/views/accounts/_table.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/budgets/_table.php" afterPath="$PROJECT_DIR$/protected/views/budgets/_table.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/transaction/_table.php" afterPath="$PROJECT_DIR$/protected/views/transaction/_table.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/widgets/views/_userCategoriesAutoComplete.php" afterPath="$PROJECT_DIR$/protected/widgets/views/_userCategoriesAutoComplete.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/widgets/views/_userCategoriesSelect.php" afterPath="$PROJECT_DIR$/protected/widgets/views/_userCategoriesSelect.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/gii/crud/templates/default/_view.php" afterPath="$PROJECT_DIR$/protected/gii/crud/templates/default/_view.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/budgets/_view.php" afterPath="$PROJECT_DIR$/protected/views/budgets/_view.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/site/pages/about.php" afterPath="$PROJECT_DIR$/protected/views/site/pages/about.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/budgets/admin.php" afterPath="$PROJECT_DIR$/protected/views/budgets/admin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/runtime/application.log" afterPath="$PROJECT_DIR$/protected/runtime/application.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/data/dbDumps/aws_learntosaveup_2012-12-21.sql" afterPath="$PROJECT_DIR$/protected/data/dbDumps/aws_learntosaveup_2012-12-21.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/data/dbDumps/aws_test.learntosaveup_2012-12-21.sql" afterPath="$PROJECT_DIR$/protected/data/dbDumps/aws_test.learntosaveup_2012-12-21.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/bootstrap-responsive.css" afterPath="$PROJECT_DIR$/css/bootstrap-responsive.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/bootstrap-responsive.min.css" afterPath="$PROJECT_DIR$/css/bootstrap-responsive.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/bootstrap.css" afterPath="$PROJECT_DIR$/css/bootstrap.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/bootstrap.js" afterPath="$PROJECT_DIR$/js/bootstrap.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/js/bootstrap.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/extensions/yiiext/highcharts/assets/modules/canvas-tools.js" afterPath="$PROJECT_DIR$/protected/extensions/yiiext/highcharts/assets/modules/canvas-tools.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/extensions/yiiext/highcharts/assets/modules/canvas-tools.src.js" afterPath="$PROJECT_DIR$/protected/extensions/yiiext/highcharts/assets/modules/canvas-tools.src.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/extensions/yiiext/behaviors/model/trees/changelog.txt" afterPath="$PROJECT_DIR$/protected/extensions/yiiext/behaviors/model/trees/changelog.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/assets/sampleTransactionImport/clearcheckbook/clearcheckbook.csv" afterPath="$PROJECT_DIR$/protected/assets/sampleTransactionImport/clearcheckbook/clearcheckbook.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/assets/sampleTransactionImport/clearcheckbook/clearcheckbook.ofx" afterPath="$PROJECT_DIR$/protected/assets/sampleTransactionImport/clearcheckbook/clearcheckbook.ofx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/assets/sampleTransactionImport/clearcheckbook/clearcheckbook.qfx" afterPath="$PROJECT_DIR$/protected/assets/sampleTransactionImport/clearcheckbook/clearcheckbook.qfx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/assets/sampleTransactionImport/clearcheckbook/clearcheckbook.qif" afterPath="$PROJECT_DIR$/protected/assets/sampleTransactionImport/clearcheckbook/clearcheckbook.qif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/layouts/old/column1.php" afterPath="$PROJECT_DIR$/protected/views/layouts/old/column1.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/layouts/old/column2.php" afterPath="$PROJECT_DIR$/protected/views/layouts/old/column2.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/components.dashboard.html" afterPath="$PROJECT_DIR$/misc/report/codecoverage/components.dashboard.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/components.html" afterPath="$PROJECT_DIR$/misc/report/codecoverage/components.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/components_Command.php.html" afterPath="$PROJECT_DIR$/misc/report/codecoverage/components_Command.php.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/components_Controller.php.html" afterPath="$PROJECT_DIR$/misc/report/codecoverage/components_Controller.php.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/components_Pager.php.html" afterPath="$PROJECT_DIR$/misc/report/codecoverage/components_Pager.php.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/components_UserIdentity.php.html" afterPath="$PROJECT_DIR$/misc/report/codecoverage/components_UserIdentity.php.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/site/contact.php" afterPath="$PROJECT_DIR$/protected/views/site/contact.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/container-min.js" afterPath="$PROJECT_DIR$/misc/report/codecoverage/container-min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/container.css" afterPath="$PROJECT_DIR$/misc/report/codecoverage/container.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/gii/crud/templates/default/controller.php" afterPath="$PROJECT_DIR$/protected/gii/crud/templates/default/controller.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/gii/crud/templates/default/create.php" afterPath="$PROJECT_DIR$/protected/gii/crud/templates/default/create.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/accounts/create.php" afterPath="$PROJECT_DIR$/protected/views/accounts/create.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/budgets/create.php" afterPath="$PROJECT_DIR$/protected/views/budgets/create.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/categories/create.php" afterPath="$PROJECT_DIR$/protected/views/categories/create.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/transaction/create.php" afterPath="$PROJECT_DIR$/protected/views/transaction/create.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/transaction/createMultiple.php" afterPath="$PROJECT_DIR$/protected/views/transaction/createMultiple.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/extensions/yiiext/highcharts/assets/themes/dark-blue.js" afterPath="$PROJECT_DIR$/protected/extensions/yiiext/highcharts/assets/themes/dark-blue.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/extensions/yiiext/highcharts/assets/themes/dark-green.js" afterPath="$PROJECT_DIR$/protected/extensions/yiiext/highcharts/assets/themes/dark-green.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/config/db_dev.php" afterPath="$PROJECT_DIR$/protected/config/db_dev.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/accounts/delete.php" afterPath="$PROJECT_DIR$/protected/views/accounts/delete.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/categories/delete.php" afterPath="$PROJECT_DIR$/protected/views/categories/delete.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/transaction/delete.php" afterPath="$PROJECT_DIR$/protected/views/transaction/delete.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/site/error.php" afterPath="$PROJECT_DIR$/protected/views/site/error.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/extensions/yiiext/highcharts/assets/modules/exporting.js" afterPath="$PROJECT_DIR$/protected/extensions/yiiext/highcharts/assets/modules/exporting.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/extensions/yiiext/highcharts/assets/modules/exporting.src.js" afterPath="$PROJECT_DIR$/protected/extensions/yiiext/highcharts/assets/modules/exporting.src.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/css/form.css" afterPath="$PROJECT_DIR$/themes/old/css/form.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/extensions/yiiext/highcharts/assets/themes/gray.js" afterPath="$PROJECT_DIR$/protected/extensions/yiiext/highcharts/assets/themes/gray.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/extensions/yiiext/highcharts/assets/themes/grid.js" afterPath="$PROJECT_DIR$/protected/extensions/yiiext/highcharts/assets/themes/grid.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/extensions/yiiext/highcharts/assets/highcharts-more.js" afterPath="$PROJECT_DIR$/protected/extensions/yiiext/highcharts/assets/highcharts-more.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/highcharts.js" afterPath="$PROJECT_DIR$/misc/report/codecoverage/highcharts.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/extensions/yiiext/highcharts/assets/highcharts.js" afterPath="$PROJECT_DIR$/protected/extensions/yiiext/highcharts/assets/highcharts.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/extensions/yiiext/highcharts/assets/highcharts.src.js" afterPath="$PROJECT_DIR$/protected/extensions/yiiext/highcharts/assets/highcharts.src.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/b0e4428a/css/ie.css" afterPath="$PROJECT_DIR$/themes/old/assets/b0e4428a/css/ie.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/css/ie.css" afterPath="$PROJECT_DIR$/themes/old/css/ie.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/transaction/import.php" afterPath="$PROJECT_DIR$/protected/views/transaction/import.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index-test.php" afterPath="$PROJECT_DIR$/index-test.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/index.dashboard.html" afterPath="$PROJECT_DIR$/misc/report/codecoverage/index.dashboard.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/index.html" afterPath="$PROJECT_DIR$/misc/report/codecoverage/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/gii/crud/templates/default/index.php" afterPath="$PROJECT_DIR$/protected/gii/crud/templates/default/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/gii/crud/views/index.php" afterPath="$PROJECT_DIR$/protected/gii/crud/views/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/accounts/index.php" afterPath="$PROJECT_DIR$/protected/views/accounts/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/budgets/index.php" afterPath="$PROJECT_DIR$/protected/views/budgets/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/categories/index.php" afterPath="$PROJECT_DIR$/protected/views/categories/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/dashboard/index.php" afterPath="$PROJECT_DIR$/protected/views/dashboard/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/site/index.php" afterPath="$PROJECT_DIR$/protected/views/site/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/jquery-1.7.1.min.js" afterPath="$PROJECT_DIR$/js/jquery-1.7.1.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/custom-theme/jquery-ui-1.8.18.custom.css" afterPath="$PROJECT_DIR$/css/custom-theme/jquery-ui-1.8.18.custom.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/jquery-ui-1.8.18.custom.min.js" afterPath="$PROJECT_DIR$/js/jquery-ui-1.8.18.custom.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jui/js/jquery-ui-i18n.min.js" afterPath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jui/js/jquery-ui-i18n.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jui/css/base/jquery-ui.css" afterPath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jui/css/base/jquery-ui.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jui/js/jquery-ui.min.js" afterPath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jui/js/jquery-ui.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jquery.ajaxqueue.js" afterPath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jquery.ajaxqueue.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/autocomplete/jquery.autocomplete.css" afterPath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/autocomplete/jquery.autocomplete.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jquery.autocomplete.js" afterPath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jquery.autocomplete.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jquery.ba-bbq.js" afterPath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jquery.ba-bbq.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jquery.bgiframe.js" afterPath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jquery.bgiframe.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jquery.cookie.js" afterPath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jquery.cookie.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/b0e4428a/js/fancybox/jquery.fancybox-1.3.1.css" afterPath="$PROJECT_DIR$/themes/old/assets/b0e4428a/js/fancybox/jquery.fancybox-1.3.1.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/b0e4428a/js/fancybox/jquery.fancybox-1.3.1.pack.js" afterPath="$PROJECT_DIR$/themes/old/assets/b0e4428a/js/fancybox/jquery.fancybox-1.3.1.pack.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jquery.js" afterPath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jquery.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jquery.maskedinput.js" afterPath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jquery.maskedinput.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jquery.maskedinput.min.js" afterPath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jquery.maskedinput.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jquery.metadata.js" afterPath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jquery.metadata.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/jquery.min.js" afterPath="$PROJECT_DIR$/misc/report/codecoverage/jquery.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jquery.min.js" afterPath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jquery.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jquery.multifile.js" afterPath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jquery.multifile.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/rating/jquery.rating.css" afterPath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/rating/jquery.rating.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jquery.rating.js" afterPath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jquery.rating.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/b0e4428a/js/jquery.tooltip-1.2.6.min.js" afterPath="$PROJECT_DIR$/themes/old/assets/b0e4428a/js/jquery.tooltip-1.2.6.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jquery.treeview.async.js" afterPath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jquery.treeview.async.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/treeview/jquery.treeview.css" afterPath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/treeview/jquery.treeview.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jquery.treeview.edit.js" afterPath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jquery.treeview.edit.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jquery.treeview.js" afterPath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jquery.treeview.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jui/css/base/jquery.ui.accordion.css" afterPath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jui/css/base/jquery.ui.accordion.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jui/css/base/jquery.ui.all.css" afterPath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jui/css/base/jquery.ui.all.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jui/css/base/jquery.ui.autocomplete.css" afterPath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jui/css/base/jquery.ui.autocomplete.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jui/css/base/jquery.ui.base.css" afterPath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jui/css/base/jquery.ui.base.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jui/css/base/jquery.ui.button.css" afterPath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jui/css/base/jquery.ui.button.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jui/css/base/jquery.ui.core.css" afterPath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jui/css/base/jquery.ui.core.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jui/css/base/jquery.ui.datepicker.css" afterPath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jui/css/base/jquery.ui.datepicker.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jui/css/base/jquery.ui.dialog.css" afterPath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jui/css/base/jquery.ui.dialog.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jui/css/base/jquery.ui.progressbar.css" afterPath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jui/css/base/jquery.ui.progressbar.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jui/css/base/jquery.ui.resizable.css" afterPath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jui/css/base/jquery.ui.resizable.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jui/css/base/jquery.ui.selectable.css" afterPath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jui/css/base/jquery.ui.selectable.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jui/css/base/jquery.ui.slider.css" afterPath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jui/css/base/jquery.ui.slider.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jui/css/base/jquery.ui.tabs.css" afterPath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jui/css/base/jquery.ui.tabs.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jui/css/base/jquery.ui.theme.css" afterPath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jui/css/base/jquery.ui.theme.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jquery.yii.js" afterPath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jquery.yii.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jquery.yiiactiveform.js" afterPath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jquery.yiiactiveform.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/yiitab/jquery.yiitab.css" afterPath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/yiitab/jquery.yiitab.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jquery.yiitab.js" afterPath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jquery.yiitab.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/data/dbDumps/learntosaveup_2012-07-15.sql" afterPath="$PROJECT_DIR$/protected/data/dbDumps/learntosaveup_2012-07-15.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/data/dbDumps/learntosaveup_2012-07-15_2.sql" afterPath="$PROJECT_DIR$/protected/data/dbDumps/learntosaveup_2012-07-15_2.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/site/login.php" afterPath="$PROJECT_DIR$/protected/views/site/login.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/b0e4428a/css/main.css" afterPath="$PROJECT_DIR$/themes/old/assets/b0e4428a/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/css/main.css" afterPath="$PROJECT_DIR$/themes/old/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/b0e4428a/js/main.js" afterPath="$PROJECT_DIR$/themes/old/assets/b0e4428a/js/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/config/main.php" afterPath="$PROJECT_DIR$/protected/config/main.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/layouts/old/main.php" afterPath="$PROJECT_DIR$/protected/views/layouts/old/main.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/extensions/Rmail/mimePart.php" afterPath="$PROJECT_DIR$/protected/extensions/Rmail/mimePart.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/assets/sampleTransactionImport/mint/mint_transactions.csv" afterPath="$PROJECT_DIR$/protected/assets/sampleTransactionImport/mint/mint_transactions.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/models.dashboard.html" afterPath="$PROJECT_DIR$/misc/report/codecoverage/models.dashboard.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/models.html" afterPath="$PROJECT_DIR$/misc/report/codecoverage/models.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/models_Account.php.html" afterPath="$PROJECT_DIR$/misc/report/codecoverage/models_Account.php.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/models_AccountType.php.html" afterPath="$PROJECT_DIR$/misc/report/codecoverage/models_AccountType.php.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/models_Category.php.html" afterPath="$PROJECT_DIR$/misc/report/codecoverage/models_Category.php.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/models_ContactForm.php.html" afterPath="$PROJECT_DIR$/misc/report/codecoverage/models_ContactForm.php.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/models_Country.php.html" afterPath="$PROJECT_DIR$/misc/report/codecoverage/models_Country.php.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/models_Currency.php.html" afterPath="$PROJECT_DIR$/misc/report/codecoverage/models_Currency.php.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/models_LoginForm.php.html" afterPath="$PROJECT_DIR$/misc/report/codecoverage/models_LoginForm.php.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/models_Transaction.php.html" afterPath="$PROJECT_DIR$/misc/report/codecoverage/models_Transaction.php.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/models_TransactionStatus.php.html" afterPath="$PROJECT_DIR$/misc/report/codecoverage/models_TransactionStatus.php.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/models_TransactionType.php.html" afterPath="$PROJECT_DIR$/misc/report/codecoverage/models_TransactionType.php.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/models_User.php.html" afterPath="$PROJECT_DIR$/misc/report/codecoverage/models_User.php.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/models_UserLogin.php.html" afterPath="$PROJECT_DIR$/misc/report/codecoverage/models_UserLogin.php.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/extensions/yiiext/highcharts/assets/adapters/mootools-adapter.js" afterPath="$PROJECT_DIR$/protected/extensions/yiiext/highcharts/assets/adapters/mootools-adapter.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/extensions/yiiext/highcharts/assets/adapters/mootools-adapter.src.js" afterPath="$PROJECT_DIR$/protected/extensions/yiiext/highcharts/assets/adapters/mootools-adapter.src.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/b0e4428a/css/print.css" afterPath="$PROJECT_DIR$/themes/old/assets/b0e4428a/css/print.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/css/print.css" afterPath="$PROJECT_DIR$/themes/old/css/print.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/extensions/yiiext/highcharts/assets/adapters/prototype-adapter.js" afterPath="$PROJECT_DIR$/protected/extensions/yiiext/highcharts/assets/adapters/prototype-adapter.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/extensions/yiiext/highcharts/assets/adapters/prototype-adapter.src.js" afterPath="$PROJECT_DIR$/protected/extensions/yiiext/highcharts/assets/adapters/prototype-adapter.src.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/layouts/public.php" afterPath="$PROJECT_DIR$/protected/views/layouts/public.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/extensions/yiiext/behaviors/model/trees/readme_en.html" afterPath="$PROJECT_DIR$/protected/extensions/yiiext/behaviors/model/trees/readme_en.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/extensions/yiiext/behaviors/model/trees/readme_ru.html" afterPath="$PROJECT_DIR$/protected/extensions/yiiext/behaviors/model/trees/readme_ru.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/site/pages/registerSuccess.php" afterPath="$PROJECT_DIR$/protected/views/site/pages/registerSuccess.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/report.html" afterPath="$PROJECT_DIR$/misc/report/report.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/tests/report/report.html" afterPath="$PROJECT_DIR$/protected/tests/report/report.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/report.xml" afterPath="$PROJECT_DIR$/misc/report/report.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/tests/report/report.xml" afterPath="$PROJECT_DIR$/protected/tests/report/report.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/extensions/yiiext/behaviors/model/trees/schema.sql" afterPath="$PROJECT_DIR$/protected/extensions/yiiext/behaviors/model/trees/schema.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/extensions/yiiext/behaviors/model/trees/schema_with_many_roots.sql" afterPath="$PROJECT_DIR$/protected/extensions/yiiext/behaviors/model/trees/schema_with_many_roots.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/b0e4428a/css/screen.css" afterPath="$PROJECT_DIR$/themes/old/assets/b0e4428a/css/screen.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/css/screen.css" afterPath="$PROJECT_DIR$/themes/old/css/screen.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/extensions/yiiext/highcharts/assets/themes/skies.js" afterPath="$PROJECT_DIR$/protected/extensions/yiiext/highcharts/assets/themes/skies.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/extensions/Rmail/smtp.php" afterPath="$PROJECT_DIR$/protected/extensions/Rmail/smtp.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/runtime/state.bin" afterPath="$PROJECT_DIR$/protected/runtime/state.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/style.css" afterPath="$PROJECT_DIR$/misc/report/codecoverage/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/testdox.html" afterPath="$PROJECT_DIR$/misc/report/testdox.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/tests/report/testdox.html" afterPath="$PROJECT_DIR$/protected/tests/report/testdox.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/gii/crud/templates/default/update.php" afterPath="$PROJECT_DIR$/protected/gii/crud/templates/default/update.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/accounts/update.php" afterPath="$PROJECT_DIR$/protected/views/accounts/update.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/budgets/update.php" afterPath="$PROJECT_DIR$/protected/views/budgets/update.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/categories/update.php" afterPath="$PROJECT_DIR$/protected/views/categories/update.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/transaction/update.php" afterPath="$PROJECT_DIR$/protected/views/transaction/update.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/site/verifyRegistration.php" afterPath="$PROJECT_DIR$/protected/views/site/verifyRegistration.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/gii/crud/templates/default/view.php" afterPath="$PROJECT_DIR$/protected/gii/crud/templates/default/view.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/accounts/view.php" afterPath="$PROJECT_DIR$/protected/views/accounts/view.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/budgets/view.php" afterPath="$PROJECT_DIR$/protected/views/budgets/view.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/categories/view.php" afterPath="$PROJECT_DIR$/protected/views/categories/view.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/yahoo-dom-event.js" afterPath="$PROJECT_DIR$/misc/report/codecoverage/yahoo-dom-event.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/yiic.php" afterPath="$PROJECT_DIR$/protected/yiic.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/yiic" afterPath="$PROJECT_DIR$/protected/yiic" />
+    </list>
+    <ignored path="cloudbudgets.com.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/Dummy.txt" changelist="a5aa2c0a-e04a-4c89-947d-599e52d1c0b8" time="1370548790679" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="false" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DatabaseView">
+    <flatten value="false" />
+    <groupTables value="false" />
+    <sortChildren value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="cloudbudgets.com" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="SiteController.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/protected/controllers/SiteController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="131" column="20" selection-start="2729" selection-end="2729" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="verifyRegistration.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/protected/views/site/verifyRegistration.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="10" selection-start="10" selection-end="10" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="public.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/protected/views/layouts/public.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="23" column="10" selection-start="1051" selection-end="1051" vertical-scroll-proportion="-14.375">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AccountsController.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/protected/controllers/AccountsController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="61.125">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Account.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/protected/models/Account.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="205" column="0" selection-start="5345" selection-end="5345" vertical-scroll-proportion="0.527845">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myStructureFilterPaths" />
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/protected/controllers/SiteController.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpServers">
+    <option name="servers">
+      <server host="192.168.137.101" name="Debian" port="9000" use_path_mappings="true">
+        <path_mappings>
+          <path_mapping local_path="W:/.includes/PHPUnit" remote_path="W:\.includes\PHPUnit" />
+          <path_mapping local_path="$PROJECT_DIR$" remote_path="W:\cloudbudgets.com" />
+          <path_mapping local_path="W:/.includes/Yii" remote_path="W:\.includes\Yii" />
+        </path_mappings>
+      </server>
+      <server host="cloudbudgets.debian" name="cloudbudgets.debian" use_path_mappings="true">
+        <path_mappings>
+          <path_mapping local_path="W:/.includes/PHPUnit" remote_path="/var/www/.includes/PHPUnit" />
+          <path_mapping local_path="$PROJECT_DIR$" remote_path="/var/www/cloudbudgets.com" />
+          <path_mapping local_path="W:/.includes/Yii" remote_path="/var/www/.includes/Yii" />
+        </path_mappings>
+      </server>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true">
+    <include_path>
+      <path value="W:\.includes\PHPUnit" />
+      <path value="W:\.includes\Yii" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1696" />
+    <option name="height" value="1036" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers ProjectPane="false" />
+      <showModules />
+      <showLibraryContents ProjectPane="true" />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource ProjectPane="false" />
+      <autoscrollFromSource ProjectPane="true" />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cloudbudgets.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="project.propVCSSupport.VCSs.Git" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="W:/MyRecord" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="PublishConfig">
+    <servers>
+      <server id="798a976d-48b5-464b-bef9-66994e277aa7">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
+    </servers>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpRemoteDebugRunConfigurationType" factoryName="PHP Remote Debug" server_name="Debian" session_id="phpstorm-xdebug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value="Show Inherited" />
+  </component>
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="DETECT_NESTED_COPIES" value="true" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5aa2c0a-e04a-4c89-947d-599e52d1c0b8" name="Default" comment="" />
+      <created>1360009731977</created>
+      <updated>1360009731977</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1696" height="1036" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.36" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32914287" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32986537" sideWeight="0.6342857" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.249694" sideWeight="0.6342857" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32986537" sideWeight="0.6342857" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20869033" sideWeight="0.64" order="1" side_tool="true" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4457143" sideWeight="0.497552" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32986537" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.36571428" sideWeight="0.49816403" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32914287" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" x="23" y="366" width="1634" height="288" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3288364" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORISONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" value="PhpStorm, Windows Git" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="PhpStorm, Windows Git" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="5" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://W:/.includes/Yii/base/CApplication.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="187" column="0" selection-start="8258" selection-end="8258" vertical-scroll-proportion="0.33197555" />
+      </provider>
+    </entry>
+    <entry file="file://W:/.includes/Yii/base/CComponent.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="90" column="12" selection-start="3732" selection-end="3732" vertical-scroll-proportion="0.34920636" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/components/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="11" selection-start="846" selection-end="846" vertical-scroll-proportion="0.34920636" />
+      </provider>
+    </entry>
+    <entry file="file://W:/.includes/Yii/web/filters/CFilterChain.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="132" column="0" selection-start="4177" selection-end="4225" vertical-scroll-proportion="0.67695963" />
+      </provider>
+    </entry>
+    <entry file="file://W:/.includes/Yii/web/actions/CInlineAction.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="0" selection-start="1353" selection-end="1353" vertical-scroll-proportion="0.6082949" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/controllers/CategoriesController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/models/Budget_regi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/controllers/BudgetsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="45" selection-start="1081" selection-end="1081" vertical-scroll-proportion="-18.115385" />
+      </provider>
+    </entry>
+    <entry file="file://W:/.includes/Yii/yiilite.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="696" column="20" selection-start="26461" selection-end="26461" vertical-scroll-proportion="-10.730769" />
+      </provider>
+    </entry>
+    <entry file="file://W:/.includes/Yii/web/CController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="817" column="23" selection-start="30636" selection-end="30636" vertical-scroll-proportion="0.33252427" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/views/accounts/_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/controllers/SiteController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="131" column="20" selection-start="2729" selection-end="2729" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/views/site/verifyRegistration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="10" selection-start="10" selection-end="10" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/views/layouts/public.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="10" selection-start="1051" selection-end="1051" vertical-scroll-proportion="-14.375">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/controllers/AccountsController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="61.125">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/models/Account.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="205" column="0" selection-start="5345" selection-end="5345" vertical-scroll-proportion="0.527845">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

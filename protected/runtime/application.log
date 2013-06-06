@@ -9071,3 +9071,44 @@ Stack trace:
 REQUEST_URI=/budgets
 HTTP_REFERER=http://cloudbudgets.debian/budgets
 ---
+2013/04/18 22:02:44 [error] [system.db.CDbCommand] CDbCommand::fetch() failed: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ANDd YEAR(`date`) = 2013) GROUP BY t.category_id ORDER BY t.date DESC, t.id DESC' at line 1. The SQL statement executed was: SELECT SUM(t.amount) AS sumAmount FROM `transaction` `t` WHERE (t.category_id = 2) AND (MONTH(`date`) = '04' ANDd YEAR(`date`) = 2013) GROUP BY t.category_id ORDER BY t.date DESC, t.id DESC LIMIT 1.
+in /var/www/cloudbudgets.com/protected/models/Budget.php (174)
+in /var/www/cloudbudgets.com/protected/views/budgets/_row.php (3)
+in /var/www/cloudbudgets.com/protected/views/budgets/_table.php (24)
+2013/04/18 22:02:44 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ANDd YEAR(`date`) = 2013) GROUP BY t.category_id ORDER BY t.date DESC, t.id DESC' at line 1. The SQL statement executed was: SELECT SUM(t.amount) AS sumAmount FROM `transaction` `t` WHERE (t.category_id = 2) AND (MONTH(`date`) = '04' ANDd YEAR(`date`) = 2013) GROUP BY t.category_id ORDER BY t.date DESC, t.id DESC LIMIT 1' in /var/www/.includes/Yii/db/CDbCommand.php:541
+Stack trace:
+#0 /var/www/.includes/Yii/db/CDbCommand.php(414): CDbCommand->queryInternal('fetch', Array, Array)
+#1 /var/www/.includes/Yii/db/ar/CActiveRecord.php(1297): CDbCommand->queryRow()
+#2 /var/www/.includes/Yii/db/ar/CActiveRecord.php(1402): CActiveRecord->query(Object(CDbCriteria))
+#3 /var/www/cloudbudgets.com/protected/models/Budget.php(174): CActiveRecord->find(Object(CDbCriteria))
+#4 /var/www/cloudbudgets.com/protected/views/budgets/_row.php(3): Budget->getTransactionSumForMonth()
+#5 /var/www/.includes/Yii/web/CBaseController.php(126): require('/var/www/cloudb...')
+#6 /var/www/.includes/Yii/web/CBaseController.php(95): CBaseController->renderInternal('/var/www/cloudb...', Array, true)
+#7 /var/www/.includes/Yii/web/CController.php(869): CBaseController->renderFile('/var/www/cloudb...', Array, true)
+#8 /var/www/cloudbudgets.com/protected/views/budgets/_table.php(24): CController->renderPartial('application.vie...', Array)
+#9 /var/www/.includes/Yii/web/CBaseController.php(126): require('/var/www/cloudb...')
+#10 /var/www/.includes/Yii/web/CBaseController.php(95): CBaseController->renderInternal('/var/www/cloudb...', Array, true)
+#11 /var/www/.includes/Yii/web/CController.php(869): CBaseController->renderFile('/var/www/cloudb...', Array, true)
+#12 /var/www/cloudbudgets.com/protected/views/budgets/index.php(21): CController->renderPartial('application.vie...', Array)
+#13 /var/www/.includes/Yii/web/CBaseController.php(126): require('/var/www/cloudb...')
+#14 /var/www/.includes/Yii/web/CBaseController.php(95): CBaseController->renderInternal('/var/www/cloudb...', Array, true)
+#15 /var/www/.includes/Yii/web/CController.php(869): CBaseController->renderFile('/var/www/cloudb...', Array, true)
+#16 /var/www/.includes/Yii/web/CController.php(782): CController->renderPartial('index', Array, true)
+#17 /var/www/cloudbudgets.com/protected/controllers/BudgetsController.php(11): CController->render('index', Array)
+#18 /var/www/.includes/Yii/web/actions/CInlineAction.php(49): BudgetsController->actionIndex()
+#19 /var/www/.includes/Yii/web/CController.php(308): CInlineAction->runWithParams(Array)
+#20 /var/www/.includes/Yii/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#21 /var/www/.includes/Yii/web/filters/CFilter.php(40): CFilterChain->run()
+#22 /var/www/.includes/Yii/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#23 /var/www/.includes/Yii/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#24 /var/www/.includes/Yii/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#25 /var/www/.includes/Yii/web/CController.php(291): CFilterChain->run()
+#26 /var/www/.includes/Yii/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#27 /var/www/.includes/Yii/web/CWebApplication.php(282): CController->run('')
+#28 /var/www/.includes/Yii/web/CWebApplication.php(141): CWebApplication->runController('budgets')
+#29 /var/www/.includes/Yii/base/CApplication.php(169): CWebApplication->processRequest()
+#30 /var/www/cloudbudgets.com/index.php(13): CApplication->run()
+#31 {main}
+REQUEST_URI=/budgets
+HTTP_REFERER=http://cloudbudgets.debian/application/dashboard
+---
