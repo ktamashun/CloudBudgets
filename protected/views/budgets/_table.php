@@ -9,13 +9,11 @@
 	<table class="table table-striped ">
 		<thead>
 			<tr>
-                        	            	
-                <th>Created At</th>
-                        	            	
                 <th>Name</th>
-                        	
-                <th>Value</th>
-            
+                <th>Limit</th>
+                <th>Spent</th>
+                <th>Balance</th>
+
                 <th style="width: 200px; " >&nbsp;</th>
 			</tr>
 		</thead>

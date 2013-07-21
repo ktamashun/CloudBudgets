@@ -13,7 +13,7 @@
  * The followings are the available model relations:
  * @property User $user
  */
-class Budget extends CActiveRecord
+class Budget_regi extends CActiveRecord
 {
 	/**
 	 * Returns the static model of the specified AR class.

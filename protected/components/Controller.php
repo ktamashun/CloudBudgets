@@ -21,7 +21,10 @@ class Controller extends CController
 	 */
 	public $breadcrumbs=array();
 
-	public $user = null;
+    /**
+     * @var User
+     */
+    public $user = null;
 
 	public $selectedMenu = 'home';
 

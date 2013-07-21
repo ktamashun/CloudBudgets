@@ -1,7 +1,7 @@
 <?php
 
 return array(
-	'ktamasTest' => array(
+	'ktamas' => array(
         'id' => 1,
 		'first_name' => 'Tamás',
 		'last_name' => 'Kovács',
@@ -14,7 +14,7 @@ return array(
 		'status' => User::STATUS_ACTIVE
 	),
 
-	'kpistaTest' => array(
+	'kpista' => array(
         'id' => 2,
 		'first_name' => 'Pista',
 		'last_name' => 'Kiss',

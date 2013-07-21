@@ -101,7 +101,12 @@ class BudgetsController extends Controller
 		$this->render('view', array('model' => $model));
 	}
 
-	public function loadModel($id)
+    /**
+     * @param int $id
+     * @return Budget
+     * @throws CHttpException
+     */
+    public function loadModel($id)
 	{
 		$model = Budget::model()->findByPk($id);
 

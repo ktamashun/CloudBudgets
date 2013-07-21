@@ -7,11 +7,14 @@
  * @property integer $id
  * @property string $created_at
  * @property integer $transaction_type_id
+ * @property string $date
+ * @property string $description
  * @property integer $account_id
+ * @property integer $to_account_id
  * @property integer $transfer_transaction_id
  * @property integer $category_id
- * @property double $amount
- * @property double $account_balance
+ * @property float $amount
+ * @property float $account_balance
  * @property integer $transaction_status_id
  * @property integer $deleted
  *
@@ -181,11 +184,6 @@ class Transaction extends CActiveRecord
 
 		return parent::afterSave();
 	}
-
-	/*public function beforeDelete()
-	{
-		return parent::beforeDelete();
-	}*/
 
 	public function afterDelete()
 	{

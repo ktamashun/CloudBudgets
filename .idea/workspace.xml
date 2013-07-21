@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a5aa2c0a-e04a-4c89-947d-599e52d1c0b8" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/tests/fixtures/Budget.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/tests/unit/models/BudgetTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/frameworkRootSettings.xml" />
       <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\33eb1c08\adapters\mootools-adapter.js" afterPath="" />
       <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\33eb1c08\adapters\mootools-adapter.src.js" afterPath="" />
       <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\33eb1c08\adapters\prototype-adapter.js" afterPath="" />
@@ -770,10 +773,17 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.htaccess" afterPath="$PROJECT_DIR$/.htaccess" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/.htaccess" afterPath="$PROJECT_DIR$/protected/.htaccess" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/classic/views/.htaccess" afterPath="$PROJECT_DIR$/themes/classic/views/.htaccess" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/tests/fixtures/Account.php" afterPath="$PROJECT_DIR$/protected/tests/fixtures/Account.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/models/AccountType.php" afterPath="$PROJECT_DIR$/protected/models/AccountType.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/controllers/AccountsController.php" afterPath="$PROJECT_DIR$/protected/controllers/AccountsController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/models/Budget.php" afterPath="$PROJECT_DIR$/protected/models/Budget.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/models/Budget_regi.php" afterPath="$PROJECT_DIR$/protected/models/Budget_regi.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/controllers/BudgetsController.php" afterPath="$PROJECT_DIR$/protected/controllers/BudgetsController.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/controllers/CategoriesController.php" afterPath="$PROJECT_DIR$/protected/controllers/CategoriesController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/models/Category.php" afterPath="$PROJECT_DIR$/protected/models/Category.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/tests/fixtures/Category.php" afterPath="$PROJECT_DIR$/protected/tests/fixtures/Category.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/data/sqlQueries/Reports/Category.sql" afterPath="$PROJECT_DIR$/protected/data/sqlQueries/Reports/Category.sql" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/tests/unit/models/CategoryTest.php" afterPath="$PROJECT_DIR$/protected/tests/unit/models/CategoryTest.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/extensions/yiiext/highcharts/ColumnWidget.php" afterPath="$PROJECT_DIR$/protected/extensions/yiiext/highcharts/ColumnWidget.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/components/Command.php" afterPath="$PROJECT_DIR$/protected/components/Command.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/models/ContactForm.php" afterPath="$PROJECT_DIR$/protected/models/ContactForm.php" />
@@ -803,16 +813,21 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/widgets/ReportColumnChart.php" afterPath="$PROJECT_DIR$/protected/widgets/ReportColumnChart.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/widgets/ReportPieChart.php" afterPath="$PROJECT_DIR$/protected/widgets/ReportPieChart.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/extensions/Rmail/Rmail.php" afterPath="$PROJECT_DIR$/protected/extensions/Rmail/Rmail.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/controllers/SiteController.php" afterPath="$PROJECT_DIR$/protected/controllers/SiteController.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/tests/functional/SiteTest.php" afterPath="$PROJECT_DIR$/protected/tests/functional/SiteTest.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/extensions/Usoft/Html/TableAbstract.php" afterPath="$PROJECT_DIR$/protected/extensions/Usoft/Html/TableAbstract.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/extensions/Usoft/Html/Tabs.php" afterPath="$PROJECT_DIR$/protected/extensions/Usoft/Html/Tabs.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/models/Transaction.php" afterPath="$PROJECT_DIR$/protected/models/Transaction.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/tests/fixtures/Transaction.php" afterPath="$PROJECT_DIR$/protected/tests/fixtures/Transaction.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/controllers/TransactionController.php" afterPath="$PROJECT_DIR$/protected/controllers/TransactionController.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/models/TransactionStatus.php" afterPath="$PROJECT_DIR$/protected/models/TransactionStatus.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/tests/unit/models/TransactionTest.php" afterPath="$PROJECT_DIR$/protected/tests/unit/models/TransactionTest.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/models/TransactionType.php" afterPath="$PROJECT_DIR$/protected/models/TransactionType.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/tests/fixtures/User.php" afterPath="$PROJECT_DIR$/protected/tests/fixtures/User.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/widgets/UserCategoriesSelect.php" afterPath="$PROJECT_DIR$/protected/widgets/UserCategoriesSelect.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/UserIdentity.php.html" afterPath="$PROJECT_DIR$/misc/report/codecoverage/UserIdentity.php.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/tests/unit/components/UserIdentityTest.php" afterPath="$PROJECT_DIR$/protected/tests/unit/components/UserIdentityTest.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/models/UserLogin.php" afterPath="$PROJECT_DIR$/protected/models/UserLogin.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/tests/unit/models/UserTest.php" afterPath="$PROJECT_DIR$/protected/tests/unit/models/UserTest.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/gii/crud/UsoftCrudCode.php" afterPath="$PROJECT_DIR$/protected/gii/crud/UsoftCrudCode.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/runtime/gii-1.1.9/UsoftCrudCode.php" afterPath="$PROJECT_DIR$/protected/runtime/gii-1.1.9/UsoftCrudCode.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/tests/WebTestCase.php" afterPath="$PROJECT_DIR$/protected/tests/WebTestCase.php" />
@@ -823,6 +838,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/transaction/_form.php" afterPath="$PROJECT_DIR$/protected/views/transaction/_form.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/gii/crud/templates/default/_row.php" afterPath="$PROJECT_DIR$/protected/gii/crud/templates/default/_row.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/accounts/_row.php" afterPath="$PROJECT_DIR$/protected/views/accounts/_row.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/budgets/_row.php" afterPath="$PROJECT_DIR$/protected/views/budgets/_row.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/transaction/_row.php" afterPath="$PROJECT_DIR$/protected/views/transaction/_row.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/gii/crud/templates/default/_table.php" afterPath="$PROJECT_DIR$/protected/gii/crud/templates/default/_table.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/accounts/_table.php" afterPath="$PROJECT_DIR$/protected/views/accounts/_table.php" />
@@ -853,11 +869,14 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/layouts/old/column1.php" afterPath="$PROJECT_DIR$/protected/views/layouts/old/column1.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/layouts/old/column2.php" afterPath="$PROJECT_DIR$/protected/views/layouts/old/column2.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/components.dashboard.html" afterPath="$PROJECT_DIR$/misc/report/codecoverage/components.dashboard.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/tests/report/codecoverage/components.dashboard.html" afterPath="$PROJECT_DIR$/protected/tests/report/codecoverage/components.dashboard.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/components.html" afterPath="$PROJECT_DIR$/misc/report/codecoverage/components.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/tests/report/codecoverage/components.html" afterPath="$PROJECT_DIR$/protected/tests/report/codecoverage/components.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/components_Command.php.html" afterPath="$PROJECT_DIR$/misc/report/codecoverage/components_Command.php.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/components_Controller.php.html" afterPath="$PROJECT_DIR$/misc/report/codecoverage/components_Controller.php.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/components_Pager.php.html" afterPath="$PROJECT_DIR$/misc/report/codecoverage/components_Pager.php.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/components_UserIdentity.php.html" afterPath="$PROJECT_DIR$/misc/report/codecoverage/components_UserIdentity.php.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/tests/report/codecoverage/components_UserIdentity.php.html" afterPath="$PROJECT_DIR$/protected/tests/report/codecoverage/components_UserIdentity.php.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/site/contact.php" afterPath="$PROJECT_DIR$/protected/views/site/contact.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/container-min.js" afterPath="$PROJECT_DIR$/misc/report/codecoverage/container-min.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/container.css" afterPath="$PROJECT_DIR$/misc/report/codecoverage/container.css" />
@@ -870,7 +889,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/transaction/createMultiple.php" afterPath="$PROJECT_DIR$/protected/views/transaction/createMultiple.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/extensions/yiiext/highcharts/assets/themes/dark-blue.js" afterPath="$PROJECT_DIR$/protected/extensions/yiiext/highcharts/assets/themes/dark-blue.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/extensions/yiiext/highcharts/assets/themes/dark-green.js" afterPath="$PROJECT_DIR$/protected/extensions/yiiext/highcharts/assets/themes/dark-green.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/config/db_dev.php" afterPath="$PROJECT_DIR$/protected/config/db_dev.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/application/dashboard.php" afterPath="$PROJECT_DIR$/protected/views/application/dashboard.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/accounts/delete.php" afterPath="$PROJECT_DIR$/protected/views/accounts/delete.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/categories/delete.php" afterPath="$PROJECT_DIR$/protected/views/categories/delete.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/transaction/delete.php" afterPath="$PROJECT_DIR$/protected/views/transaction/delete.php" />
@@ -889,7 +908,9 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/transaction/import.php" afterPath="$PROJECT_DIR$/protected/views/transaction/import.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index-test.php" afterPath="$PROJECT_DIR$/index-test.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/index.dashboard.html" afterPath="$PROJECT_DIR$/misc/report/codecoverage/index.dashboard.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/tests/report/codecoverage/index.dashboard.html" afterPath="$PROJECT_DIR$/protected/tests/report/codecoverage/index.dashboard.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/index.html" afterPath="$PROJECT_DIR$/misc/report/codecoverage/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/tests/report/codecoverage/index.html" afterPath="$PROJECT_DIR$/protected/tests/report/codecoverage/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/gii/crud/templates/default/index.php" afterPath="$PROJECT_DIR$/protected/gii/crud/templates/default/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/gii/crud/views/index.php" afterPath="$PROJECT_DIR$/protected/gii/crud/views/index.php" />
@@ -950,26 +971,32 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/b0e4428a/css/main.css" afterPath="$PROJECT_DIR$/themes/old/assets/b0e4428a/css/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/css/main.css" afterPath="$PROJECT_DIR$/themes/old/css/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/b0e4428a/js/main.js" afterPath="$PROJECT_DIR$/themes/old/assets/b0e4428a/js/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/config/main.php" afterPath="$PROJECT_DIR$/protected/config/main.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/layouts/old/main.php" afterPath="$PROJECT_DIR$/protected/views/layouts/old/main.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/extensions/Rmail/mimePart.php" afterPath="$PROJECT_DIR$/protected/extensions/Rmail/mimePart.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/assets/sampleTransactionImport/mint/mint_transactions.csv" afterPath="$PROJECT_DIR$/protected/assets/sampleTransactionImport/mint/mint_transactions.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/models.dashboard.html" afterPath="$PROJECT_DIR$/misc/report/codecoverage/models.dashboard.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/tests/report/codecoverage/models.dashboard.html" afterPath="$PROJECT_DIR$/protected/tests/report/codecoverage/models.dashboard.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/models.html" afterPath="$PROJECT_DIR$/misc/report/codecoverage/models.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/tests/report/codecoverage/models.html" afterPath="$PROJECT_DIR$/protected/tests/report/codecoverage/models.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/models_Account.php.html" afterPath="$PROJECT_DIR$/misc/report/codecoverage/models_Account.php.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/tests/report/codecoverage/models_Account.php.html" afterPath="$PROJECT_DIR$/protected/tests/report/codecoverage/models_Account.php.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/models_AccountType.php.html" afterPath="$PROJECT_DIR$/misc/report/codecoverage/models_AccountType.php.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/models_Category.php.html" afterPath="$PROJECT_DIR$/misc/report/codecoverage/models_Category.php.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/tests/report/codecoverage/models_Category.php.html" afterPath="$PROJECT_DIR$/protected/tests/report/codecoverage/models_Category.php.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/models_ContactForm.php.html" afterPath="$PROJECT_DIR$/misc/report/codecoverage/models_ContactForm.php.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/models_Country.php.html" afterPath="$PROJECT_DIR$/misc/report/codecoverage/models_Country.php.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/models_Currency.php.html" afterPath="$PROJECT_DIR$/misc/report/codecoverage/models_Currency.php.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/models_LoginForm.php.html" afterPath="$PROJECT_DIR$/misc/report/codecoverage/models_LoginForm.php.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/models_Transaction.php.html" afterPath="$PROJECT_DIR$/misc/report/codecoverage/models_Transaction.php.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/tests/report/codecoverage/models_Transaction.php.html" afterPath="$PROJECT_DIR$/protected/tests/report/codecoverage/models_Transaction.php.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/models_TransactionStatus.php.html" afterPath="$PROJECT_DIR$/misc/report/codecoverage/models_TransactionStatus.php.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/models_TransactionType.php.html" afterPath="$PROJECT_DIR$/misc/report/codecoverage/models_TransactionType.php.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/models_User.php.html" afterPath="$PROJECT_DIR$/misc/report/codecoverage/models_User.php.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/tests/report/codecoverage/models_User.php.html" afterPath="$PROJECT_DIR$/protected/tests/report/codecoverage/models_User.php.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/models_UserLogin.php.html" afterPath="$PROJECT_DIR$/misc/report/codecoverage/models_UserLogin.php.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/extensions/yiiext/highcharts/assets/adapters/mootools-adapter.js" afterPath="$PROJECT_DIR$/protected/extensions/yiiext/highcharts/assets/adapters/mootools-adapter.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/extensions/yiiext/highcharts/assets/adapters/mootools-adapter.src.js" afterPath="$PROJECT_DIR$/protected/extensions/yiiext/highcharts/assets/adapters/mootools-adapter.src.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/tests/phpunit.xml" afterPath="$PROJECT_DIR$/protected/tests/phpunit.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/b0e4428a/css/print.css" afterPath="$PROJECT_DIR$/themes/old/assets/b0e4428a/css/print.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/css/print.css" afterPath="$PROJECT_DIR$/themes/old/css/print.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/extensions/yiiext/highcharts/assets/adapters/prototype-adapter.js" afterPath="$PROJECT_DIR$/protected/extensions/yiiext/highcharts/assets/adapters/prototype-adapter.js" />
@@ -990,6 +1017,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/extensions/Rmail/smtp.php" afterPath="$PROJECT_DIR$/protected/extensions/Rmail/smtp.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/runtime/state.bin" afterPath="$PROJECT_DIR$/protected/runtime/state.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/style.css" afterPath="$PROJECT_DIR$/misc/report/codecoverage/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/runtime/log/test_migrate.log" afterPath="$PROJECT_DIR$/protected/runtime/log/test_migrate.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/testdox.html" afterPath="$PROJECT_DIR$/misc/report/testdox.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/tests/report/testdox.html" afterPath="$PROJECT_DIR$/protected/tests/report/testdox.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/gii/crud/templates/default/update.php" afterPath="$PROJECT_DIR$/protected/gii/crud/templates/default/update.php" />
@@ -1002,13 +1030,26 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/accounts/view.php" afterPath="$PROJECT_DIR$/protected/views/accounts/view.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/budgets/view.php" afterPath="$PROJECT_DIR$/protected/views/budgets/view.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/categories/view.php" afterPath="$PROJECT_DIR$/protected/views/categories/view.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/yahoo-dom-event.js" afterPath="$PROJECT_DIR$/misc/report/codecoverage/yahoo-dom-event.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/yiic.php" afterPath="$PROJECT_DIR$/protected/yiic.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/yiic" afterPath="$PROJECT_DIR$/protected/yiic" />
     </list>
     <ignored path="cloudbudgets.com.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="a5aa2c0a-e04a-4c89-947d-599e52d1c0b8" time="1370548790679" ignored="false" />
+    <file path="/Dummy.txt" changelist="a5aa2c0a-e04a-4c89-947d-599e52d1c0b8" time="1374425834203" ignored="false" />
+    <file path="/a.php" changelist="a5aa2c0a-e04a-4c89-947d-599e52d1c0b8" time="1373922269759" ignored="false" />
+    <file path="/Budget_regi.php" changelist="a5aa2c0a-e04a-4c89-947d-599e52d1c0b8" time="1373922643394" ignored="false" />
+    <file path="/BudgetsController.php" changelist="a5aa2c0a-e04a-4c89-947d-599e52d1c0b8" time="1373923236695" ignored="false" />
+    <file path="/_row.php" changelist="a5aa2c0a-e04a-4c89-947d-599e52d1c0b8" time="1374440063011" ignored="false" />
+    <file path="/Budget.php" changelist="a5aa2c0a-e04a-4c89-947d-599e52d1c0b8" time="1374441324665" ignored="false" />
+    <file path="/_table.php" changelist="a5aa2c0a-e04a-4c89-947d-599e52d1c0b8" time="1374175059296" ignored="false" />
+    <file path="/HtmlMoneyValue.php" changelist="a5aa2c0a-e04a-4c89-947d-599e52d1c0b8" time="1374175502235" ignored="false" />
+    <file path="/BudgetTest.php" changelist="a5aa2c0a-e04a-4c89-947d-599e52d1c0b8" time="1374441264831" ignored="false" />
+    <file path="/Account.php" changelist="a5aa2c0a-e04a-4c89-947d-599e52d1c0b8" time="1374178873958" ignored="false" />
+    <file path="/phpunit.xml" changelist="a5aa2c0a-e04a-4c89-947d-599e52d1c0b8" time="1374425886056" ignored="false" />
+    <file path="/CategoryTest.php" changelist="a5aa2c0a-e04a-4c89-947d-599e52d1c0b8" time="1374427397074" ignored="false" />
+    <file path="/Category.php" changelist="a5aa2c0a-e04a-4c89-947d-599e52d1c0b8" time="1374439224643" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -1033,46 +1074,64 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="SiteController.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/protected/controllers/SiteController.php">
+      <file leaf-file-name="Budget.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/protected/tests/fixtures/Budget.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="131" column="20" selection-start="2729" selection-end="2729" vertical-scroll-proportion="0.0">
+            <state line="8" column="0" selection-start="175" selection-end="175" vertical-scroll-proportion="-5.3333335">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="verifyRegistration.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/protected/views/site/verifyRegistration.php">
+      <file leaf-file-name="BudgetTest.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/protected/tests/unit/models/BudgetTest.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="10" selection-start="10" selection-end="10" vertical-scroll-proportion="0.0">
+            <state line="84" column="0" selection-start="2473" selection-end="2473" vertical-scroll-proportion="0.6658446">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="public.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/protected/views/layouts/public.php">
+      <file leaf-file-name="phpunit.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/protected/tests/phpunit.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="10" selection-start="1051" selection-end="1051" vertical-scroll-proportion="-14.375">
+            <state line="15" column="19" selection-start="471" selection-end="471" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AccountsController.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/protected/controllers/AccountsController.php">
+      <file leaf-file-name="Transaction.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/protected/models/Transaction.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="61.125">
+            <state line="186" column="0" selection-start="6278" selection-end="6278" vertical-scroll-proportion="-78.703705">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Account.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/protected/models/Account.php">
+      <file leaf-file-name="Budget.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/protected/models/Budget.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="205" column="0" selection-start="5345" selection-end="5345" vertical-scroll-proportion="0.527845">
+            <state line="61" column="0" selection-start="1745" selection-end="1745" vertical-scroll-proportion="-30.518518">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_row.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/protected/views/budgets/_row.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="0" selection-start="68" selection-end="68" vertical-scroll-proportion="-3.3333333">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Category.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/protected/models/Category.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="153" column="0" selection-start="3987" selection-end="3987" vertical-scroll-proportion="-18.666666">
               <folding />
             </state>
           </provider>
@@ -1097,7 +1156,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/protected/controllers/SiteController.php" />
+        <option value="$PROJECT_DIR$/protected/tests/unit/models/TransactionTest.php" />
+        <option value="$PROJECT_DIR$/protected/tests/unit/components/UserIdentityTest.php" />
+        <option value="$PROJECT_DIR$/protected/tests/fixtures/User.php" />
+        <option value="$PROJECT_DIR$/protected/tests/unit/models/UserTest.php" />
+        <option value="$PROJECT_DIR$/protected/tests/fixtures/Account.php" />
+        <option value="$PROJECT_DIR$/protected/tests/fixtures/Category.php" />
+        <option value="$PROJECT_DIR$/protected/tests/unit/models/CategoryTest.php" />
+        <option value="$PROJECT_DIR$/protected/tests/fixtures/Transaction.php" />
+        <option value="$PROJECT_DIR$/protected/models/Transaction.php" />
+        <option value="$PROJECT_DIR$/protected/controllers/CategoriesController.php" />
+        <option value="$PROJECT_DIR$/protected/models/Category.php" />
+        <option value="$PROJECT_DIR$/protected/views/budgets/_row.php" />
+        <option value="$PROJECT_DIR$/protected/tests/phpunit.xml" />
+        <option value="$PROJECT_DIR$/protected/models/Budget.php" />
+        <option value="$PROJECT_DIR$/protected/tests/fixtures/Budget.php" />
+        <option value="$PROJECT_DIR$/protected/tests/unit/models/BudgetTest.php" />
       </list>
     </option>
   </component>
@@ -1131,6 +1205,50 @@
     <option name="width" value="1696" />
     <option name="height" value="1036" />
   </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Code style issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript function metricsJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript validity issuesJavaScript</id>
+          </State>
+          <State>
+            <id>PHP</id>
+          </State>
+          <State>
+            <id>PHPDocPHP</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
@@ -1138,7 +1256,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
@@ -1157,6 +1275,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -1165,25 +1284,348 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cloudbudgets.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cloudbudgets.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cloudbudgets.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cloudbudgets.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cloudbudgets.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cloudbudgets.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="widgets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cloudbudgets.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cloudbudgets.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="transaction" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cloudbudgets.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cloudbudgets.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cloudbudgets.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cloudbudgets.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="budgets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cloudbudgets.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cloudbudgets.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cloudbudgets.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cloudbudgets.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="unit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cloudbudgets.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cloudbudgets.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="unit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cloudbudgets.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cloudbudgets.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fixtures" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cloudbudgets.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cloudbudgets.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cloudbudgets.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cloudbudgets.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cloudbudgets.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cloudbudgets.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cloudbudgets.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cloudbudgets.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="protected" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="commands" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cloudbudgets.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cloudbudgets.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="misc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cloudbudgets.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cloudbudgets.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="misc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="report" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cloudbudgets.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cloudbudgets.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="misc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="report" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="codecoverage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="options.lastSelected" value="project.propVCSSupport.VCSs.Git" />
+    <property name="options.lastSelected" value="editor.preferences.appearance" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="last_opened_file_path" value="W:/MyRecord" />
+    <property name="GoToClass.includeJavaFiles" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
-    <property name="options.searchVisible" value="true" />
+    <property name="FullScreen" value="false" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="PublishConfig">
     <servers>
@@ -1214,9 +1656,10 @@
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_FROM_SOURCE" value="true" />
     <option name="ACTIVE_ACTIONS" value="Show Inherited" />
   </component>
-  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false">
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
     <option name="USER" value="" />
     <option name="PASSWORD" value="" />
     <option name="mySSHConnectionTimeout" value="30000" />
@@ -1226,7 +1669,6 @@
     <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
     <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
     <option name="IGNORE_SPACES_IN_MERGE" value="false" />
-    <option name="DETECT_NESTED_COPIES" value="true" />
     <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
     <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
     <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
@@ -1264,23 +1706,24 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1036" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.36" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32914287" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3189066" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32986537" sideWeight="0.6342857" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.249694" sideWeight="0.6342857" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32986537" sideWeight="0.6342857" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20869033" sideWeight="0.64" order="1" side_tool="true" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4457143" sideWeight="0.497552" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32986537" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Framework" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32986537" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4453303" sideWeight="0.497552" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.36571428" sideWeight="0.49816403" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32986537" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" x="23" y="366" width="1634" height="288" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32914287" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.249694" sideWeight="0.6342857" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21603428" sideWeight="0.6810934" order="1" side_tool="true" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32914287" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" x="23" y="366" width="1634" height="288" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3288364" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
@@ -1347,100 +1790,137 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="5" />
+      <option name="time" value="6" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://W:/.includes/Yii/base/CApplication.php">
+    <entry file="file://$PROJECT_DIR$/protected/tests/fixtures/Transaction.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="187" column="0" selection-start="8258" selection-end="8258" vertical-scroll-proportion="0.33197555" />
+        <state line="1" column="0" selection-start="6" selection-end="6" vertical-scroll-proportion="-0.6666667">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://W:/.includes/Yii/base/CComponent.php">
+    <entry file="file://$PROJECT_DIR$/protected/tests/fixtures/Category.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="90" column="12" selection-start="3732" selection-end="3732" vertical-scroll-proportion="0.34920636" />
+        <state line="3" column="15" selection-start="23" selection-end="33" vertical-scroll-proportion="-2.0">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/protected/components/Controller.php">
+    <entry file="file://$PROJECT_DIR$/protected/tests/unit/models/TransactionTest.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="11" selection-start="846" selection-end="846" vertical-scroll-proportion="0.34920636" />
+        <state line="17" column="34" selection-start="447" selection-end="447" vertical-scroll-proportion="0.37731197">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://W:/.includes/Yii/web/filters/CFilterChain.php">
+    <entry file="file://$PROJECT_DIR$/protected/tests/unit/models/CategoryTest.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="132" column="0" selection-start="4177" selection-end="4225" vertical-scroll-proportion="0.67695963" />
+        <state line="15" column="0" selection-start="232" selection-end="232" vertical-scroll-proportion="0.3276699">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://W:/.includes/Yii/web/actions/CInlineAction.php">
+    <entry file="file://$PROJECT_DIR$/misc/report/codecoverage/index.dashboard.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="0" selection-start="1353" selection-end="1353" vertical-scroll-proportion="0.6082949" />
+        <state line="106" column="67" selection-start="4085" selection-end="4085" vertical-scroll-proportion="3.6551723">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/models/Category.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="153" column="0" selection-start="3987" selection-end="3987" vertical-scroll-proportion="-18.666666">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/views/budgets/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="65" selection-start="395" selection-end="395" vertical-scroll-proportion="0.28853267">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/views/budgets/_row.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="0" selection-start="68" selection-end="68" vertical-scroll-proportion="-3.3333333">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/protected/controllers/CategoriesController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+        <state line="33" column="0" selection-start="952" selection-end="952" vertical-scroll-proportion="-14.037037">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/protected/models/Budget_regi.php">
+    <entry file="file://$PROJECT_DIR$/protected/models/Transaction.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+        <state line="186" column="0" selection-start="6278" selection-end="6278" vertical-scroll-proportion="-78.703705">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/tests/bootstrap.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/tests/phpunit.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="19" selection-start="471" selection-end="471" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/models/Budget.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="61" column="0" selection-start="1745" selection-end="1745" vertical-scroll-proportion="-30.518518">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/protected/controllers/BudgetsController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="45" selection-start="1081" selection-end="1081" vertical-scroll-proportion="-18.115385" />
-      </provider>
-    </entry>
-    <entry file="file://W:/.includes/Yii/yiilite.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="696" column="20" selection-start="26461" selection-end="26461" vertical-scroll-proportion="-10.730769" />
-      </provider>
-    </entry>
-    <entry file="file://W:/.includes/Yii/web/CController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="817" column="23" selection-start="30636" selection-end="30636" vertical-scroll-proportion="0.33252427" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/protected/views/accounts/_table.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/protected/controllers/SiteController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="131" column="20" selection-start="2729" selection-end="2729" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/protected/views/site/verifyRegistration.php">
+    <entry file="file://$PROJECT_DIR$/protected/tests/fixtures/Budget.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="10" selection-start="10" selection-end="10" vertical-scroll-proportion="0.0">
+        <state line="8" column="0" selection-start="175" selection-end="175" vertical-scroll-proportion="-5.3333335">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/protected/views/layouts/public.php">
+    <entry file="file://$PROJECT_DIR$/protected/tests/unit/models/BudgetTest.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="10" selection-start="1051" selection-end="1051" vertical-scroll-proportion="-14.375">
+        <state line="84" column="0" selection-start="2473" selection-end="2473" vertical-scroll-proportion="0.6658446">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/protected/controllers/AccountsController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="61.125">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/protected/models/Account.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="205" column="0" selection-start="5345" selection-end="5345" vertical-scroll-proportion="0.527845">
-          <folding />
-        </state>
-      </provider>
-    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3984064" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
 

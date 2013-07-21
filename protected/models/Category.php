@@ -132,30 +132,44 @@ class Category extends CActiveRecord
 		return $category;
 	}
 
-	/**
-	 * Category::getTransactionsCriteria()
-	 *
-	 * @return CDbCriteria
-	 */
-	public function getTransactionsCriteria()
+    /**
+     * Returns the transaction criteria for this category's transactions.
+     *
+     * @param CDbCriteria $criteria
+     * @return CDbCriteria
+     */
+	public function getTransactionsCriteria(CDbCriteria $criteria = null)
 	{
-		$criteria = new CDbCriteria();
-		$criteria->select = 'COUNT(t.id) AS FOUND_ROWS';
+        if (null == $criteria) {
+            $criteria = new CDbCriteria();
+            $criteria->select = array('*');
+        }
+
         $criteria->join = 'JOIN category c ON (c.user_id = ' . $this->user_id . ' AND c.id = t.category_id AND c.lft >= ' . $this->lft . ' AND c.rgt <= ' . $this->rgt . ')';
-		$criteria->group = 'c.user_id';
+        $criteria->group = 't.id';
 		$criteria->order = 't.date DESC, t.id DESC';
-		$countRow = Transaction::model()->find($criteria);
-		$foundRows = 0;
 
-		if (null !== $countRow) {
-			$foundRows = $countRow->FOUND_ROWS;
-		}
-
-		$criteria->select = array('*');
-		$criteria->group = 't.id';
-
-		return array('criteria' => $criteria, 'foundRows' => $foundRows);
+        return $criteria;
 	}
+
+    public function getTransactionsListCriteriaArray()
+    {
+        $criteria = $this->getTransactionsCriteria();
+        $criteria->select = 'COUNT(t.id) AS FOUND_ROWS';
+        $criteria->group = 'c.user_id';
+
+        $countRow = Transaction::model()->find($criteria);
+        $foundRows = 0;
+
+        if (null !== $countRow) {
+            $foundRows = $countRow->FOUND_ROWS;
+        }
+
+        $criteria->select = array('*');
+        $criteria->group = 't.id';
+
+        return array('criteria' => $criteria, 'foundRows' => $foundRows);
+    }
 
 	/**
 	 * @param null $dateFrom

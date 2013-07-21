@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<pmd version="1.4.1" timestamp="2013-07-05T00:30:03+02:00">
+  <file name="/var/www/cloudbudgets.com/protected/controllers/TransactionController.php">
+    <violation beginline="9" endline="67" rule="NPathComplexity" ruleset="Code Size Rules" package="+global" externalInfoUrl="http://phpmd.org/rules/codesize.html#npathcomplexity" class="TransactionController" method="actionCreate" priority="3">
+      The method actionCreate() has an NPath complexity of 360. The configured NPath complexity threshold is 200.
+    </violation>
+    <violation beginline="69" endline="144" rule="CyclomaticComplexity" ruleset="Code Size Rules" package="+global" externalInfoUrl="http://phpmd.org/rules/codesize.html#cyclomaticcomplexity" class="TransactionController" method="actionCreateMultiple" priority="3">
+      The method actionCreateMultiple() has a Cyclomatic Complexity of 15. The configured cyclomatic complexity threshold is 10.
+    </violation>
+  </file>
+  <file name="/var/www/cloudbudgets.com/protected/extensions/Rmail/RFC822.php">
+    <violation beginline="33" endline="878" rule="TooManyMethods" ruleset="Code Size Rules" package="+global" externalInfoUrl="http://phpmd.org/rules/codesize.html#toomanymethods" class="Mail_RFC822" priority="3">
+      The class Mail_RFC822 has 22 methods. Consider refactoring Mail_RFC822 to keep number of methods under 10.
+    </violation>
+    <violation beginline="33" endline="878" rule="ExcessiveClassComplexity" ruleset="Code Size Rules" package="+global" externalInfoUrl="http://phpmd.org/rules/codesize.html#excessiveclasscomplexity" class="Mail_RFC822" priority="3">
+      The class Mail_RFC822 has an overall complexity of 126 which is very high. The configured complexity threshold is 50.
+    </violation>
+    <violation beginline="138" endline="185" rule="CyclomaticComplexity" ruleset="Code Size Rules" package="+global" externalInfoUrl="http://phpmd.org/rules/codesize.html#cyclomaticcomplexity" class="Mail_RFC822" method="parseAddressList" priority="3">
+      The method parseAddressList() has a Cyclomatic Complexity of 14. The configured cyclomatic complexity threshold is 10.
+    </violation>
+    <violation beginline="138" endline="185" rule="NPathComplexity" ruleset="Code Size Rules" package="+global" externalInfoUrl="http://phpmd.org/rules/codesize.html#npathcomplexity" class="Mail_RFC822" method="parseAddressList" priority="3">
+      The method parseAddressList() has an NPath complexity of 2688. The configured NPath complexity threshold is 200.
+    </violation>
+    <violation beginline="194" endline="261" rule="CyclomaticComplexity" ruleset="Code Size Rules" package="+global" externalInfoUrl="http://phpmd.org/rules/codesize.html#cyclomaticcomplexity" class="Mail_RFC822" method="_splitAddresses" priority="3">
+      The method _splitAddresses() has a Cyclomatic Complexity of 13. The configured cyclomatic complexity threshold is 10.
+    </violation>
+    <violation beginline="194" endline="261" rule="NPathComplexity" ruleset="Code Size Rules" package="+global" externalInfoUrl="http://phpmd.org/rules/codesize.html#npathcomplexity" class="Mail_RFC822" method="_splitAddresses" priority="3">
+      The method _splitAddresses() has an NPath complexity of 300. The configured NPath complexity threshold is 200.
+    </violation>
+    <violation beginline="393" endline="470" rule="CyclomaticComplexity" ruleset="Code Size Rules" package="+global" externalInfoUrl="http://phpmd.org/rules/codesize.html#cyclomaticcomplexity" class="Mail_RFC822" method="_validateAddress" priority="3">
+      The method _validateAddress() has a Cyclomatic Complexity of 11. The configured cyclomatic complexity threshold is 10.
+    </violation>
+    <violation beginline="570" endline="641" rule="CyclomaticComplexity" ruleset="Code Size Rules" package="+global" externalInfoUrl="http://phpmd.org/rules/codesize.html#cyclomaticcomplexity" class="Mail_RFC822" method="validateMailbox" priority="3">
+      The method validateMailbox() has a Cyclomatic Complexity of 14. The configured cyclomatic complexity threshold is 10.
+    </violation>
+    <violation beginline="570" endline="641" rule="NPathComplexity" ruleset="Code Size Rules" package="+global" externalInfoUrl="http://phpmd.org/rules/codesize.html#npathcomplexity" class="Mail_RFC822" method="validateMailbox" priority="3">
+      The method validateMailbox() has an NPath complexity of 1800. The configured NPath complexity threshold is 200.
+    </violation>
+  </file>
+  <file name="/var/www/cloudbudgets.com/protected/extensions/Rmail/Rmail.php">
+    <violation beginline="17" endline="887" rule="TooManyMethods" ruleset="Code Size Rules" package="+global" externalInfoUrl="http://phpmd.org/rules/codesize.html#toomanymethods" class="Rmail" priority="3">
+      The class Rmail has 15 methods. Consider refactoring Rmail to keep number of methods under 10.
+    </violation>
+    <violation beginline="17" endline="887" rule="ExcessiveClassComplexity" ruleset="Code Size Rules" package="+global" externalInfoUrl="http://phpmd.org/rules/codesize.html#excessiveclasscomplexity" class="Rmail" priority="3">
+      The class Rmail has an overall complexity of 112 which is very high. The configured complexity threshold is 50.
+    </violation>
+    <violation beginline="591" endline="694" rule="CyclomaticComplexity" ruleset="Code Size Rules" package="+global" externalInfoUrl="http://phpmd.org/rules/codesize.html#cyclomaticcomplexity" class="Rmail" method="build" priority="3">
+      The method build() has a Cyclomatic Complexity of 21. The configured cyclomatic complexity threshold is 10.
+    </violation>
+    <violation beginline="591" endline="694" rule="ExcessiveMethodLength" ruleset="Code Size Rules" package="+global" externalInfoUrl="http://phpmd.org/rules/codesize.html#excessivemethodlength" class="Rmail" method="build" priority="3">
+      The method build() has 104 lines of code. Current threshold is set to 100. Avoid really long methods.
+    </violation>
+    <violation beginline="729" endline="851" rule="CyclomaticComplexity" ruleset="Code Size Rules" package="+global" externalInfoUrl="http://phpmd.org/rules/codesize.html#cyclomaticcomplexity" class="Rmail" method="send" priority="3">
+      The method send() has a Cyclomatic Complexity of 24. The configured cyclomatic complexity threshold is 10.
+    </violation>
+    <violation beginline="729" endline="851" rule="NPathComplexity" ruleset="Code Size Rules" package="+global" externalInfoUrl="http://phpmd.org/rules/codesize.html#npathcomplexity" class="Rmail" method="send" priority="3">
+      The method send() has an NPath complexity of 2064. The configured NPath complexity threshold is 200.
+    </violation>
+    <violation beginline="729" endline="851" rule="ExcessiveMethodLength" ruleset="Code Size Rules" package="+global" externalInfoUrl="http://phpmd.org/rules/codesize.html#excessivemethodlength" class="Rmail" method="send" priority="3">
+      The method send() has 123 lines of code. Current threshold is set to 100. Avoid really long methods.
+    </violation>
+  </file>
+  <file name="/var/www/cloudbudgets.com/protected/extensions/Rmail/mimePart.php">
+    <violation beginline="122" endline="183" rule="CyclomaticComplexity" ruleset="Code Size Rules" package="Mail" externalInfoUrl="http://phpmd.org/rules/codesize.html#cyclomaticcomplexity" class="Mail_MIMEPart" method="__construct" priority="3">
+      The method __construct() has a Cyclomatic Complexity of 17. The configured cyclomatic complexity threshold is 10.
+    </violation>
+    <violation beginline="122" endline="183" rule="NPathComplexity" ruleset="Code Size Rules" package="Mail" externalInfoUrl="http://phpmd.org/rules/codesize.html#npathcomplexity" class="Mail_MIMEPart" method="__construct" priority="3">
+      The method __construct() has an NPath complexity of 432. The configured NPath complexity threshold is 200.
+    </violation>
+    <violation beginline="276" endline="311" rule="CyclomaticComplexity" ruleset="Code Size Rules" package="Mail" externalInfoUrl="http://phpmd.org/rules/codesize.html#cyclomaticcomplexity" class="Mail_MIMEPart" method="quotedPrintableEncode" priority="3">
+      The method quotedPrintableEncode() has a Cyclomatic Complexity of 10. The configured cyclomatic complexity threshold is 10.
+    </violation>
+  </file>
+  <file name="/var/www/cloudbudgets.com/protected/extensions/Rmail/smtp.php">
+    <violation beginline="18" endline="370" rule="TooManyMethods" ruleset="Code Size Rules" package="+global" externalInfoUrl="http://phpmd.org/rules/codesize.html#toomanymethods" class="smtp" priority="3">
+      The class smtp has 13 methods. Consider refactoring smtp to keep number of methods under 10.
+    </violation>
+    <violation beginline="18" endline="370" rule="ExcessiveClassComplexity" ruleset="Code Size Rules" package="+global" externalInfoUrl="http://phpmd.org/rules/codesize.html#excessiveclasscomplexity" class="smtp" priority="3">
+      The class smtp has an overall complexity of 66 which is very high. The configured complexity threshold is 50.
+    </violation>
+    <violation beginline="120" endline="165" rule="CyclomaticComplexity" ruleset="Code Size Rules" package="+global" externalInfoUrl="http://phpmd.org/rules/codesize.html#cyclomaticcomplexity" class="smtp" method="send" priority="3">
+      The method send() has a Cyclomatic Complexity of 10. The configured cyclomatic complexity threshold is 10.
+    </violation>
+    <violation beginline="120" endline="165" rule="NPathComplexity" ruleset="Code Size Rules" package="+global" externalInfoUrl="http://phpmd.org/rules/codesize.html#npathcomplexity" class="smtp" method="send" priority="3">
+      The method send() has an NPath complexity of 242. The configured NPath complexity threshold is 200.
+    </violation>
+  </file>
+  <file name="/var/www/cloudbudgets.com/protected/extensions/Usoft/Html/TableAbstract.php">
+    <violation beginline="10" endline="258" rule="TooManyMethods" ruleset="Code Size Rules" package="Iwebs_Html\Table" externalInfoUrl="http://phpmd.org/rules/codesize.html#toomanymethods" class="Iwebs_Html_TableAbstract" priority="3">
+      The class Iwebs_Html_TableAbstract has 14 methods. Consider refactoring Iwebs_Html_TableAbstract to keep number of methods under 10.
+    </violation>
+  </file>
+  <file name="/var/www/cloudbudgets.com/protected/extensions/yii-debug-toolbar/YiiDebugToolbar.php">
+    <violation beginline="154" endline="191" rule="CyclomaticComplexity" ruleset="Code Size Rules" package="YiiDebugToolbar" externalInfoUrl="http://phpmd.org/rules/codesize.html#cyclomaticcomplexity" class="YiiDebugToolbar" method="createPanels" priority="3">
+      The method createPanels() has a Cyclomatic Complexity of 11. The configured cyclomatic complexity threshold is 10.
+    </violation>
+  </file>
+  <file name="/var/www/cloudbudgets.com/protected/extensions/yii-debug-toolbar/components/YiiDebugViewRenderer.php">
+    <violation beginline="108" endline="140" rule="CyclomaticComplexity" ruleset="Code Size Rules" package="*" externalInfoUrl="http://phpmd.org/rules/codesize.html#cyclomaticcomplexity" class="YiiDebugViewRenderer" method="collectDebugInfo" priority="3">
+      The method collectDebugInfo() has a Cyclomatic Complexity of 12. The configured cyclomatic complexity threshold is 10.
+    </violation>
+    <violation beginline="108" endline="140" rule="NPathComplexity" ruleset="Code Size Rules" package="*" externalInfoUrl="http://phpmd.org/rules/codesize.html#npathcomplexity" class="YiiDebugViewRenderer" method="collectDebugInfo" priority="3">
+      The method collectDebugInfo() has an NPath complexity of 2250. The configured NPath complexity threshold is 200.
+    </violation>
+  </file>
+  <file name="/var/www/cloudbudgets.com/protected/extensions/yii-debug-toolbar/panels/YiiDebugToolbarPanelSql.php">
+    <violation beginline="19" endline="456" rule="ExcessiveClassComplexity" ruleset="Code Size Rules" package="YiiDebugToolbar" externalInfoUrl="http://phpmd.org/rules/codesize.html#excessiveclasscomplexity" class="YiiDebugToolbarPanelSql" priority="3">
+      The class YiiDebugToolbarPanelSql has an overall complexity of 68 which is very high. The configured complexity threshold is 50.
+    </violation>
+    <violation beginline="288" endline="342" rule="CyclomaticComplexity" ruleset="Code Size Rules" package="YiiDebugToolbar" externalInfoUrl="http://phpmd.org/rules/codesize.html#cyclomaticcomplexity" class="YiiDebugToolbarPanelSql" method="processSummary" priority="3">
+      The method processSummary() has a Cyclomatic Complexity of 10. The configured cyclomatic complexity threshold is 10.
+    </violation>
+  </file>
+  <file name="/var/www/cloudbudgets.com/protected/extensions/yiiext/behaviors/model/trees/NestedSetBehavior.php">
+    <violation beginline="16" endline="1014" rule="TooManyMethods" ruleset="Code Size Rules" package="yiiext.behaviors.model.trees" externalInfoUrl="http://phpmd.org/rules/codesize.html#toomanymethods" class="NestedSetBehavior" priority="3">
+      The class NestedSetBehavior has 35 methods. Consider refactoring NestedSetBehavior to keep number of methods under 10.
+    </violation>
+    <violation beginline="16" endline="1014" rule="ExcessiveClassComplexity" ruleset="Code Size Rules" package="yiiext.behaviors.model.trees" externalInfoUrl="http://phpmd.org/rules/codesize.html#excessiveclasscomplexity" class="NestedSetBehavior" priority="3">
+      The class NestedSetBehavior has an overall complexity of 162 which is very high. The configured complexity threshold is 50.
+    </violation>
+    <violation beginline="217" endline="281" rule="CyclomaticComplexity" ruleset="Code Size Rules" package="yiiext.behaviors.model.trees" externalInfoUrl="http://phpmd.org/rules/codesize.html#cyclomaticcomplexity" class="NestedSetBehavior" method="delete" priority="3">
+      The method delete() has a Cyclomatic Complexity of 11. The configured cyclomatic complexity threshold is 10.
+    </violation>
+    <violation beginline="597" endline="660" rule="CyclomaticComplexity" ruleset="Code Size Rules" package="yiiext.behaviors.model.trees" externalInfoUrl="http://phpmd.org/rules/codesize.html#cyclomaticcomplexity" class="NestedSetBehavior" method="addNode" priority="3">
+      The method addNode() has a Cyclomatic Complexity of 16. The configured cyclomatic complexity threshold is 10.
+    </violation>
+    <violation beginline="597" endline="660" rule="NPathComplexity" ruleset="Code Size Rules" package="yiiext.behaviors.model.trees" externalInfoUrl="http://phpmd.org/rules/codesize.html#npathcomplexity" class="NestedSetBehavior" method="addNode" priority="3">
+      The method addNode() has an NPath complexity of 4608. The configured NPath complexity threshold is 200.
+    </violation>
+    <violation beginline="665" endline="722" rule="CyclomaticComplexity" ruleset="Code Size Rules" package="yiiext.behaviors.model.trees" externalInfoUrl="http://phpmd.org/rules/codesize.html#cyclomaticcomplexity" class="NestedSetBehavior" method="makeRoot" priority="3">
+      The method makeRoot() has a Cyclomatic Complexity of 10. The configured cyclomatic complexity threshold is 10.
+    </violation>
+    <violation beginline="729" endline="846" rule="CyclomaticComplexity" ruleset="Code Size Rules" package="yiiext.behaviors.model.trees" externalInfoUrl="http://phpmd.org/rules/codesize.html#cyclomaticcomplexity" class="NestedSetBehavior" method="moveNode" priority="3">
+      The method moveNode() has a Cyclomatic Complexity of 20. The configured cyclomatic complexity threshold is 10.
+    </violation>
+    <violation beginline="729" endline="846" rule="NPathComplexity" ruleset="Code Size Rules" package="yiiext.behaviors.model.trees" externalInfoUrl="http://phpmd.org/rules/codesize.html#npathcomplexity" class="NestedSetBehavior" method="moveNode" priority="3">
+      The method moveNode() has an NPath complexity of 5952. The configured NPath complexity threshold is 200.
+    </violation>
+    <violation beginline="729" endline="846" rule="ExcessiveMethodLength" ruleset="Code Size Rules" package="yiiext.behaviors.model.trees" externalInfoUrl="http://phpmd.org/rules/codesize.html#excessivemethodlength" class="NestedSetBehavior" method="moveNode" priority="3">
+      The method moveNode() has 118 lines of code. Current threshold is set to 100. Avoid really long methods.
+    </violation>
+    <violation beginline="851" endline="878" rule="CyclomaticComplexity" ruleset="Code Size Rules" package="yiiext.behaviors.model.trees" externalInfoUrl="http://phpmd.org/rules/codesize.html#cyclomaticcomplexity" class="NestedSetBehavior" method="correctCachedOnDelete" priority="3">
+      The method correctCachedOnDelete() has a Cyclomatic Complexity of 10. The configured cyclomatic complexity threshold is 10.
+    </violation>
+    <violation beginline="912" endline="956" rule="CyclomaticComplexity" ruleset="Code Size Rules" package="yiiext.behaviors.model.trees" externalInfoUrl="http://phpmd.org/rules/codesize.html#cyclomaticcomplexity" class="NestedSetBehavior" method="correctCachedOnMoveNode" priority="3">
+      The method correctCachedOnMoveNode() has a Cyclomatic Complexity of 17. The configured cyclomatic complexity threshold is 10.
+    </violation>
+    <violation beginline="912" endline="956" rule="NPathComplexity" ruleset="Code Size Rules" package="yiiext.behaviors.model.trees" externalInfoUrl="http://phpmd.org/rules/codesize.html#npathcomplexity" class="NestedSetBehavior" method="correctCachedOnMoveNode" priority="3">
+      The method correctCachedOnMoveNode() has an NPath complexity of 7778. The configured NPath complexity threshold is 200.
+    </violation>
+    <violation beginline="964" endline="1005" rule="CyclomaticComplexity" ruleset="Code Size Rules" package="yiiext.behaviors.model.trees" externalInfoUrl="http://phpmd.org/rules/codesize.html#cyclomaticcomplexity" class="NestedSetBehavior" method="correctCachedOnMoveBetweenTrees" priority="3">
+      The method correctCachedOnMoveBetweenTrees() has a Cyclomatic Complexity of 12. The configured cyclomatic complexity threshold is 10.
+    </violation>
+  </file>
+  <file name="/var/www/cloudbudgets.com/protected/models/User.php">
+    <violation beginline="27" endline="460" rule="TooManyMethods" ruleset="Code Size Rules" package="+global" externalInfoUrl="http://phpmd.org/rules/codesize.html#toomanymethods" class="User" priority="3">
+      The class User has 20 methods. Consider refactoring User to keep number of methods under 10.
+    </violation>
+  </file>
+  <file name="/var/www/cloudbudgets.com/protected/tests/unit/models/TransactionTest.php">
+    <violation beginline="74" endline="236" rule="ExcessiveMethodLength" ruleset="Code Size Rules" package="+global" externalInfoUrl="http://phpmd.org/rules/codesize.html#excessivemethodlength" class="TransactionTest" method="testActualBalanceIsRightForAccount" priority="3">
+      The method testActualBalanceIsRightForAccount() has 163 lines of code. Current threshold is set to 100. Avoid really long methods.
+    </violation>
+  </file>
+  <file name="/var/www/cloudbudgets.com/protected/tests/unit/models/UserTest.php">
+    <violation beginline="3" endline="238" rule="TooManyMethods" ruleset="Code Size Rules" package="+global" externalInfoUrl="http://phpmd.org/rules/codesize.html#toomanymethods" class="UserTest" priority="3">
+      The class UserTest has 18 methods. Consider refactoring UserTest to keep number of methods under 10.
+    </violation>
+  </file>
+</pmd>

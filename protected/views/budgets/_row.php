@@ -1,10 +1,17 @@
+<?php
+
+/**
+ * @var Budget $budget
+ * @var CController $this
+ */
+
+?>
+
 			<tr>
-
-				<td><?php echo $budget->created_at; echo $budget->getTransactionSumForMonth(); ?></td>
-
 				<td><?php echo $budget->name; ?></td>
-
-				<td><?php echo $budget->limit; ?></td>
+				<td><?php $this->widget('HtmlMoneyValue', array('value' => $budget->limit, 'forcedBalanceClass' => 'zero-balance')); ?></td>
+                <td><?php $this->widget('HtmlMoneyValue', array('value' => $budget->getTransactionSumForMonth(), 'forcedBalanceClass' => 'zero-balance')); ?></td>
+                <td><?php $this->widget('HtmlMoneyValue', array('value' => ($budget->getBalanceForMonth()))); ?></td>
 
 				<td style="text-align: right; " >
 					<?php echo CHtml::link('<span class="icon-folder-open" ></span> Open', array('budgets/view', 'id' => $budget->id), array('class' => 'btn btn-action')); ?>

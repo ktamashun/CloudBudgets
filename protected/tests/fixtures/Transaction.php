@@ -8,8 +8,6 @@ return array(
 		'account_id' => 1,
 		'category_id' => 3,
 		'amount' => 3200.00,
-		//'account_balance' => -3200.00,
 		'transaction_status_id' => Transaction::STATUS_CLEARED,
-		//'deleted' => 0
 	),
 );

@@ -1,3 +1,14 @@
+<?php
+
+/**
+ * @var Transaction $transaction
+ * @var CController $this
+ * @var int $balance
+ * @var Account $account
+ */
+
+?>
+
 			<tr>
 				<td><?php echo $transaction->date; ?></td>
 				<td><?php echo $transaction->description; ?></td>

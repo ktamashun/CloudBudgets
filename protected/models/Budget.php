@@ -7,11 +7,15 @@
  * @property integer $id
  * @property string $created_at
  * @property integer $user_id
+ * @property integer $category_id
  * @property string $from_date
  * @property string $to_date
  * @property string $name
  * @property integer $limit
  * @property integer $active
+ *
+ * @method Budget active() active() Named scope for filtering the active budgets.
+ * @method Budget findByPk() findByPk(int $id) Finds a budget by its primary key.
  *
  * The followings are the available model relations:
  * @property User $user
@@ -19,7 +23,8 @@
  */
 class Budget extends CActiveRecord
 {
-	const STATUS_ACTIVE = 1;
+    const STATUS_INACTIVE = 0;
+    const STATUS_ACTIVE = 1;
 
 
 	/**
@@ -50,9 +55,11 @@ class Budget extends CActiveRecord
 		return array(
 			array('user_id, from_date, name, limit, category_id', 'required'),
 			array('user_id, limit, active', 'numerical', 'integerOnly'=>true),
+            array('limit', 'numerical', 'min' => 0),
 			array('name', 'length', 'max'=>255),
 			array('to_date', 'safe'),
 			array('category_id', 'exist', 'attributeName' => 'id', 'className' => 'Category', 'message' => 'Category does not exists.'),
+
 			// The following rule is used by search().
 			// Please remove those attributes that should not be searched.
 			array('id, created_at, user_id, from_date, to_date, name, limit, active', 'safe', 'on'=>'search'),
@@ -90,8 +97,9 @@ class Budget extends CActiveRecord
 		);
 	}
 
-	/**
+	/*
 	 * Retrieves a list of models based on the current search/filter conditions.
+     *
 	 * @return CActiveDataProvider the data provider that can return the models based on the search/filter conditions.
 	 *
 	public function search()
@@ -101,8 +109,6 @@ class Budget extends CActiveRecord
 
 		$criteria=new CDbCriteria;
 
-		$criteria->compare('id',$this->id);
-		$criteria->compare('created_at',$this->created_at,true);
 		$criteria->compare('user_id',$this->user_id);
 		$criteria->compare('from_date',$this->from_date,true);
 		$criteria->compare('to_date',$this->to_date,true);
@@ -115,7 +121,12 @@ class Budget extends CActiveRecord
 		));
 	}*/
 
-	public function scopes()
+    /**
+     * Names scopes for the budget model.
+     *
+     * @return array
+     */
+    public function scopes()
 	{
 		return array(
 			'active' => array(
@@ -139,22 +150,24 @@ class Budget extends CActiveRecord
 		return $this;
 	}
 
-	/**
-	 * Budget::getTransactionsCriteria()
-	 *
-	 * @return CDbCriteria
-	 */
-	public function getTransactionsCriteria()
+    /**
+     * Returns the transaction criteria for this budgets transactions.
+     *
+     * @param CDbCriteria $criteria
+     * @return CDbCriteria
+     */
+	public function getTransactionsCriteria(CDbCriteria $criteria = null)
 	{
-		$criteria = new CDbCriteria();
-		$criteria->select = array('*');
-		$criteria->condition = 't.category_id = ' . $this->category_id;
-		$criteria->order = 't.date DESC, t.id DESC';
-
-		return $criteria;
+        return $this->category->getTransactionsCriteria($criteria);
 	}
 
-	public function getTransactionSumForMonth($date = null)
+    /**
+     * Returns the sum amount of the transactions on the budget in the month of the given $date.
+     *
+     * @param null|string $date If null it will be the current date.
+     * @return int
+     */
+    public function getTransactionSumForMonth($date = null)
 	{
 		if ($date === null) {
 			$date = date('Y-m-01');
@@ -168,19 +181,25 @@ class Budget extends CActiveRecord
 		$criteria->select = 'SUM(t.amount) AS sumAmount';
 		$criteria->group = 't.category_id';
 		$criteria->mergeWith(array(
-			'condition' => "MONTH(`date`) = '" . $month . "' ANDd YEAR(`date`) = " . $year,
+			'condition' => "MONTH(`date`) = '" . $month . "' AND YEAR(`date`) = " . $year,
 		));
 
 		$row = Transaction::model()->find($criteria);
-		var_dump($row); die();
+		return (int)$row['sumAmount'];
 	}
 
-	public function getBalanceForMonth($date = null)
+    /**
+     * Returns the balance of the budget in the month of the given $date.
+     *
+     * @param null|string $date If null it will be the current date.
+     * @return int
+     */
+    public function getBalanceForMonth($date = null)
 	{
 		if ($date === null) {
 			$date = date('Y-m-01');
 		}
 
-		return $this->transactionSum();
+		return $this->limit - abs($this->getTransactionSumForMonth($date));
 	}
 }

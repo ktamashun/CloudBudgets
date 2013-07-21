@@ -20,7 +20,7 @@ class CategoriesController extends Controller
 	{
         $category = $this->loadModel($id);
 
-		$criteriaArray = $category->getTransactionsCriteria();
+		$criteriaArray = $category->getTransactionsListCriteriaArray();
 
 		$pager = Yii::app()->pager;
 		$pager->actPage = (int)$pageNumber;
@@ -118,7 +118,12 @@ class CategoriesController extends Controller
 		$this->render('delete');
 	}
 
-	public function loadModel($id)
+    /**
+     * @param $id
+     * @return Category
+     * @throws CHttpException
+     */
+    public function loadModel($id)
 	{
 		$model = Category::model()->findByPk($id);
 

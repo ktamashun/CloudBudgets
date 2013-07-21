@@ -17,7 +17,7 @@ class UserIdentityTest extends CDbTestCase
 
 	public function testLoginWithCorrectCredentials()
 	{
-		$userRow = $this->users['ktamasTest'];
+		$userRow = $this->users['ktamas'];
 
 		$identity = new UserIdentity($userRow['email_address'], $userRow['original_password']);
 		$this->assertTrue($identity->authenticate());
@@ -26,7 +26,7 @@ class UserIdentityTest extends CDbTestCase
 
 	public function testLoginWithIncorrectCorrectCredentials()
 	{
-		$userRow = $this->users['ktamasTest'];
+		$userRow = $this->users['ktamas'];
 
 		$identity = new UserIdentity($userRow['email_address'], 'incorrect_password');
 		$this->assertFalse($identity->authenticate(), 'Authentication was successful with incorrect password!');
@@ -39,7 +39,7 @@ class UserIdentityTest extends CDbTestCase
 
 	public function testLoginUnsuccessfulWithInactiveUser()
 	{
-		$userRow = $this->users['ktamasTest'];
+		$userRow = $this->users['ktamas'];
         
         $user = User::model()->find($userRow['id']);
         $user->status = User::STATUS_INACTIVE;
