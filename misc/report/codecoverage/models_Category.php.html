@@ -277,7 +277,7 @@
         </tr>
 
         <tr>
-          <td class="coverFile" colspan="4">&nbsp;<a href="#147">getReportCriteria($dateFrom = null, $dateTo = null)</a></td>
+          <td class="coverFile" colspan="4">&nbsp;<a href="#147">getReportCriteriaArray($dateFrom = null, $dateTo = null)</a></td>
           <td class="coverBar">
             <div class="coverBarOutline" title="0.00%">
                 <div class="size scarlet_red"  style="width:0%" title="0.00%"></div>
@@ -454,7 +454,7 @@
 <span class="lineNum" id="container144"><a name="144"></a><a href="#144" id="line144">     144</a> </span><span class="lineNoCov">              0 :         return array('criteria' =&gt; $criteria, 'foundRows' =&gt; $foundRows);                                                                                                    </span>
 <span class="lineNum" id="container145"><a name="145"></a><a href="#145" id="line145">     145</a> </span>                :     }                                                                                                                                                                        
 <span class="lineNum" id="container146"><a name="146"></a><a href="#146" id="line146">     146</a> </span>                :                                                                                                                                                                              
-<span class="lineNum" id="container147"><a name="147"></a><a href="#147" id="line147">     147</a> </span>                :     public function getReportCriteria($dateFrom = null, $dateTo = null)                                                                                                      
+<span class="lineNum" id="container147"><a name="147"></a><a href="#147" id="line147">     147</a> </span>                :     public function getReportCriteriaArray($dateFrom = null, $dateTo = null)
 <span class="lineNum" id="container148"><a name="148"></a><a href="#148" id="line148">     148</a> </span>                :     {                                                                                                                                                                        
 <span class="lineNum" id="container149"><a name="149"></a><a href="#149" id="line149">     149</a> </span><span class="lineNoCov">              0 :         $criteria = new CDbCriteria();                                                                                                                                       </span>
 <span class="lineNum" id="container150"><a name="150"></a><a href="#150" id="line150">     150</a> </span><span class="lineNoCov">              0 :         $criteria-&gt;select = 'SUM(t.value) AS transactionSum';                                                                                                                </span>

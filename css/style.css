@@ -85,3 +85,9 @@ span.required {
 footer {
 	text-align: center;
 }
+
+/* jQuery UI styles */
+
+.ui-progressbar-value {
+    background-color: #356635;
+}

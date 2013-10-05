@@ -25,6 +25,9 @@
  * @property Category $category
  * @property TransactionStatus $transactionStatus
  * @property TransactionType $transactionType
+ *
+ * The following are methods
+ * @method Transaction findByPk() findByPk(int $id) Finds a $transaction by its primary key.
  */
 class Transaction extends CActiveRecord
 {
@@ -148,23 +151,7 @@ class Transaction extends CActiveRecord
 	{
 		if ($this->transaction_type_id == self::TYPE_TRANSFER && $this->to_account_id !== null) {
 			if (false === $this->_transferTransaction_is_saved) {
-				if ($this->getIsNewRecord() || null === $this->transferTransaction) {
-					$transferTransaction = new Transaction();
-				} else {
-					$transferTransaction = $this->transferTransaction;
-				}
-
-				$transferTransaction->date = $this->date;
-				$transferTransaction->description = $this->description;
-				$transferTransaction->transaction_type_id = $this->transaction_type_id;
-				$transferTransaction->account_id = $this->to_account_id;
-				$transferTransaction->to_account_id = null;
-				$transferTransaction->transfer_transaction_id = null;
-				$transferTransaction->category_id = $this->category_id;
-				$transferTransaction->amount = abs($this->amount);
-				$transferTransaction->account_balance = 0;
-				$transferTransaction->transaction_status_id = $this->transaction_status_id;
-				$transferTransaction->deleted = $this->deleted;
+                $transferTransaction = $this->getTransferTransaction();
 				$transferTransaction->save();
 
 				if (false === $transferTransaction->save()) {
@@ -195,6 +182,34 @@ class Transaction extends CActiveRecord
 
 		return parent::afterDelete();
 	}
+
+    /**
+     * Returns the transfer transaction.
+     *
+     * @return Transaction
+     */
+    public function getTransferTransaction()
+    {
+        if ($this->getIsNewRecord() || null === $this->transferTransaction) {
+            $transferTransaction = new Transaction();
+        } else {
+            $transferTransaction = $this->transferTransaction;
+        }
+
+        $transferTransaction->date = $this->date;
+        $transferTransaction->description = $this->description;
+        $transferTransaction->transaction_type_id = $this->transaction_type_id;
+        $transferTransaction->account_id = $this->to_account_id;
+        $transferTransaction->to_account_id = null;
+        $transferTransaction->transfer_transaction_id = null;
+        $transferTransaction->category_id = $this->category_id;
+        $transferTransaction->amount = abs($this->amount);
+        $transferTransaction->account_balance = 0;
+        $transferTransaction->transaction_status_id = $this->transaction_status_id;
+        $transferTransaction->deleted = $this->deleted;
+
+        return $transferTransaction;
+    }
 
 	public function getBalance($user, $account = null)
 	{

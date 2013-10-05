@@ -1,12 +1,27 @@
 <?php
 
+/**
+ * Class UserTest
+ *
+ * @property array $transactions Returns the fixture transaction array.
+ * @property array $accounts Returns the fixture account array.
+ * @property array $users Returns the fixture user array.
+ * @property array $categories Returns the fixture category array.
+ *
+ * @method User users() users($name) Returns the fixture user.
+ * @method Transaction transactions() transactions($name) Returns the fixture transaction.
+ * @method Category categories() categories($name) Returns the fixture category.
+ * @method Account accounts() accounts($name) Returns the fixture account.
+ * @method Budget budgets() budgets($name) Returns the fixture budget.
+ */
 class UserTest extends CDbTestCase
 {
 	public $fixtures = array(
 		'users' => 'User',
 		'accounts' => 'Account',
 		'categories' => 'Category',
-		'transactions' => 'Transaction'
+        'transactions' => 'Transaction',
+        'budgets' => 'Budget'
 	);
 
 	/**
@@ -98,6 +113,14 @@ class UserTest extends CDbTestCase
 		$user->refresh();
 		$this->assertEquals($firstCount, count($user->categories));
 	}
+
+    public function testBaseCategoriesCannotBeSavedIfUserIsNotSaved()
+    {
+        $this->setExpectedException('Exception');
+
+        $user = new User();
+        $user->createBaseCategories();
+    }
 
 	public function testStatusIsActiveAfterRegisterVerify()
 	{
@@ -234,5 +257,50 @@ class UserTest extends CDbTestCase
 
         $this->assertNotEquals($user->id, $transaction->account->user_id);
         $this->assertFalse($user->hasRightToTransaction($transaction));
+    }
+
+    public function testSendActivationEmail()
+    {
+        $user = $this->users('ktamas');
+        $this->assertFalse($user->sendActivationEmail());
+    }
+
+    public function testHasRightToBudget()
+    {
+        $user = $this->users('ktamas');
+        $user2 = $this->users('kpista');
+        $budget = $this->budgets('ktamas_Food');
+
+        $this->assertTrue($user->hasRightToBudget($budget));
+        $this->assertFalse($user2->hasRightToBudget($budget));
+    }
+
+    public function testGetLoggeInUser()
+    {
+        $user = new User();
+        $user->attributes = $this->users['ktamas'];
+        $user->save(false);
+
+        $userRow = $this->users['ktamas'];
+        $identity = new UserIdentity($userRow['email_address'], $userRow['original_password']);
+        $this->assertTrue($identity->authenticate());
+        $this->assertNotNull(Yii::app()->user);
+        $this->assertEquals($user->id, User::getLoggedInUser()->id);
+    }
+
+    public function testDirectoryCreatedAfterRegister()
+    {
+        $password = 'Its a secret really..';
+        $user = $this->getNewUser();
+        $user->id = 1000;
+        $user->password = $password;
+
+        if (file_exists($user->getUserDirectoryPath())) {
+            rmdir($user->getUserDirectoryPath());
+        }
+
+        $this->assertFalse(file_exists($user->getUserDirectoryPath()));
+        $user->save(false);
+        $this->assertTrue(file_exists($user->getUserDirectoryPath()));
     }
 }

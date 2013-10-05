@@ -23,6 +23,8 @@
  * @property UserLogin[] $userLogins
  *
  * @method User findByPk(int $id) Returns the user with the given id.
+ * @method User inactive() Named scope to filter inactive users.
+ * @method User active() Named scope to filter inactive users.
  */
 class User extends CActiveRecord
 {
@@ -267,20 +269,33 @@ class User extends CActiveRecord
 		}
 	}
 
+    public function getUserDirectoryIdArray()
+    {
+        $dirId = str_pad($this->id, 10, "0", STR_PAD_LEFT);
+        return array(
+            substr($dirId, 0, 2),
+            substr($dirId, 2, 2),
+            substr($dirId, 4, 2),
+            substr($dirId, 6, 2),
+            substr($dirId, 8, 2)
+        );
+    }
+
+    /**
+     * @return string
+     */
+    public function getUserDirectoryPath()
+    {
+        $userDirectoriesPath = YiiBase::getPathOfAlias('application.assets.userDirectories');
+        return $userDirectoriesPath . DIRECTORY_SEPARATOR . implode(DIRECTORY_SEPARATOR, $this->getUserDirectoryIdArray());
+    }
+
 	/**
 	 *
 	 */
 	public function createDirectory()
 	{
-		$dirId = str_pad($this->id, 10, "0", STR_PAD_LEFT);
-		$dirs = array(
-			substr($dirId, 0, 2),
-			substr($dirId, 2, 2),
-			substr($dirId, 4, 2),
-			substr($dirId, 6, 2),
-			substr($dirId, 8, 2)
-		);
-
+		$dirs = $this->getUserDirectoryIdArray();
 		$userDirectoriesPath = YiiBase::getPathOfAlias('application.assets.userDirectories');
 		$currentDirPath = $userDirectoriesPath;
 

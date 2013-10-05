@@ -2,346 +2,372 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a5aa2c0a-e04a-4c89-947d-599e52d1c0b8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/tests/fixtures/Budget.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/tests/unit/models/BudgetTest.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/frameworkRootSettings.xml" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\33eb1c08\adapters\mootools-adapter.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\33eb1c08\adapters\mootools-adapter.src.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\33eb1c08\adapters\prototype-adapter.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\33eb1c08\adapters\prototype-adapter.src.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\33eb1c08\highcharts-more.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\33eb1c08\highcharts.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\33eb1c08\highcharts.src.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\33eb1c08\modules\canvas-tools.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\33eb1c08\modules\canvas-tools.src.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\33eb1c08\modules\exporting.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\33eb1c08\modules\exporting.src.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\33eb1c08\themes\dark-blue.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\33eb1c08\themes\dark-green.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\33eb1c08\themes\gray.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\33eb1c08\themes\grid.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\33eb1c08\themes\skies.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\67819d0c\adapters\mootools-adapter.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\67819d0c\adapters\mootools-adapter.src.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\67819d0c\adapters\prototype-adapter.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\67819d0c\adapters\prototype-adapter.src.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\67819d0c\highcharts-more.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\67819d0c\highcharts.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\67819d0c\highcharts.src.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\67819d0c\modules\canvas-tools.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\67819d0c\modules\canvas-tools.src.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\67819d0c\modules\exporting.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\67819d0c\modules\exporting.src.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\67819d0c\themes\dark-blue.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\67819d0c\themes\dark-green.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\67819d0c\themes\gray.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\67819d0c\themes\grid.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\67819d0c\themes\skies.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\autocomplete\indicator.gif" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\autocomplete\jquery.autocomplete.css" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jquery.ajaxqueue.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jquery.autocomplete.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jquery.ba-bbq.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jquery.bgiframe.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jquery.cookie.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jquery.maskedinput.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jquery.maskedinput.min.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jquery.metadata.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jquery.multifile.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jquery.rating.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jquery.treeview.async.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jquery.treeview.edit.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jquery.treeview.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jquery.yii.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jquery.yiiactiveform.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jquery.yiitab.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jui\MIT-LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jui\css\base\images\ui-bg_flat_0_aaaaaa_40x100.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jui\css\base\images\ui-bg_flat_75_ffffff_40x100.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jui\css\base\images\ui-bg_glass_55_fbf9ee_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jui\css\base\images\ui-bg_glass_65_ffffff_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jui\css\base\images\ui-bg_glass_75_dadada_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jui\css\base\images\ui-bg_glass_75_e6e6e6_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jui\css\base\images\ui-bg_glass_95_fef1ec_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jui\css\base\images\ui-bg_highlight-soft_75_cccccc_1x100.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jui\css\base\images\ui-icons_222222_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jui\css\base\images\ui-icons_2e83ff_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jui\css\base\images\ui-icons_454545_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jui\css\base\images\ui-icons_888888_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jui\css\base\images\ui-icons_cd0a0a_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jui\css\base\jquery-ui.css" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jui\css\base\jquery.ui.accordion.css" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jui\css\base\jquery.ui.all.css" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jui\css\base\jquery.ui.autocomplete.css" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jui\css\base\jquery.ui.base.css" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jui\css\base\jquery.ui.button.css" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jui\css\base\jquery.ui.core.css" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jui\css\base\jquery.ui.datepicker.css" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jui\css\base\jquery.ui.dialog.css" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jui\css\base\jquery.ui.progressbar.css" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jui\css\base\jquery.ui.resizable.css" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jui\css\base\jquery.ui.selectable.css" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jui\css\base\jquery.ui.slider.css" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jui\css\base\jquery.ui.tabs.css" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jui\css\base\jquery.ui.theme.css" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jui\js\jquery-ui-i18n.min.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\jui\js\jquery-ui.min.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\rating\delete.gif" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\rating\jquery.rating.css" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\rating\star.gif" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\treeview\images\ajax-loader.gif" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\treeview\images\file.gif" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\treeview\images\folder-closed.gif" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\treeview\images\folder.gif" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\treeview\images\minus.gif" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\treeview\images\plus.gif" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\treeview\images\treeview-black-line.gif" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\treeview\images\treeview-black.gif" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\treeview\images\treeview-default-line.gif" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\treeview\images\treeview-default.gif" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\treeview\images\treeview-famfamfam-line.gif" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\treeview\images\treeview-famfamfam.gif" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\treeview\images\treeview-gray-line.gif" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\treeview\images\treeview-gray.gif" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\treeview\images\treeview-red-line.gif" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\treeview\images\treeview-red.gif" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\treeview\jquery.treeview.css" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\6c4bd4c6\yiitab\jquery.yiitab.css" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\autocomplete\indicator.gif" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\autocomplete\jquery.autocomplete.css" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jquery.ajaxqueue.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jquery.autocomplete.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jquery.ba-bbq.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jquery.bgiframe.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jquery.cookie.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jquery.maskedinput.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jquery.maskedinput.min.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jquery.metadata.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jquery.multifile.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jquery.rating.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jquery.treeview.async.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jquery.treeview.edit.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jquery.treeview.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jquery.yii.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jquery.yiiactiveform.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jquery.yiitab.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jui\MIT-LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jui\css\base\images\ui-bg_flat_0_aaaaaa_40x100.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jui\css\base\images\ui-bg_flat_75_ffffff_40x100.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jui\css\base\images\ui-bg_glass_55_fbf9ee_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jui\css\base\images\ui-bg_glass_65_ffffff_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jui\css\base\images\ui-bg_glass_75_dadada_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jui\css\base\images\ui-bg_glass_75_e6e6e6_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jui\css\base\images\ui-bg_glass_95_fef1ec_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jui\css\base\images\ui-bg_highlight-soft_75_cccccc_1x100.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jui\css\base\images\ui-icons_222222_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jui\css\base\images\ui-icons_2e83ff_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jui\css\base\images\ui-icons_454545_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jui\css\base\images\ui-icons_888888_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jui\css\base\images\ui-icons_cd0a0a_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jui\css\base\jquery-ui.css" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jui\css\base\jquery.ui.accordion.css" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jui\css\base\jquery.ui.all.css" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jui\css\base\jquery.ui.autocomplete.css" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jui\css\base\jquery.ui.base.css" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jui\css\base\jquery.ui.button.css" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jui\css\base\jquery.ui.core.css" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jui\css\base\jquery.ui.datepicker.css" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jui\css\base\jquery.ui.dialog.css" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jui\css\base\jquery.ui.progressbar.css" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jui\css\base\jquery.ui.resizable.css" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jui\css\base\jquery.ui.selectable.css" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jui\css\base\jquery.ui.slider.css" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jui\css\base\jquery.ui.tabs.css" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jui\css\base\jquery.ui.theme.css" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jui\js\jquery-ui-i18n.min.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\jui\js\jquery-ui.min.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\rating\delete.gif" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\rating\jquery.rating.css" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\rating\star.gif" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\treeview\images\ajax-loader.gif" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\treeview\images\file.gif" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\treeview\images\folder-closed.gif" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\treeview\images\folder.gif" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\treeview\images\minus.gif" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\treeview\images\plus.gif" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\treeview\images\treeview-black-line.gif" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\treeview\images\treeview-black.gif" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\treeview\images\treeview-default-line.gif" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\treeview\images\treeview-default.gif" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\treeview\images\treeview-famfamfam-line.gif" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\treeview\images\treeview-famfamfam.gif" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\treeview\images\treeview-gray-line.gif" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\treeview\images\treeview-gray.gif" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\treeview\images\treeview-red-line.gif" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\treeview\images\treeview-red.gif" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\treeview\jquery.treeview.css" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\799b7ac4\yiitab\jquery.yiitab.css" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\86685e6b\detailview\styles.css" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\86685e6b\gridview\bg.gif" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\86685e6b\gridview\delete.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\86685e6b\gridview\down.gif" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\86685e6b\gridview\jquery.yiigridview.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\86685e6b\gridview\loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\86685e6b\gridview\styles.css" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\86685e6b\gridview\up.gif" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\86685e6b\gridview\update.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\86685e6b\gridview\view.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\86685e6b\listview\down.gif" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\86685e6b\listview\jquery.yiilistview.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\86685e6b\listview\loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\86685e6b\listview\styles.css" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\86685e6b\listview\up.gif" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\97b3aebd\pager.css" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b0e4428a\css\ie.css" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b0e4428a\css\main.css" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b0e4428a\css\print.css" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b0e4428a\css\screen.css" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b0e4428a\images\logo.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b0e4428a\js\fancybox\blank.gif" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b0e4428a\js\fancybox\fancy_close.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b0e4428a\js\fancybox\fancy_loading.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b0e4428a\js\fancybox\fancy_nav_left.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b0e4428a\js\fancybox\fancy_nav_right.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b0e4428a\js\fancybox\fancy_shadow_e.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b0e4428a\js\fancybox\fancy_shadow_n.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b0e4428a\js\fancybox\fancy_shadow_ne.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b0e4428a\js\fancybox\fancy_shadow_nw.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b0e4428a\js\fancybox\fancy_shadow_s.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b0e4428a\js\fancybox\fancy_shadow_se.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b0e4428a\js\fancybox\fancy_shadow_sw.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b0e4428a\js\fancybox\fancy_shadow_w.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b0e4428a\js\fancybox\fancy_title_left.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b0e4428a\js\fancybox\fancy_title_main.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b0e4428a\js\fancybox\fancy_title_over.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b0e4428a\js\fancybox\fancy_title_right.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b0e4428a\js\fancybox\fancybox-x.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b0e4428a\js\fancybox\fancybox-y.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b0e4428a\js\fancybox\fancybox.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b0e4428a\js\fancybox\jquery.fancybox-1.3.1.css" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b0e4428a\js\fancybox\jquery.fancybox-1.3.1.pack.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b0e4428a\js\jquery.tooltip-1.2.6.min.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b0e4428a\js\main.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b329b11b\detailview\styles.css" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b329b11b\gridview\bg.gif" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b329b11b\gridview\delete.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b329b11b\gridview\down.gif" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b329b11b\gridview\jquery.yiigridview.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b329b11b\gridview\loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b329b11b\gridview\styles.css" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b329b11b\gridview\up.gif" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b329b11b\gridview\update.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b329b11b\gridview\view.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b329b11b\listview\down.gif" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b329b11b\listview\jquery.yiilistview.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b329b11b\listview\loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b329b11b\listview\styles.css" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\b329b11b\listview\up.gif" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\autocomplete\indicator.gif" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\autocomplete\jquery.autocomplete.css" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jquery.ajaxqueue.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jquery.autocomplete.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jquery.ba-bbq.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jquery.bgiframe.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jquery.cookie.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jquery.maskedinput.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jquery.maskedinput.min.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jquery.metadata.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jquery.multifile.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jquery.rating.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jquery.treeview.async.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jquery.treeview.edit.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jquery.treeview.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jquery.yii.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jquery.yiiactiveform.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jquery.yiitab.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jui\MIT-LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jui\css\base\images\ui-bg_flat_0_aaaaaa_40x100.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jui\css\base\images\ui-bg_flat_75_ffffff_40x100.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jui\css\base\images\ui-bg_glass_55_fbf9ee_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jui\css\base\images\ui-bg_glass_65_ffffff_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jui\css\base\images\ui-bg_glass_75_dadada_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jui\css\base\images\ui-bg_glass_75_e6e6e6_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jui\css\base\images\ui-bg_glass_95_fef1ec_1x400.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jui\css\base\images\ui-bg_highlight-soft_75_cccccc_1x100.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jui\css\base\images\ui-icons_222222_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jui\css\base\images\ui-icons_2e83ff_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jui\css\base\images\ui-icons_454545_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jui\css\base\images\ui-icons_888888_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jui\css\base\images\ui-icons_cd0a0a_256x240.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jui\css\base\jquery-ui.css" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jui\css\base\jquery.ui.accordion.css" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jui\css\base\jquery.ui.all.css" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jui\css\base\jquery.ui.autocomplete.css" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jui\css\base\jquery.ui.base.css" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jui\css\base\jquery.ui.button.css" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jui\css\base\jquery.ui.core.css" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jui\css\base\jquery.ui.datepicker.css" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jui\css\base\jquery.ui.dialog.css" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jui\css\base\jquery.ui.progressbar.css" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jui\css\base\jquery.ui.resizable.css" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jui\css\base\jquery.ui.selectable.css" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jui\css\base\jquery.ui.slider.css" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jui\css\base\jquery.ui.tabs.css" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jui\css\base\jquery.ui.theme.css" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jui\js\jquery-ui-i18n.min.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\jui\js\jquery-ui.min.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\rating\delete.gif" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\rating\jquery.rating.css" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\rating\star.gif" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\treeview\images\ajax-loader.gif" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\treeview\images\file.gif" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\treeview\images\folder-closed.gif" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\treeview\images\folder.gif" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\treeview\images\minus.gif" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\treeview\images\plus.gif" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\treeview\images\treeview-black-line.gif" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\treeview\images\treeview-black.gif" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\treeview\images\treeview-default-line.gif" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\treeview\images\treeview-default.gif" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\treeview\images\treeview-famfamfam-line.gif" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\treeview\images\treeview-famfamfam.gif" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\treeview\images\treeview-gray-line.gif" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\treeview\images\treeview-gray.gif" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\treeview\images\treeview-red-line.gif" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\treeview\images\treeview-red.gif" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\treeview\jquery.treeview.css" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c29b79a0\yiitab\jquery.yiitab.css" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c5ae29e8\css\ie.css" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c5ae29e8\css\main.css" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c5ae29e8\css\print.css" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c5ae29e8\css\screen.css" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c5ae29e8\images\logo.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c5ae29e8\js\fancybox\blank.gif" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c5ae29e8\js\fancybox\fancy_close.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c5ae29e8\js\fancybox\fancy_loading.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c5ae29e8\js\fancybox\fancy_nav_left.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c5ae29e8\js\fancybox\fancy_nav_right.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c5ae29e8\js\fancybox\fancy_shadow_e.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c5ae29e8\js\fancybox\fancy_shadow_n.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c5ae29e8\js\fancybox\fancy_shadow_ne.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c5ae29e8\js\fancybox\fancy_shadow_nw.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c5ae29e8\js\fancybox\fancy_shadow_s.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c5ae29e8\js\fancybox\fancy_shadow_se.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c5ae29e8\js\fancybox\fancy_shadow_sw.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c5ae29e8\js\fancybox\fancy_shadow_w.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c5ae29e8\js\fancybox\fancy_title_left.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c5ae29e8\js\fancybox\fancy_title_main.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c5ae29e8\js\fancybox\fancy_title_over.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c5ae29e8\js\fancybox\fancy_title_right.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c5ae29e8\js\fancybox\fancybox-x.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c5ae29e8\js\fancybox\fancybox-y.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c5ae29e8\js\fancybox\fancybox.png" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c5ae29e8\js\fancybox\jquery.fancybox-1.3.1.css" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c5ae29e8\js\fancybox\jquery.fancybox-1.3.1.pack.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c5ae29e8\js\jquery.tooltip-1.2.6.min.js" afterPath="" />
-      <change type="DELETED" beforePath="W:\cloudbudgets.com\assets\c5ae29e8\js\main.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\33eb1c08\adapters\mootools-adapter.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\33eb1c08\adapters\mootools-adapter.src.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\33eb1c08\adapters\prototype-adapter.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\33eb1c08\adapters\prototype-adapter.src.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\33eb1c08\highcharts-more.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\33eb1c08\highcharts.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\33eb1c08\highcharts.src.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\33eb1c08\modules\canvas-tools.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\33eb1c08\modules\canvas-tools.src.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\33eb1c08\modules\exporting.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\33eb1c08\modules\exporting.src.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\33eb1c08\themes\dark-blue.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\33eb1c08\themes\dark-green.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\33eb1c08\themes\gray.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\33eb1c08\themes\grid.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\33eb1c08\themes\skies.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\67819d0c\adapters\mootools-adapter.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\67819d0c\adapters\mootools-adapter.src.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\67819d0c\adapters\prototype-adapter.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\67819d0c\adapters\prototype-adapter.src.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\67819d0c\highcharts-more.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\67819d0c\highcharts.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\67819d0c\highcharts.src.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\67819d0c\modules\canvas-tools.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\67819d0c\modules\canvas-tools.src.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\67819d0c\modules\exporting.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\67819d0c\modules\exporting.src.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\67819d0c\themes\dark-blue.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\67819d0c\themes\dark-green.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\67819d0c\themes\gray.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\67819d0c\themes\grid.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\67819d0c\themes\skies.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\6c4bd4c6\autocomplete\indicator.gif" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\6c4bd4c6\autocomplete\jquery.autocomplete.css" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\6c4bd4c6\jquery.ajaxqueue.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\6c4bd4c6\jquery.autocomplete.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\6c4bd4c6\jquery.ba-bbq.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\6c4bd4c6\jquery.bgiframe.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\6c4bd4c6\jquery.cookie.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\6c4bd4c6\jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\6c4bd4c6\jquery.maskedinput.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\6c4bd4c6\jquery.maskedinput.min.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\6c4bd4c6\jquery.metadata.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\6c4bd4c6\jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\6c4bd4c6\jquery.multifile.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\6c4bd4c6\jquery.rating.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\6c4bd4c6\jquery.treeview.async.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\6c4bd4c6\jquery.treeview.edit.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\6c4bd4c6\jquery.treeview.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\6c4bd4c6\jquery.yii.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\6c4bd4c6\jquery.yiiactiveform.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\6c4bd4c6\jquery.yiitab.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\6c4bd4c6\jui\MIT-LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\6c4bd4c6\jui\css\base\images\ui-bg_flat_0_aaaaaa_40x100.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\6c4bd4c6\jui\css\base\images\ui-bg_flat_75_ffffff_40x100.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\6c4bd4c6\jui\css\base\images\ui-bg_glass_55_fbf9ee_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\6c4bd4c6\jui\css\base\images\ui-bg_glass_65_ffffff_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\6c4bd4c6\jui\css\base\images\ui-bg_glass_75_dadada_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\6c4bd4c6\jui\css\base\images\ui-bg_glass_75_e6e6e6_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\6c4bd4c6\jui\css\base\images\ui-bg_glass_95_fef1ec_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\6c4bd4c6\jui\css\base\images\ui-bg_highlight-soft_75_cccccc_1x100.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\6c4bd4c6\jui\css\base\images\ui-icons_222222_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\6c4bd4c6\jui\css\base\images\ui-icons_2e83ff_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\6c4bd4c6\jui\css\base\images\ui-icons_454545_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\6c4bd4c6\jui\css\base\images\ui-icons_888888_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\6c4bd4c6\jui\css\base\images\ui-icons_cd0a0a_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\6c4bd4c6\jui\css\base\jquery-ui.css" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\6c4bd4c6\jui\css\base\jquery.ui.accordion.css" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\6c4bd4c6\jui\css\base\jquery.ui.all.css" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\6c4bd4c6\jui\css\base\jquery.ui.autocomplete.css" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\6c4bd4c6\jui\css\base\jquery.ui.base.css" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\6c4bd4c6\jui\css\base\jquery.ui.button.css" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\6c4bd4c6\jui\css\base\jquery.ui.core.css" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\6c4bd4c6\jui\css\base\jquery.ui.datepicker.css" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\6c4bd4c6\jui\css\base\jquery.ui.dialog.css" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\6c4bd4c6\jui\css\base\jquery.ui.progressbar.css" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\6c4bd4c6\jui\css\base\jquery.ui.resizable.css" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\6c4bd4c6\jui\css\base\jquery.ui.selectable.css" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\6c4bd4c6\jui\css\base\jquery.ui.slider.css" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\6c4bd4c6\jui\css\base\jquery.ui.tabs.css" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\6c4bd4c6\jui\css\base\jquery.ui.theme.css" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\6c4bd4c6\jui\js\jquery-ui-i18n.min.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\6c4bd4c6\jui\js\jquery-ui.min.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\6c4bd4c6\rating\delete.gif" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\6c4bd4c6\rating\jquery.rating.css" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\6c4bd4c6\rating\star.gif" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\6c4bd4c6\treeview\images\ajax-loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\6c4bd4c6\treeview\images\file.gif" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\6c4bd4c6\treeview\images\folder-closed.gif" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\6c4bd4c6\treeview\images\folder.gif" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\6c4bd4c6\treeview\images\minus.gif" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\6c4bd4c6\treeview\images\plus.gif" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\6c4bd4c6\treeview\images\treeview-black-line.gif" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\6c4bd4c6\treeview\images\treeview-black.gif" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\6c4bd4c6\treeview\images\treeview-default-line.gif" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\6c4bd4c6\treeview\images\treeview-default.gif" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\6c4bd4c6\treeview\images\treeview-famfamfam-line.gif" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\6c4bd4c6\treeview\images\treeview-famfamfam.gif" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\6c4bd4c6\treeview\images\treeview-gray-line.gif" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\6c4bd4c6\treeview\images\treeview-gray.gif" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\6c4bd4c6\treeview\images\treeview-red-line.gif" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\6c4bd4c6\treeview\images\treeview-red.gif" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\6c4bd4c6\treeview\jquery.treeview.css" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\6c4bd4c6\yiitab\jquery.yiitab.css" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\799b7ac4\autocomplete\indicator.gif" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\799b7ac4\autocomplete\jquery.autocomplete.css" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\799b7ac4\jquery.ajaxqueue.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\799b7ac4\jquery.autocomplete.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\799b7ac4\jquery.ba-bbq.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\799b7ac4\jquery.bgiframe.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\799b7ac4\jquery.cookie.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\799b7ac4\jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\799b7ac4\jquery.maskedinput.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\799b7ac4\jquery.maskedinput.min.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\799b7ac4\jquery.metadata.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\799b7ac4\jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\799b7ac4\jquery.multifile.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\799b7ac4\jquery.rating.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\799b7ac4\jquery.treeview.async.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\799b7ac4\jquery.treeview.edit.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\799b7ac4\jquery.treeview.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\799b7ac4\jquery.yii.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\799b7ac4\jquery.yiiactiveform.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\799b7ac4\jquery.yiitab.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\799b7ac4\jui\MIT-LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\799b7ac4\jui\css\base\images\ui-bg_flat_0_aaaaaa_40x100.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\799b7ac4\jui\css\base\images\ui-bg_flat_75_ffffff_40x100.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\799b7ac4\jui\css\base\images\ui-bg_glass_55_fbf9ee_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\799b7ac4\jui\css\base\images\ui-bg_glass_65_ffffff_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\799b7ac4\jui\css\base\images\ui-bg_glass_75_dadada_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\799b7ac4\jui\css\base\images\ui-bg_glass_75_e6e6e6_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\799b7ac4\jui\css\base\images\ui-bg_glass_95_fef1ec_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\799b7ac4\jui\css\base\images\ui-bg_highlight-soft_75_cccccc_1x100.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\799b7ac4\jui\css\base\images\ui-icons_222222_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\799b7ac4\jui\css\base\images\ui-icons_2e83ff_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\799b7ac4\jui\css\base\images\ui-icons_454545_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\799b7ac4\jui\css\base\images\ui-icons_888888_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\799b7ac4\jui\css\base\images\ui-icons_cd0a0a_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\799b7ac4\jui\css\base\jquery-ui.css" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\799b7ac4\jui\css\base\jquery.ui.accordion.css" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\799b7ac4\jui\css\base\jquery.ui.all.css" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\799b7ac4\jui\css\base\jquery.ui.autocomplete.css" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\799b7ac4\jui\css\base\jquery.ui.base.css" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\799b7ac4\jui\css\base\jquery.ui.button.css" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\799b7ac4\jui\css\base\jquery.ui.core.css" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\799b7ac4\jui\css\base\jquery.ui.datepicker.css" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\799b7ac4\jui\css\base\jquery.ui.dialog.css" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\799b7ac4\jui\css\base\jquery.ui.progressbar.css" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\799b7ac4\jui\css\base\jquery.ui.resizable.css" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\799b7ac4\jui\css\base\jquery.ui.selectable.css" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\799b7ac4\jui\css\base\jquery.ui.slider.css" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\799b7ac4\jui\css\base\jquery.ui.tabs.css" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\799b7ac4\jui\css\base\jquery.ui.theme.css" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\799b7ac4\jui\js\jquery-ui-i18n.min.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\799b7ac4\jui\js\jquery-ui.min.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\799b7ac4\rating\delete.gif" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\799b7ac4\rating\jquery.rating.css" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\799b7ac4\rating\star.gif" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\799b7ac4\treeview\images\ajax-loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\799b7ac4\treeview\images\file.gif" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\799b7ac4\treeview\images\folder-closed.gif" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\799b7ac4\treeview\images\folder.gif" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\799b7ac4\treeview\images\minus.gif" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\799b7ac4\treeview\images\plus.gif" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\799b7ac4\treeview\images\treeview-black-line.gif" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\799b7ac4\treeview\images\treeview-black.gif" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\799b7ac4\treeview\images\treeview-default-line.gif" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\799b7ac4\treeview\images\treeview-default.gif" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\799b7ac4\treeview\images\treeview-famfamfam-line.gif" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\799b7ac4\treeview\images\treeview-famfamfam.gif" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\799b7ac4\treeview\images\treeview-gray-line.gif" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\799b7ac4\treeview\images\treeview-gray.gif" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\799b7ac4\treeview\images\treeview-red-line.gif" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\799b7ac4\treeview\images\treeview-red.gif" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\799b7ac4\treeview\jquery.treeview.css" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\799b7ac4\yiitab\jquery.yiitab.css" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\86685e6b\detailview\styles.css" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\86685e6b\gridview\bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\86685e6b\gridview\delete.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\86685e6b\gridview\down.gif" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\86685e6b\gridview\jquery.yiigridview.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\86685e6b\gridview\loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\86685e6b\gridview\styles.css" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\86685e6b\gridview\up.gif" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\86685e6b\gridview\update.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\86685e6b\gridview\view.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\86685e6b\listview\down.gif" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\86685e6b\listview\jquery.yiilistview.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\86685e6b\listview\loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\86685e6b\listview\styles.css" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\86685e6b\listview\up.gif" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\97b3aebd\pager.css" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\b0e4428a\css\ie.css" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\b0e4428a\css\main.css" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\b0e4428a\css\print.css" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\b0e4428a\css\screen.css" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\b0e4428a\images\logo.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\b0e4428a\js\fancybox\blank.gif" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\b0e4428a\js\fancybox\fancy_close.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\b0e4428a\js\fancybox\fancy_loading.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\b0e4428a\js\fancybox\fancy_nav_left.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\b0e4428a\js\fancybox\fancy_nav_right.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\b0e4428a\js\fancybox\fancy_shadow_e.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\b0e4428a\js\fancybox\fancy_shadow_n.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\b0e4428a\js\fancybox\fancy_shadow_ne.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\b0e4428a\js\fancybox\fancy_shadow_nw.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\b0e4428a\js\fancybox\fancy_shadow_s.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\b0e4428a\js\fancybox\fancy_shadow_se.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\b0e4428a\js\fancybox\fancy_shadow_sw.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\b0e4428a\js\fancybox\fancy_shadow_w.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\b0e4428a\js\fancybox\fancy_title_left.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\b0e4428a\js\fancybox\fancy_title_main.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\b0e4428a\js\fancybox\fancy_title_over.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\b0e4428a\js\fancybox\fancy_title_right.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\b0e4428a\js\fancybox\fancybox-x.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\b0e4428a\js\fancybox\fancybox-y.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\b0e4428a\js\fancybox\fancybox.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\b0e4428a\js\fancybox\jquery.fancybox-1.3.1.css" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\b0e4428a\js\fancybox\jquery.fancybox-1.3.1.pack.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\b0e4428a\js\jquery.tooltip-1.2.6.min.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\b0e4428a\js\main.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\b329b11b\detailview\styles.css" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\b329b11b\gridview\bg.gif" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\b329b11b\gridview\delete.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\b329b11b\gridview\down.gif" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\b329b11b\gridview\jquery.yiigridview.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\b329b11b\gridview\loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\b329b11b\gridview\styles.css" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\b329b11b\gridview\up.gif" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\b329b11b\gridview\update.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\b329b11b\gridview\view.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\b329b11b\listview\down.gif" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\b329b11b\listview\jquery.yiilistview.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\b329b11b\listview\loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\b329b11b\listview\styles.css" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\b329b11b\listview\up.gif" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c29b79a0\autocomplete\indicator.gif" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c29b79a0\autocomplete\jquery.autocomplete.css" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c29b79a0\jquery.ajaxqueue.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c29b79a0\jquery.autocomplete.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c29b79a0\jquery.ba-bbq.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c29b79a0\jquery.bgiframe.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c29b79a0\jquery.cookie.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c29b79a0\jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c29b79a0\jquery.maskedinput.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c29b79a0\jquery.maskedinput.min.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c29b79a0\jquery.metadata.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c29b79a0\jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c29b79a0\jquery.multifile.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c29b79a0\jquery.rating.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c29b79a0\jquery.treeview.async.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c29b79a0\jquery.treeview.edit.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c29b79a0\jquery.treeview.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c29b79a0\jquery.yii.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c29b79a0\jquery.yiiactiveform.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c29b79a0\jquery.yiitab.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c29b79a0\jui\MIT-LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c29b79a0\jui\css\base\images\ui-bg_flat_0_aaaaaa_40x100.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c29b79a0\jui\css\base\images\ui-bg_flat_75_ffffff_40x100.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c29b79a0\jui\css\base\images\ui-bg_glass_55_fbf9ee_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c29b79a0\jui\css\base\images\ui-bg_glass_65_ffffff_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c29b79a0\jui\css\base\images\ui-bg_glass_75_dadada_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c29b79a0\jui\css\base\images\ui-bg_glass_75_e6e6e6_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c29b79a0\jui\css\base\images\ui-bg_glass_95_fef1ec_1x400.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c29b79a0\jui\css\base\images\ui-bg_highlight-soft_75_cccccc_1x100.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c29b79a0\jui\css\base\images\ui-icons_222222_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c29b79a0\jui\css\base\images\ui-icons_2e83ff_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c29b79a0\jui\css\base\images\ui-icons_454545_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c29b79a0\jui\css\base\images\ui-icons_888888_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c29b79a0\jui\css\base\images\ui-icons_cd0a0a_256x240.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c29b79a0\jui\css\base\jquery-ui.css" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c29b79a0\jui\css\base\jquery.ui.accordion.css" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c29b79a0\jui\css\base\jquery.ui.all.css" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c29b79a0\jui\css\base\jquery.ui.autocomplete.css" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c29b79a0\jui\css\base\jquery.ui.base.css" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c29b79a0\jui\css\base\jquery.ui.button.css" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c29b79a0\jui\css\base\jquery.ui.core.css" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c29b79a0\jui\css\base\jquery.ui.datepicker.css" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c29b79a0\jui\css\base\jquery.ui.dialog.css" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c29b79a0\jui\css\base\jquery.ui.progressbar.css" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c29b79a0\jui\css\base\jquery.ui.resizable.css" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c29b79a0\jui\css\base\jquery.ui.selectable.css" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c29b79a0\jui\css\base\jquery.ui.slider.css" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c29b79a0\jui\css\base\jquery.ui.tabs.css" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c29b79a0\jui\css\base\jquery.ui.theme.css" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c29b79a0\jui\js\jquery-ui-i18n.min.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c29b79a0\jui\js\jquery-ui.min.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c29b79a0\rating\delete.gif" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c29b79a0\rating\jquery.rating.css" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c29b79a0\rating\star.gif" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c29b79a0\treeview\images\ajax-loader.gif" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c29b79a0\treeview\images\file.gif" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c29b79a0\treeview\images\folder-closed.gif" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c29b79a0\treeview\images\folder.gif" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c29b79a0\treeview\images\minus.gif" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c29b79a0\treeview\images\plus.gif" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c29b79a0\treeview\images\treeview-black-line.gif" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c29b79a0\treeview\images\treeview-black.gif" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c29b79a0\treeview\images\treeview-default-line.gif" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c29b79a0\treeview\images\treeview-default.gif" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c29b79a0\treeview\images\treeview-famfamfam-line.gif" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c29b79a0\treeview\images\treeview-famfamfam.gif" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c29b79a0\treeview\images\treeview-gray-line.gif" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c29b79a0\treeview\images\treeview-gray.gif" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c29b79a0\treeview\images\treeview-red-line.gif" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c29b79a0\treeview\images\treeview-red.gif" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c29b79a0\treeview\jquery.treeview.css" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c29b79a0\yiitab\jquery.yiitab.css" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c5ae29e8\css\ie.css" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c5ae29e8\css\main.css" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c5ae29e8\css\print.css" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c5ae29e8\css\screen.css" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c5ae29e8\images\logo.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c5ae29e8\js\fancybox\blank.gif" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c5ae29e8\js\fancybox\fancy_close.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c5ae29e8\js\fancybox\fancy_loading.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c5ae29e8\js\fancybox\fancy_nav_left.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c5ae29e8\js\fancybox\fancy_nav_right.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c5ae29e8\js\fancybox\fancy_shadow_e.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c5ae29e8\js\fancybox\fancy_shadow_n.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c5ae29e8\js\fancybox\fancy_shadow_ne.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c5ae29e8\js\fancybox\fancy_shadow_nw.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c5ae29e8\js\fancybox\fancy_shadow_s.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c5ae29e8\js\fancybox\fancy_shadow_se.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c5ae29e8\js\fancybox\fancy_shadow_sw.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c5ae29e8\js\fancybox\fancy_shadow_w.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c5ae29e8\js\fancybox\fancy_title_left.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c5ae29e8\js\fancybox\fancy_title_main.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c5ae29e8\js\fancybox\fancy_title_over.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c5ae29e8\js\fancybox\fancy_title_right.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c5ae29e8\js\fancybox\fancybox-x.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c5ae29e8\js\fancybox\fancybox-y.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c5ae29e8\js\fancybox\fancybox.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c5ae29e8\js\fancybox\jquery.fancybox-1.3.1.css" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c5ae29e8\js\fancybox\jquery.fancybox-1.3.1.pack.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c5ae29e8\js\jquery.tooltip-1.2.6.min.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\assets\c5ae29e8\js\main.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\protected\phpmd\codesize.html" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\protected\phpmd\codesize.xml" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\protected\phpmd\naming.html" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\protected\phpmd\phpmd.html" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\protected\phpmd\unused.html" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\protected\tests\report\codecoverage\components.dashboard.html" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\protected\tests\report\codecoverage\components.html" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\protected\tests\report\codecoverage\components_UserIdentity.php.html" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\protected\tests\report\codecoverage\css\bootstrap-responsive.min.css" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\protected\tests\report\codecoverage\css\bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\protected\tests\report\codecoverage\css\style.css" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\protected\tests\report\codecoverage\img\glyphicons-halflings-white.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\protected\tests\report\codecoverage\img\glyphicons-halflings.png" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\protected\tests\report\codecoverage\index.dashboard.html" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\protected\tests\report\codecoverage\index.html" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\protected\tests\report\codecoverage\js\bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\protected\tests\report\codecoverage\js\highcharts.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\protected\tests\report\codecoverage\js\html5shiv.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\protected\tests\report\codecoverage\js\jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\protected\tests\report\codecoverage\models.dashboard.html" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\protected\tests\report\codecoverage\models.html" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\protected\tests\report\codecoverage\models_Account.php.html" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\protected\tests\report\codecoverage\models_Budget.php.html" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\protected\tests\report\codecoverage\models_Category.php.html" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\protected\tests\report\codecoverage\models_Transaction.php.html" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\protected\tests\report\codecoverage\models_User.php.html" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\protected\tests\report\report.html" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\protected\tests\report\report.xml" afterPath="" />
+      <change type="DELETED" beforePath="Z:\cloudbudgets.webdev\protected\tests\report\testdox.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/treeview/images/ajax-loader.gif" afterPath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/treeview/images/ajax-loader.gif" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/css/bg.gif" afterPath="$PROJECT_DIR$/themes/old/css/bg.gif" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/b0e4428a/js/fancybox/blank.gif" afterPath="$PROJECT_DIR$/themes/old/assets/b0e4428a/js/fancybox/blank.gif" />
@@ -773,21 +799,16 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.htaccess" afterPath="$PROJECT_DIR$/.htaccess" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/.htaccess" afterPath="$PROJECT_DIR$/protected/.htaccess" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/classic/views/.htaccess" afterPath="$PROJECT_DIR$/themes/classic/views/.htaccess" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/tests/fixtures/Account.php" afterPath="$PROJECT_DIR$/protected/tests/fixtures/Account.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/models/AccountType.php" afterPath="$PROJECT_DIR$/protected/models/AccountType.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/controllers/AccountsController.php" afterPath="$PROJECT_DIR$/protected/controllers/AccountsController.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/models/Budget.php" afterPath="$PROJECT_DIR$/protected/models/Budget.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/models/Budget_regi.php" afterPath="$PROJECT_DIR$/protected/models/Budget_regi.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/controllers/BudgetsController.php" afterPath="$PROJECT_DIR$/protected/controllers/BudgetsController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/controllers/CategoriesController.php" afterPath="$PROJECT_DIR$/protected/controllers/CategoriesController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/tests/unit/models/BudgetTest.php" afterPath="$PROJECT_DIR$/protected/tests/unit/models/BudgetTest.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/models/Category.php" afterPath="$PROJECT_DIR$/protected/models/Category.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/tests/fixtures/Category.php" afterPath="$PROJECT_DIR$/protected/tests/fixtures/Category.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/data/sqlQueries/Reports/Category.sql" afterPath="$PROJECT_DIR$/protected/data/sqlQueries/Reports/Category.sql" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/tests/unit/models/CategoryTest.php" afterPath="$PROJECT_DIR$/protected/tests/unit/models/CategoryTest.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/extensions/yiiext/highcharts/ColumnWidget.php" afterPath="$PROJECT_DIR$/protected/extensions/yiiext/highcharts/ColumnWidget.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/components/Command.php" afterPath="$PROJECT_DIR$/protected/components/Command.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/models/ContactForm.php" afterPath="$PROJECT_DIR$/protected/models/ContactForm.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/components/Controller.php" afterPath="$PROJECT_DIR$/protected/components/Controller.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/runtime/gii-1.1.9/ControllerCode.php" afterPath="$PROJECT_DIR$/protected/runtime/gii-1.1.9/ControllerCode.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/models/Country.php" afterPath="$PROJECT_DIR$/protected/models/Country.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/runtime/gii-1.1.9/CrudCode.php" afterPath="$PROJECT_DIR$/protected/runtime/gii-1.1.9/CrudCode.php" />
@@ -802,7 +823,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/extensions/Usoft/Email.php" afterPath="$PROJECT_DIR$/protected/extensions/Usoft/Email.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/extensions/Usoft/Html/Table/Header.php" afterPath="$PROJECT_DIR$/protected/extensions/Usoft/Html/Table/Header.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/extensions/yiiext/highcharts/HighchartsWidget.php" afterPath="$PROJECT_DIR$/protected/extensions/yiiext/highcharts/HighchartsWidget.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/widgets/HtmlMoneyValue.php" afterPath="$PROJECT_DIR$/protected/widgets/HtmlMoneyValue.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/models/LoginForm.php" afterPath="$PROJECT_DIR$/protected/models/LoginForm.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jui/MIT-LICENSE.txt" afterPath="$PROJECT_DIR$/themes/old/assets/6c4bd4c6/jui/MIT-LICENSE.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/runtime/gii-1.1.9/ModelCode.php" afterPath="$PROJECT_DIR$/protected/runtime/gii-1.1.9/ModelCode.php" />
@@ -813,6 +833,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/widgets/ReportColumnChart.php" afterPath="$PROJECT_DIR$/protected/widgets/ReportColumnChart.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/widgets/ReportPieChart.php" afterPath="$PROJECT_DIR$/protected/widgets/ReportPieChart.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/extensions/Rmail/Rmail.php" afterPath="$PROJECT_DIR$/protected/extensions/Rmail/Rmail.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/commands/RunTestsCommand.php" afterPath="$PROJECT_DIR$/protected/commands/RunTestsCommand.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/tests/functional/SiteTest.php" afterPath="$PROJECT_DIR$/protected/tests/functional/SiteTest.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/extensions/Usoft/Html/TableAbstract.php" afterPath="$PROJECT_DIR$/protected/extensions/Usoft/Html/TableAbstract.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/extensions/Usoft/Html/Tabs.php" afterPath="$PROJECT_DIR$/protected/extensions/Usoft/Html/Tabs.php" />
@@ -822,7 +843,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/models/TransactionStatus.php" afterPath="$PROJECT_DIR$/protected/models/TransactionStatus.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/tests/unit/models/TransactionTest.php" afterPath="$PROJECT_DIR$/protected/tests/unit/models/TransactionTest.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/models/TransactionType.php" afterPath="$PROJECT_DIR$/protected/models/TransactionType.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/tests/fixtures/User.php" afterPath="$PROJECT_DIR$/protected/tests/fixtures/User.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/models/User.php" afterPath="$PROJECT_DIR$/protected/models/User.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/widgets/UserCategoriesSelect.php" afterPath="$PROJECT_DIR$/protected/widgets/UserCategoriesSelect.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/UserIdentity.php.html" afterPath="$PROJECT_DIR$/misc/report/codecoverage/UserIdentity.php.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/tests/unit/components/UserIdentityTest.php" afterPath="$PROJECT_DIR$/protected/tests/unit/components/UserIdentityTest.php" />
@@ -839,10 +860,8 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/gii/crud/templates/default/_row.php" afterPath="$PROJECT_DIR$/protected/gii/crud/templates/default/_row.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/accounts/_row.php" afterPath="$PROJECT_DIR$/protected/views/accounts/_row.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/budgets/_row.php" afterPath="$PROJECT_DIR$/protected/views/budgets/_row.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/transaction/_row.php" afterPath="$PROJECT_DIR$/protected/views/transaction/_row.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/gii/crud/templates/default/_table.php" afterPath="$PROJECT_DIR$/protected/gii/crud/templates/default/_table.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/accounts/_table.php" afterPath="$PROJECT_DIR$/protected/views/accounts/_table.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/budgets/_table.php" afterPath="$PROJECT_DIR$/protected/views/budgets/_table.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/transaction/_table.php" afterPath="$PROJECT_DIR$/protected/views/transaction/_table.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/widgets/views/_userCategoriesAutoComplete.php" afterPath="$PROJECT_DIR$/protected/widgets/views/_userCategoriesAutoComplete.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/widgets/views/_userCategoriesSelect.php" afterPath="$PROJECT_DIR$/protected/widgets/views/_userCategoriesSelect.php" />
@@ -866,17 +885,15 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/assets/sampleTransactionImport/clearcheckbook/clearcheckbook.ofx" afterPath="$PROJECT_DIR$/protected/assets/sampleTransactionImport/clearcheckbook/clearcheckbook.ofx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/assets/sampleTransactionImport/clearcheckbook/clearcheckbook.qfx" afterPath="$PROJECT_DIR$/protected/assets/sampleTransactionImport/clearcheckbook/clearcheckbook.qfx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/assets/sampleTransactionImport/clearcheckbook/clearcheckbook.qif" afterPath="$PROJECT_DIR$/protected/assets/sampleTransactionImport/clearcheckbook/clearcheckbook.qif" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/cloudbudgets.com.iml" afterPath="$PROJECT_DIR$/.idea/cloudbudgets.com.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/layouts/old/column1.php" afterPath="$PROJECT_DIR$/protected/views/layouts/old/column1.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/layouts/old/column2.php" afterPath="$PROJECT_DIR$/protected/views/layouts/old/column2.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/components.dashboard.html" afterPath="$PROJECT_DIR$/misc/report/codecoverage/components.dashboard.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/tests/report/codecoverage/components.dashboard.html" afterPath="$PROJECT_DIR$/protected/tests/report/codecoverage/components.dashboard.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/components.html" afterPath="$PROJECT_DIR$/misc/report/codecoverage/components.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/tests/report/codecoverage/components.html" afterPath="$PROJECT_DIR$/protected/tests/report/codecoverage/components.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/components_Command.php.html" afterPath="$PROJECT_DIR$/misc/report/codecoverage/components_Command.php.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/components_Controller.php.html" afterPath="$PROJECT_DIR$/misc/report/codecoverage/components_Controller.php.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/components_Pager.php.html" afterPath="$PROJECT_DIR$/misc/report/codecoverage/components_Pager.php.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/components_UserIdentity.php.html" afterPath="$PROJECT_DIR$/misc/report/codecoverage/components_UserIdentity.php.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/tests/report/codecoverage/components_UserIdentity.php.html" afterPath="$PROJECT_DIR$/protected/tests/report/codecoverage/components_UserIdentity.php.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/site/contact.php" afterPath="$PROJECT_DIR$/protected/views/site/contact.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/container-min.js" afterPath="$PROJECT_DIR$/misc/report/codecoverage/container-min.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/container.css" afterPath="$PROJECT_DIR$/misc/report/codecoverage/container.css" />
@@ -889,7 +906,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/transaction/createMultiple.php" afterPath="$PROJECT_DIR$/protected/views/transaction/createMultiple.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/extensions/yiiext/highcharts/assets/themes/dark-blue.js" afterPath="$PROJECT_DIR$/protected/extensions/yiiext/highcharts/assets/themes/dark-blue.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/extensions/yiiext/highcharts/assets/themes/dark-green.js" afterPath="$PROJECT_DIR$/protected/extensions/yiiext/highcharts/assets/themes/dark-green.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/application/dashboard.php" afterPath="$PROJECT_DIR$/protected/views/application/dashboard.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/accounts/delete.php" afterPath="$PROJECT_DIR$/protected/views/accounts/delete.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/categories/delete.php" afterPath="$PROJECT_DIR$/protected/views/categories/delete.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/transaction/delete.php" afterPath="$PROJECT_DIR$/protected/views/transaction/delete.php" />
@@ -897,6 +913,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/extensions/yiiext/highcharts/assets/modules/exporting.js" afterPath="$PROJECT_DIR$/protected/extensions/yiiext/highcharts/assets/modules/exporting.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/extensions/yiiext/highcharts/assets/modules/exporting.src.js" afterPath="$PROJECT_DIR$/protected/extensions/yiiext/highcharts/assets/modules/exporting.src.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/css/form.css" afterPath="$PROJECT_DIR$/themes/old/css/form.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/frameworkRootSettings.xml" afterPath="$PROJECT_DIR$/.idea/frameworkRootSettings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/extensions/yiiext/highcharts/assets/themes/gray.js" afterPath="$PROJECT_DIR$/protected/extensions/yiiext/highcharts/assets/themes/gray.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/extensions/yiiext/highcharts/assets/themes/grid.js" afterPath="$PROJECT_DIR$/protected/extensions/yiiext/highcharts/assets/themes/grid.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/extensions/yiiext/highcharts/assets/highcharts-more.js" afterPath="$PROJECT_DIR$/protected/extensions/yiiext/highcharts/assets/highcharts-more.js" />
@@ -908,9 +925,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/transaction/import.php" afterPath="$PROJECT_DIR$/protected/views/transaction/import.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index-test.php" afterPath="$PROJECT_DIR$/index-test.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/index.dashboard.html" afterPath="$PROJECT_DIR$/misc/report/codecoverage/index.dashboard.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/tests/report/codecoverage/index.dashboard.html" afterPath="$PROJECT_DIR$/protected/tests/report/codecoverage/index.dashboard.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/index.html" afterPath="$PROJECT_DIR$/misc/report/codecoverage/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/tests/report/codecoverage/index.html" afterPath="$PROJECT_DIR$/protected/tests/report/codecoverage/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/gii/crud/templates/default/index.php" afterPath="$PROJECT_DIR$/protected/gii/crud/templates/default/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/gii/crud/views/index.php" afterPath="$PROJECT_DIR$/protected/gii/crud/views/index.php" />
@@ -975,24 +990,18 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/extensions/Rmail/mimePart.php" afterPath="$PROJECT_DIR$/protected/extensions/Rmail/mimePart.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/assets/sampleTransactionImport/mint/mint_transactions.csv" afterPath="$PROJECT_DIR$/protected/assets/sampleTransactionImport/mint/mint_transactions.csv" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/models.dashboard.html" afterPath="$PROJECT_DIR$/misc/report/codecoverage/models.dashboard.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/tests/report/codecoverage/models.dashboard.html" afterPath="$PROJECT_DIR$/protected/tests/report/codecoverage/models.dashboard.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/models.html" afterPath="$PROJECT_DIR$/misc/report/codecoverage/models.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/tests/report/codecoverage/models.html" afterPath="$PROJECT_DIR$/protected/tests/report/codecoverage/models.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/models_Account.php.html" afterPath="$PROJECT_DIR$/misc/report/codecoverage/models_Account.php.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/tests/report/codecoverage/models_Account.php.html" afterPath="$PROJECT_DIR$/protected/tests/report/codecoverage/models_Account.php.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/models_AccountType.php.html" afterPath="$PROJECT_DIR$/misc/report/codecoverage/models_AccountType.php.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/models_Category.php.html" afterPath="$PROJECT_DIR$/misc/report/codecoverage/models_Category.php.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/tests/report/codecoverage/models_Category.php.html" afterPath="$PROJECT_DIR$/protected/tests/report/codecoverage/models_Category.php.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/models_ContactForm.php.html" afterPath="$PROJECT_DIR$/misc/report/codecoverage/models_ContactForm.php.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/models_Country.php.html" afterPath="$PROJECT_DIR$/misc/report/codecoverage/models_Country.php.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/models_Currency.php.html" afterPath="$PROJECT_DIR$/misc/report/codecoverage/models_Currency.php.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/models_LoginForm.php.html" afterPath="$PROJECT_DIR$/misc/report/codecoverage/models_LoginForm.php.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/models_Transaction.php.html" afterPath="$PROJECT_DIR$/misc/report/codecoverage/models_Transaction.php.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/tests/report/codecoverage/models_Transaction.php.html" afterPath="$PROJECT_DIR$/protected/tests/report/codecoverage/models_Transaction.php.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/models_TransactionStatus.php.html" afterPath="$PROJECT_DIR$/misc/report/codecoverage/models_TransactionStatus.php.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/models_TransactionType.php.html" afterPath="$PROJECT_DIR$/misc/report/codecoverage/models_TransactionType.php.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/models_User.php.html" afterPath="$PROJECT_DIR$/misc/report/codecoverage/models_User.php.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/tests/report/codecoverage/models_User.php.html" afterPath="$PROJECT_DIR$/protected/tests/report/codecoverage/models_User.php.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/models_UserLogin.php.html" afterPath="$PROJECT_DIR$/misc/report/codecoverage/models_UserLogin.php.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/extensions/yiiext/highcharts/assets/adapters/mootools-adapter.js" afterPath="$PROJECT_DIR$/protected/extensions/yiiext/highcharts/assets/adapters/mootools-adapter.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/extensions/yiiext/highcharts/assets/adapters/mootools-adapter.src.js" afterPath="$PROJECT_DIR$/protected/extensions/yiiext/highcharts/assets/adapters/mootools-adapter.src.js" />
@@ -1006,9 +1015,7 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/extensions/yiiext/behaviors/model/trees/readme_ru.html" afterPath="$PROJECT_DIR$/protected/extensions/yiiext/behaviors/model/trees/readme_ru.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/site/pages/registerSuccess.php" afterPath="$PROJECT_DIR$/protected/views/site/pages/registerSuccess.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/report.html" afterPath="$PROJECT_DIR$/misc/report/report.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/tests/report/report.html" afterPath="$PROJECT_DIR$/protected/tests/report/report.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/report.xml" afterPath="$PROJECT_DIR$/misc/report/report.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/tests/report/report.xml" afterPath="$PROJECT_DIR$/protected/tests/report/report.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/extensions/yiiext/behaviors/model/trees/schema.sql" afterPath="$PROJECT_DIR$/protected/extensions/yiiext/behaviors/model/trees/schema.sql" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/extensions/yiiext/behaviors/model/trees/schema_with_many_roots.sql" afterPath="$PROJECT_DIR$/protected/extensions/yiiext/behaviors/model/trees/schema_with_many_roots.sql" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/old/assets/b0e4428a/css/screen.css" afterPath="$PROJECT_DIR$/themes/old/assets/b0e4428a/css/screen.css" />
@@ -1016,10 +1023,9 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/extensions/yiiext/highcharts/assets/themes/skies.js" afterPath="$PROJECT_DIR$/protected/extensions/yiiext/highcharts/assets/themes/skies.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/extensions/Rmail/smtp.php" afterPath="$PROJECT_DIR$/protected/extensions/Rmail/smtp.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/runtime/state.bin" afterPath="$PROJECT_DIR$/protected/runtime/state.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/codecoverage/style.css" afterPath="$PROJECT_DIR$/misc/report/codecoverage/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/runtime/log/test_migrate.log" afterPath="$PROJECT_DIR$/protected/runtime/log/test_migrate.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/misc/report/testdox.html" afterPath="$PROJECT_DIR$/misc/report/testdox.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/tests/report/testdox.html" afterPath="$PROJECT_DIR$/protected/tests/report/testdox.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/gii/crud/templates/default/update.php" afterPath="$PROJECT_DIR$/protected/gii/crud/templates/default/update.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/accounts/update.php" afterPath="$PROJECT_DIR$/protected/views/accounts/update.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/budgets/update.php" afterPath="$PROJECT_DIR$/protected/views/budgets/update.php" />
@@ -1037,19 +1043,27 @@
     </list>
     <ignored path="cloudbudgets.com.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="a5aa2c0a-e04a-4c89-947d-599e52d1c0b8" time="1374425834203" ignored="false" />
+    <file path="/Dummy.txt" changelist="a5aa2c0a-e04a-4c89-947d-599e52d1c0b8" time="1380996950549" ignored="false" />
     <file path="/a.php" changelist="a5aa2c0a-e04a-4c89-947d-599e52d1c0b8" time="1373922269759" ignored="false" />
     <file path="/Budget_regi.php" changelist="a5aa2c0a-e04a-4c89-947d-599e52d1c0b8" time="1373922643394" ignored="false" />
     <file path="/BudgetsController.php" changelist="a5aa2c0a-e04a-4c89-947d-599e52d1c0b8" time="1373923236695" ignored="false" />
-    <file path="/_row.php" changelist="a5aa2c0a-e04a-4c89-947d-599e52d1c0b8" time="1374440063011" ignored="false" />
-    <file path="/Budget.php" changelist="a5aa2c0a-e04a-4c89-947d-599e52d1c0b8" time="1374441324665" ignored="false" />
-    <file path="/_table.php" changelist="a5aa2c0a-e04a-4c89-947d-599e52d1c0b8" time="1374175059296" ignored="false" />
+    <file path="/_row.php" changelist="a5aa2c0a-e04a-4c89-947d-599e52d1c0b8" time="1375650398018" ignored="false" />
+    <file path="/Budget.php" changelist="a5aa2c0a-e04a-4c89-947d-599e52d1c0b8" time="1375381591927" ignored="false" />
+    <file path="/_table.php" changelist="a5aa2c0a-e04a-4c89-947d-599e52d1c0b8" time="1375379494768" ignored="false" />
     <file path="/HtmlMoneyValue.php" changelist="a5aa2c0a-e04a-4c89-947d-599e52d1c0b8" time="1374175502235" ignored="false" />
-    <file path="/BudgetTest.php" changelist="a5aa2c0a-e04a-4c89-947d-599e52d1c0b8" time="1374441264831" ignored="false" />
+    <file path="/BudgetTest.php" changelist="a5aa2c0a-e04a-4c89-947d-599e52d1c0b8" time="1375382208455" ignored="false" />
     <file path="/Account.php" changelist="a5aa2c0a-e04a-4c89-947d-599e52d1c0b8" time="1374178873958" ignored="false" />
-    <file path="/phpunit.xml" changelist="a5aa2c0a-e04a-4c89-947d-599e52d1c0b8" time="1374425886056" ignored="false" />
-    <file path="/CategoryTest.php" changelist="a5aa2c0a-e04a-4c89-947d-599e52d1c0b8" time="1374427397074" ignored="false" />
-    <file path="/Category.php" changelist="a5aa2c0a-e04a-4c89-947d-599e52d1c0b8" time="1374439224643" ignored="false" />
+    <file path="/phpunit.xml" changelist="a5aa2c0a-e04a-4c89-947d-599e52d1c0b8" time="1375381436491" ignored="false" />
+    <file path="/CategoryTest.php" changelist="a5aa2c0a-e04a-4c89-947d-599e52d1c0b8" time="1375294161381" ignored="false" />
+    <file path="/Category.php" changelist="a5aa2c0a-e04a-4c89-947d-599e52d1c0b8" time="1374954005558" ignored="false" />
+    <file path="/TransactionTest.php" changelist="a5aa2c0a-e04a-4c89-947d-599e52d1c0b8" time="1374787741882" ignored="false" />
+    <file path="/Transaction.php" changelist="a5aa2c0a-e04a-4c89-947d-599e52d1c0b8" time="1374529529174" ignored="false" />
+    <file path="/RunTestsCommand.php" changelist="a5aa2c0a-e04a-4c89-947d-599e52d1c0b8" time="1374788266832" ignored="false" />
+    <file path="/UserTest.php" changelist="a5aa2c0a-e04a-4c89-947d-599e52d1c0b8" time="1374945183109" ignored="false" />
+    <file path="/User.php" changelist="a5aa2c0a-e04a-4c89-947d-599e52d1c0b8" time="1374944902856" ignored="false" />
+    <file path="/UserIdentityTest.php" changelist="a5aa2c0a-e04a-4c89-947d-599e52d1c0b8" time="1375295879250" ignored="false" />
+    <file path="/dummy.xml" changelist="a5aa2c0a-e04a-4c89-947d-599e52d1c0b8" time="1375379720135" ignored="false" />
+    <file path="/style.css" changelist="a5aa2c0a-e04a-4c89-947d-599e52d1c0b8" time="1375648408280" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -1074,19 +1088,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Budget.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/protected/tests/fixtures/Budget.php">
+      <file leaf-file-name="_row.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/protected/views/budgets/_row.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="0" selection-start="175" selection-end="175" vertical-scroll-proportion="-5.3333335">
+            <state line="15" column="0" selection-start="559" selection-end="559" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BudgetTest.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="BudgetTest.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/protected/tests/unit/models/BudgetTest.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="84" column="0" selection-start="2473" selection-end="2473" vertical-scroll-proportion="0.6658446">
+            <state line="158" column="65" selection-start="6305" selection-end="6305" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -1095,16 +1109,7 @@
       <file leaf-file-name="phpunit.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/protected/tests/phpunit.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="19" selection-start="471" selection-end="471" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Transaction.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/protected/models/Transaction.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="186" column="0" selection-start="6278" selection-end="6278" vertical-scroll-proportion="-78.703705">
+            <state line="1" column="20" selection-start="49" selection-end="49" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -1113,25 +1118,52 @@
       <file leaf-file-name="Budget.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/protected/models/Budget.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="61" column="0" selection-start="1745" selection-end="1745" vertical-scroll-proportion="-30.518518">
+            <state line="204" column="0" selection-start="5351" selection-end="5351" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_row.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/protected/views/budgets/_row.php">
+      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="0" selection-start="68" selection-end="68" vertical-scroll-proportion="-3.3333333">
+            <state line="90" column="21" selection-start="1298" selection-end="1298" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Category.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/protected/models/Category.php">
+      <file leaf-file-name="_table.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/protected/views/budgets/_table.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="153" column="0" selection-start="3987" selection-end="3987" vertical-scroll-proportion="-18.666666">
+            <state line="26" column="0" selection-start="745" selection-end="745" vertical-scroll-proportion="-17.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="0" selection-start="175" selection-end="175" vertical-scroll-proportion="-3.2692308">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index-test.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index-test.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="58" selection-start="248" selection-end="248" vertical-scroll-proportion="-2.6153846">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="yiic.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/protected/yiic.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="0" selection-start="195" selection-end="195" vertical-scroll-proportion="0.14424242">
               <folding />
             </state>
           </provider>
@@ -1156,32 +1188,33 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/protected/tests/unit/models/TransactionTest.php" />
-        <option value="$PROJECT_DIR$/protected/tests/unit/components/UserIdentityTest.php" />
-        <option value="$PROJECT_DIR$/protected/tests/fixtures/User.php" />
+        <option value="$PROJECT_DIR$/protected/commands/RunTestsCommand.php" />
+        <option value="$PROJECT_DIR$/protected/extensions/yii-debug-toolbar/views/panels/sql/callstack.php" />
+        <option value="$PROJECT_DIR$/protected/models/User.php" />
         <option value="$PROJECT_DIR$/protected/tests/unit/models/UserTest.php" />
-        <option value="$PROJECT_DIR$/protected/tests/fixtures/Account.php" />
-        <option value="$PROJECT_DIR$/protected/tests/fixtures/Category.php" />
         <option value="$PROJECT_DIR$/protected/tests/unit/models/CategoryTest.php" />
-        <option value="$PROJECT_DIR$/protected/tests/fixtures/Transaction.php" />
-        <option value="$PROJECT_DIR$/protected/models/Transaction.php" />
-        <option value="$PROJECT_DIR$/protected/controllers/CategoriesController.php" />
         <option value="$PROJECT_DIR$/protected/models/Category.php" />
-        <option value="$PROJECT_DIR$/protected/views/budgets/_row.php" />
+        <option value="$PROJECT_DIR$/protected/tests/unit/components/UserIdentityTest.php" />
         <option value="$PROJECT_DIR$/protected/tests/phpunit.xml" />
-        <option value="$PROJECT_DIR$/protected/models/Budget.php" />
-        <option value="$PROJECT_DIR$/protected/tests/fixtures/Budget.php" />
         <option value="$PROJECT_DIR$/protected/tests/unit/models/BudgetTest.php" />
+        <option value="$PROJECT_DIR$/protected/models/Budget.php" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/protected/views/budgets/_row.php" />
+        <option value="$PROJECT_DIR$/protected/views/budgets/_table.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/index-test.php" />
+        <option value="$PROJECT_DIR$/protected/yiic.php" />
       </list>
     </option>
   </component>
+  <component name="PhpDebugGeneral" xdebug_force_break_when_no_path_mapping="false" xdebug_force_break_when_outside_project="false" />
   <component name="PhpServers">
     <option name="servers">
       <server host="192.168.137.101" name="Debian" port="9000" use_path_mappings="true">
         <path_mappings>
-          <path_mapping local_path="W:/.includes/PHPUnit" remote_path="W:\.includes\PHPUnit" />
-          <path_mapping local_path="$PROJECT_DIR$" remote_path="W:\cloudbudgets.com" />
-          <path_mapping local_path="W:/.includes/Yii" remote_path="W:\.includes\Yii" />
+          <path_mapping local_path="$PROJECT_DIR$" remote_path="/var/www/cloudbudgets.com" />
+          <path_mapping local_path="W:/.includes/PHPUnit" remote_path="/var/www/.includes/PHPUnit" />
+          <path_mapping local_path="W:/.includes/Yii" remote_path="/var/www/.includes/Yii" />
         </path_mappings>
       </server>
       <server host="cloudbudgets.debian" name="cloudbudgets.debian" use_path_mappings="true">
@@ -1196,7 +1229,7 @@
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true">
     <include_path>
       <path value="W:\.includes\PHPUnit" />
-      <path value="W:\.includes\Yii" />
+      <path value="Z:\_includes\yii-1.1.14\framework" />
     </include_path>
   </component>
   <component name="ProjectFrameBounds">
@@ -1290,7 +1323,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="cloudbudgets.com" />
+              <option name="myItemId" value="cloudbudgets.webdev" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1300,309 +1333,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="cloudbudgets.com" />
+              <option name="myItemId" value="cloudbudgets.webdev" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="protected" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cloudbudgets.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cloudbudgets.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="protected" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="widgets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cloudbudgets.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cloudbudgets.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="protected" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="transaction" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cloudbudgets.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cloudbudgets.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="protected" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cloudbudgets.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cloudbudgets.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="protected" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="budgets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cloudbudgets.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cloudbudgets.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="protected" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tests" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cloudbudgets.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cloudbudgets.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="protected" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tests" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="unit" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="models" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cloudbudgets.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cloudbudgets.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="protected" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tests" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="unit" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="components" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cloudbudgets.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cloudbudgets.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="protected" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tests" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="fixtures" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cloudbudgets.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cloudbudgets.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="protected" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="models" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cloudbudgets.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cloudbudgets.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="protected" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controllers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cloudbudgets.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cloudbudgets.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="protected" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="components" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cloudbudgets.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cloudbudgets.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="protected" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="commands" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cloudbudgets.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cloudbudgets.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="misc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cloudbudgets.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cloudbudgets.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="misc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="report" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cloudbudgets.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cloudbudgets.com" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="misc" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="report" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="codecoverage" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1614,9 +1349,9 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="options.lastSelected" value="editor.preferences.appearance" />
+    <property name="options.lastSelected" value="Configurable.PHP.Debug.DBGPProxy" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="W:/MyRecord" />
+    <property name="last_opened_file_path" value="Z:/_includes/yii-1.1.14/framework" />
     <property name="GoToClass.includeJavaFiles" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
@@ -1709,21 +1444,21 @@
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.36" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3189066" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32914287" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32986537" sideWeight="0.6342857" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25275397" sideWeight="0.6342857" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32986537" sideWeight="0.6342857" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Framework" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32986537" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24112608" sideWeight="0.6343964" order="1" side_tool="true" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4453303" sideWeight="0.497552" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.36571428" sideWeight="0.49816403" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32986537" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" x="23" y="366" width="1634" height="288" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32914287" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.249694" sideWeight="0.6342857" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21603428" sideWeight="0.6810934" order="1" side_tool="true" content_ui="combo" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.36560366" sideWeight="0.49816403" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32876712" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" x="23" y="366" width="1634" height="288" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5302013" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3288364" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
@@ -1790,118 +1525,104 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="6" />
+      <option name="time" value="9" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/protected/tests/fixtures/Transaction.php">
+    <entry file="file://$PROJECT_DIR$/protected/components/UserIdentity.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="6" selection-end="6" vertical-scroll-proportion="-0.6666667">
-          <folding />
-        </state>
+        <state line="8" column="6" selection-start="187" selection-end="187" vertical-scroll-proportion="0.034026466" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/protected/tests/fixtures/Category.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="15" selection-start="23" selection-end="33" vertical-scroll-proportion="-2.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/protected/tests/unit/models/TransactionTest.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="34" selection-start="447" selection-end="447" vertical-scroll-proportion="0.37731197">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/protected/tests/unit/models/CategoryTest.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="232" selection-end="232" vertical-scroll-proportion="0.3276699">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/misc/report/codecoverage/index.dashboard.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="106" column="67" selection-start="4085" selection-end="4085" vertical-scroll-proportion="3.6551723">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/protected/models/Category.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="153" column="0" selection-start="3987" selection-end="3987" vertical-scroll-proportion="-18.666666">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/protected/views/budgets/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="65" selection-start="395" selection-end="395" vertical-scroll-proportion="0.28853267">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/protected/views/budgets/_row.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="68" selection-end="68" vertical-scroll-proportion="-3.3333333">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/protected/controllers/CategoriesController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="0" selection-start="952" selection-end="952" vertical-scroll-proportion="-14.037037">
-          <folding />
-        </state>
+        <state line="8" column="15" selection-start="612" selection-end="622" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/protected/models/Transaction.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="186" column="0" selection-start="6278" selection-end="6278" vertical-scroll-proportion="-78.703705">
-          <folding />
-        </state>
+        <state line="15" column="26" selection-start="461" selection-end="467" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/protected/tests/bootstrap.php">
+    <entry file="file://$PROJECT_DIR$/protected/models/Category.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="182" column="45" selection-start="4988" selection-end="4988" vertical-scroll-proportion="0.4347826" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/tests/unit/models/CategoryTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="75" column="48" selection-start="2464" selection-end="2464" vertical-scroll-proportion="0.701107" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/tests/unit/models/UserTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="90" selection-start="449" selection-end="530" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/tests/unit/components/UserIdentityTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="52" column="39" selection-start="1691" selection-end="1691" vertical-scroll-proportion="0.65048546" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/protected/tests/phpunit.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="19" selection-start="471" selection-end="471" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/protected/models/Budget.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="0" selection-start="1745" selection-end="1745" vertical-scroll-proportion="-30.518518">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/protected/controllers/BudgetsController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/protected/tests/fixtures/Budget.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="175" selection-end="175" vertical-scroll-proportion="-5.3333335">
+        <state line="1" column="20" selection-start="49" selection-end="49" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/protected/tests/unit/models/BudgetTest.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="84" column="0" selection-start="2473" selection-end="2473" vertical-scroll-proportion="0.6658446">
+        <state line="158" column="65" selection-start="6305" selection-end="6305" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/models/Budget.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="204" column="0" selection-start="5351" selection-end="5351" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="90" column="21" selection-start="1298" selection-end="1298" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/views/budgets/_row.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="0" selection-start="559" selection-end="559" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/views/budgets/_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="0" selection-start="745" selection-end="745" vertical-scroll-proportion="-17.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="0" selection-start="175" selection-end="175" vertical-scroll-proportion="-3.2692308">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index-test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="58" selection-start="248" selection-end="248" vertical-scroll-proportion="-2.6153846">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/yiic.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="0" selection-start="195" selection-end="195" vertical-scroll-proportion="0.14424242">
           <folding />
         </state>
       </provider>

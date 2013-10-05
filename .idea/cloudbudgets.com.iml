@@ -7,12 +7,10 @@
     <orderEntry type="module-library">
       <library name="PHP">
         <CLASSES>
-          <root url="file://W:/.includes/Yii" />
-          <root url="file://W:/.includes/PHPUnit" />
+          <root url="file://Z:/_includes/yii-1.1.14/framework" />
         </CLASSES>
         <SOURCES>
-          <root url="file://W:/.includes/Yii" />
-          <root url="file://W:/.includes/PHPUnit" />
+          <root url="file://Z:/_includes/yii-1.1.14/framework" />
         </SOURCES>
       </library>
     </orderEntry>

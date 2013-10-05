@@ -1,5 +1,12 @@
 <?php
-
+/**
+ * Class TransactionTest
+ *
+ * @property Transaction[] $transactions Returns the fixture transaction array.
+ * @method Account accounts() accounts($name) Returns the fixture account.
+ * @method User users() users($name) Returns the fixture user.
+ * @method Category categories() categories($name) Returns the fixture category.
+ */
 class TransactionTest extends CDbTestCase
 {
 	public $fixtures = array(
@@ -364,5 +371,24 @@ class TransactionTest extends CDbTestCase
 
 		$transferTransaction = $transaction->getConnectedTransaction();
 		$this->assertNull($transferTransaction);
+    }
+
+    public function testModifyingTransferTransaction()
+    {
+        $transaction = new Transaction();
+        $transaction->attributes = $this->transactions['notSaved_1'];
+        $transaction->transaction_type_id = Transaction::TYPE_TRANSFER;
+        $transaction->transaction_status_id = Transaction::STATUS_CLEARED;
+        $transaction->to_account_id = $this->accounts('activeAccount_1')->id;
+        $transaction->save();
+
+        $transaction_id = $transaction->id;
+
+        $transaction = Transaction::model()->findByPk($transaction_id);
+        $transaction->transferTransaction->id;
+        $transaction->amount = 5000;
+        $transaction->save();
+
+        $this->assertEquals(-1 * $transaction->amount, $transaction->getTransferTransaction()->amount);
     }
 }

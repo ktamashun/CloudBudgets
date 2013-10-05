@@ -13,13 +13,6 @@ class TransactionController extends Controller
 		$model->account_balance = 0;
 		$model->transaction_status_id = Transaction::STATUS_CLEARED;
 		$model->transaction_type_id = 'Transfer' === $transaction_type ? Transaction::TYPE_TRANSFER : Transaction::TYPE_EXPENSE;
-
-		/*if ('Transfer' === $transaction_type) {
-			$model->transaction_type_id = Transaction::TYPE_TRANSFER;
-		} else {
-			$model->transaction_type_id = Transaction::TYPE_EXPENSE;
-		}*/
-
 		$model->account_id = null === $account_id ? null : ((int)Account::model()->findByPk($account_id)->user_id === (int)$this->user->id ? $account_id : null);
 
 		if(isset($_POST['Transaction']))

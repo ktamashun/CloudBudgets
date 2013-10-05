@@ -11,8 +11,8 @@
 /**
  * Class BudgetTest
  *
- * @property Transaction[] transactions Returns the fixture transaction array.
- * @property Budget budgets[] Returns the fixture budget array.
+ * @property Transaction[] $transactions Returns the fixture transaction array.
+ * @property Budget[] $budgets Returns the fixture budget array.
  * @method Budget budgets() budgets($name) Returns the fixture budget.
  * @method User users() users($name) Returns the fixture user.
  * @method Category categories() categories($name) Returns the fixture category.
@@ -140,5 +140,22 @@ class BudgetTest extends CDbTestCase
         $this->assertEquals($transaction->amount, $foodBudget->getTransactionSumForMonth($transaction->date));
         $this->assertEquals($foodBudget->limit - abs($transaction->amount), $foodBudget->getBalanceForMonth($transaction->date));
         $this->assertEquals($foodBudget->getBalanceForMonth($transaction->date), $foodBudget->getBalanceForMonth());
+    }
+
+    public function testGetBalancePercentForMonth()
+    {
+        $foodBudget = $this->budgets('ktamas_Food');
+        $foodCategory = $this->categories('Food');
+        $transaction = $this->_addTransactionToCategory($foodCategory);
+
+        $this->assertNotNull($transaction->id);
+        $this->assertEquals($foodCategory->id, $transaction->category_id, 'The category_id of the saved transaction doesn\'t match the given category\'s id.');
+        $this->assertEquals($transaction->amount, $foodBudget->getTransactionSumForMonth($transaction->date));
+        $this->assertEquals($foodBudget->limit - abs($transaction->amount), $foodBudget->getBalanceForMonth($transaction->date));
+        $this->assertEquals($foodBudget->getBalanceForMonth($transaction->date), $foodBudget->getBalanceForMonth());
+
+        $date = $transaction->date;
+        $balancePercent = round((abs($foodBudget->getTransactionSumForMonth($date)) / $foodBudget->limit) * 100);
+        $this->assertEquals($balancePercent, $foodBudget->getBalancePercentForMonth($date));
     }
 }

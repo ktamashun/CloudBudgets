@@ -49,4 +49,14 @@ class UserIdentityTest extends CDbTestCase
 		$this->assertFalse($identity->authenticate(), 'Authentication was successful with inactive user!');
 		$this->assertNull($identity->user);
 	}
+
+    public function testGetNameAndGetId()
+    {
+        $userRow = $this->users['ktamas'];
+
+        $identity = new UserIdentity($userRow['email_address'], $userRow['original_password']);
+        $this->assertTrue($identity->authenticate());
+        $this->assertEquals($userRow['id'], $identity->getId());
+        $this->assertEquals($userRow['first_name'], $identity->getName());
+    }
 }

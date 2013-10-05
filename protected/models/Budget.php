@@ -202,4 +202,15 @@ class Budget extends CActiveRecord
 
 		return $this->limit - abs($this->getTransactionSumForMonth($date));
 	}
+
+    /**
+     * Returns the percentage of balance to limit ratio.
+     *
+     * @param null $date
+     * @return int The percentage between 0 and 100.
+     */
+    public function getBalancePercentForMonth($date = null)
+    {
+        return round((abs($this->getTransactionSumForMonth($date)) / $this->limit) * 100);
+    }
 }

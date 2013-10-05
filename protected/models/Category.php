@@ -105,10 +105,12 @@ class Category extends CActiveRecord
     {
         if ($this->getIsNewRecord()) {
             $category = Category::model()->find('name = :name AND user_id = :user_id', array('name' => $this->name, 'user_id' => $this->user_id));
+        } else {
+            $category = Category::model()->find('name = :name AND user_id = :user_id AND id <> :id', array('name' => $this->name, 'user_id' => $this->user_id, 'id' => $this->id));
+        }
 
-    		if (null !== $category) {
-    			$this->addError('name', 'A category with this name already exists.');
-    		}
+        if (null !== $category) {
+            $this->addError('name', 'A category with this name already exists.');
         }
     }
 
@@ -175,10 +177,10 @@ class Category extends CActiveRecord
 	 * @param null $dateFrom
 	 * @param null $dateTo
 	 * @return array
-	 */public function getReportCriteria($dateFrom = null, $dateTo = null)
+	 */public function getReportCriteriaArray($dateFrom = null, $dateTo = null)
        {
             $criteria = new CDbCriteria();
-            $criteria->select = 'SUM(t.value) AS transactionSum';
+            $criteria->select = 'SUM(t.amount) AS transactionSum';
             $criteria->join = 'JOIN category c ON (c.user_id = ' . $this->user_id . ' AND c.id = t.category_id AND c.lft >= ' . $this->lft . ' AND c.rgt <= ' . $this->rgt . ')';
             $criteria->group = 'c.user_id';
             $criteria->order = 't.date DESC, t.id DESC';
